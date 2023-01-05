@@ -11,7 +11,7 @@ Reveal.initialize({
     transition: 'convex', // none/fade/slide/convex/concave/zoom
     
     // Vertical centering of slides
-    center: false,
+    center: true,
 
     preloadIframes: true,
 
