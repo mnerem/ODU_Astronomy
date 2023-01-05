@@ -12,9 +12,9 @@ Intro Astronomy Lectures at Old Dominion University
 
 ## Google Slides
 - [1 Science and the Universe: A Brief Tour](01-Science_and_the_Universe_A_Brief_Tour/01-Science_and_the_Universe_A_Brief_Tour.html)
-- [2 Observing the Sky: The Birth of Astronomy](02-Observing_the_Sky_The_Birth_of_Astronomy/https://docs.google.com/presentation/d/1jwitYltHyGEcvwNQdCTHmmMnyOSV-Atzsj08taD6AcA/edit?usp=share_link)
-- [3 Orbits and Gravity](03-Orbits_and_Gravity/https://docs.google.com/presentation/d/1lJxldttDuAh24F5PVStTrV_3SJSaTYW8bHoJdT6kyh8/edit?usp=share_link)
-- [4 Earth, Moon, and Sky](04-Earth_Moon_and_Sky/https://docs.google.com/presentation/d/13Mb8-Ij-JTPINXXivxFaXpylZ9gCVojk7B9McyTean4/edit?usp=share_link)
+- [2 Observing the Sky: The Birth of Astronomy](https://docs.google.com/presentation/d/1jwitYltHyGEcvwNQdCTHmmMnyOSV-Atzsj08taD6AcA/edit?usp=share_link)
+- [3 Orbits and Gravity](https://docs.google.com/presentation/d/1lJxldttDuAh24F5PVStTrV_3SJSaTYW8bHoJdT6kyh8/edit?usp=share_link)
+- [4 Earth, Moon, and Sky](https://docs.google.com/presentation/d/13Mb8-Ij-JTPINXXivxFaXpylZ9gCVojk7B9McyTean4/edit?usp=share_link)
 - [5 Radiation and Spectra](05-Radiation_and_Spectra/05-Radiation_and_Spectra.html)
 - [6 Astronomical Instruments](06-Astronomical_Instruments/06-Astronomical_Instruments.html)
 - [7 Other Worlds: An Introduction to the Solar System](07-Other_Worlds_An_Introduction_to_the_Solar_System/07-Other_Worlds_An_Introduction_to_the_Solar_System.html)
