@@ -60,7 +60,7 @@ table td, table td * {
 }
 
 .overl {background-color:rgba(0,55,132,1);}
-.mathbox {background-color:rgba(250,250,250,.7);}
+.mathbox {background-color:rgba(250,250,250,.9);}
 
 .reveal p {
   text-align: left;
