@@ -35,7 +35,7 @@ Intro Astronomy Lectures at Old Dominion University
 - [22 Stars from Adolescence to Old Age](https://docs.google.com/presentation/d/1ROgFga1fpUV23QBqN3FO_Il4cUlWEvu15hbqU6pbUuM/edit?usp=share_link)
 - [23 The Death of Stars](https://docs.google.com/presentation/d/1ROgFga1fpUV23QBqN3FO_Il4cUlWEvu15hbqU6pbUuM/edit?usp=share_link)
 - [24 Black Holes and Curved Spacetime](https://docs.google.com/presentation/d/1TcWF-2mrEQEw0XKzbsq7bZ2_FmsA4ebvmJ4BFcZIMtQ/edit?usp=share_link)
-- [25 The Milky Way Galaxy](25-The_Milky_Way_Galaxy/25-The_Milky_Way_Galaxy.html)
+- [25 The Milky Way Galaxy](https://docs.google.com/presentation/d/1oL21EB__-Hmt5fiUMRGdXgy5HoYdxUZaEjLXDuIW2eg/edit?usp=sharing)
 - [26 Galaxies](26-Galaxies/26-Galaxies.html)
 - [27 Active Galaxies, Quasars, and Supermassive Black Holes](27-Active_Galaxies_Quasars_and_Supermassive_Black_Holes/27-Active_Galaxies_Quasars_and_Supermassive_Black_Holes.html)
 - [28 The Evolution and Distribution of Galaxies](28-The_Evolution_and_Distribution_of_Galaxies/28-The_Evolution_and_Distribution_of_Galaxies.html)
