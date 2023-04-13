@@ -38,8 +38,8 @@ Intro Astronomy Lectures at Old Dominion University
 - [25 The Milky Way Galaxy](https://docs.google.com/presentation/d/1oL21EB__-Hmt5fiUMRGdXgy5HoYdxUZaEjLXDuIW2eg/edit?usp=sharing)
 - [26 Galaxies](26-Galaxies/26-Galaxies.html)
 - [27 Active Galaxies, Quasars, and Supermassive Black Holes](27-Active_Galaxies_Quasars_and_Supermassive_Black_Holes/27-Active_Galaxies_Quasars_and_Supermassive_Black_Holes.html)
-- [28 The Evolution and Distribution of Galaxies](28-The_Evolution_and_Distribution_of_Galaxies/28-The_Evolution_and_Distribution_of_Galaxies.html)
-- [29 The Big Bang](29-The_Big_Bang/29-The_Big_Bang.html)
+- [28 The Evolution and Distribution of Galaxies](https://docs.google.com/presentation/d/15eYgTMEga3uHuyn72K-c0uSeo5XauhJQnihrI4U_NLc/edit?usp=sharing)
+- [29 The Big Bang](https://docs.google.com/presentation/d/1lDNr6fAl1NaYcWtvKOCepHertKNKlXMpRYYJU0QQngM/edit?usp=sharing)
 - [30 Life in the Universe](30-Life_in_the_Universe/30-Life_in_the_Universe.html)
 
 ---
