@@ -1,0 +1,54 @@
+
+---
+title: "20: Between the Stars Gas and Dust in Space"
+format:
+  revealjs:
+    logo: "Physics Department Logo2.jpg"
+    css: logo.css
+    menu:
+      side: left
+      width: half
+      numbers: true
+      markers: true
+    mouseWheel: true
+    slide-number: c/t 
+    show-slide-number: all
+    preview-links: true
+    chalkboard: true
+    navigation-mode: vertical
+    controls: true
+    controls-tutorial: true
+    transition: convex
+    pointer:
+      pointerSize: 35
+      color: '#00a0e0'
+revealjs-plugins:
+  - pointer
+---
+
+
+# [20.1 The Interstellar Medium](https://openstax.org/books/astronomy-2e/pages/20-1-the-interstellar-medium)
+
+## Subsection 
+
+# [20.2 Interstellar Gas](https://openstax.org/books/astronomy-2e/pages/20-2-interstellar-gas)
+
+## Subsection 
+
+# [20.3 Cosmic Dust](https://openstax.org/books/astronomy-2e/pages/20-3-cosmic-dust)
+
+## Subsection 
+
+# [20.4 Cosmic Rays](https://openstax.org/books/astronomy-2e/pages/20-4-cosmic-rays)
+
+## Subsection 
+
+# [20.5 The Life Cycle of Cosmic Material](https://openstax.org/books/astronomy-2e/pages/20-5-the-life-cycle-of-cosmic-material)
+
+## Subsection 
+
+# [20.6 Interstellar Matter around the Sun](https://openstax.org/books/astronomy-2e/pages/20-6-interstellar-matter-around-the-sun)
+
+## Subsection 
+
+# Summary

@@ -1,0 +1,136 @@
+
+---
+title: "Introductory Astronomy"
+title-slide-attributes:
+    data-background-image: figures/00/DTHalloween.jpg
+    data-background-size: cover
+    data-background-opacity: "0.5"
+format:
+  revealjs:
+    logo: "Physics Department Logo2.jpg"
+    css: logo.css
+    menu:
+      side: left
+      width: half
+      numbers: false
+      markers: true
+    mouseWheel: true
+    slide-number: c/t 
+    show-slide-number: all
+    preview-links: true
+    chalkboard: true
+    navigation-mode: vertical
+    controls: true
+    controls-tutorial: true
+    transition: convex
+    pointer:
+      pointerSize: 35
+      color: '#00a0e0'
+revealjs-plugins:
+  - pointer
+---
+
+# Instructors Information
+
+
+:::: {.columns}
+
+::: {.column width="60%"}
+
+|            |                 |
+|------------|-----------------|
+| **Instructor** | Dr. Perry Nerem |
+| **Office**     | OCNPS 221 |
+| **Phone**      | 757-683-3611 |
+| **Email**      | mnerem@odu.edu |
+| **Office Hours** | By appointment |
+
+:::
+
+::: {.column width="35%"}
+
+![](figures/00/Perry_Nerem_reduced.jpg){width=200 fig-align="center"}
+
+:::
+::::
+
+![](figures/00/About-Nerem-Research.svg){width=800 fig-align="center"}
+
+# Required Materials
+
+| Textbook | Homework |
+|----------|----------|
+| [OpenStax Astronomy](https://openstax.org/details/books/astronomy-2e) <br> ![](https://openstax.org/dist/images/logo.svg)| [ExpertTA](https://theexpertta.com/) <br> ![](https://site.theexpertta.com/wp-content/uploads/2014/04/expert_logo_shadow.png) |
+| Free Digital Book | $\approx$ \$35 sign up cost |
+
+
+# Reading Notes
+
+
+:::: {.columns}
+::: {.column width="50%"}
+
+- Scan and upload copies of **handwritten** reading notes
+- Notes from tablet devices are acceptable
+- Upload work though Canvas
+- Documents must be PDFs
+- Minimum one page long and must have your name on it
+
+:::
+::: {.column width="45%"}
+![](figures/00/RN-sample.png)
+:::
+::::
+
+# Test  {.smaller}
+
+- Three test and a cumulative final exam
+- Your lowest test grade is dropped
+- No late test will be offered
+- Available online for 24 hours
+
+| Test | Chapters | Date |
+|------|----------|------|
+|Test 1| Ch 1-5   | May 26 |
+|Test 2| Ch 6-10  | June 9 |
+|Test 3| Ch 11-14 | June 16  |
+|Final Exam | Cumulative | June 23 |
+
+
+# Course Grade
+
+Link broken
+
+
+# Class Calendar
+
+## Synchronous Course {background-iframe="https://calendar.google.com/calendar/embed?src=c_aaaq91pmjpi4eb9gjj4hpitu5o%40group.calendar.google.com&ctz=America%2FNew_York"}
+
+## Asynchronous Course {background-iframe="https://calendar.google.com/calendar/embed?src=c_09gutgl9ffeda7cs1plas8dnms%40group.calendar.google.com&ctz=America%2FNew_York"}
+
+# Final Thoughts
+
+
+:::: {.columns}
+
+::: {.column width="50%"}
+
+- Read the book
+- Practice problems
+- Don’t be afraid of math
+- Study the concepts
+- READ THE BOOK!
+- Volunteer note-sharing
+- Honors students talk to instructor after lecture
+- Always ask questions!
+
+
+:::
+::: {.column width="50%"}
+
+![[Nicholas Patrick installs panoramic space window](https://apod.nasa.gov/apod/ap100224.html)](figures/00/installingcupola_nasa_big.jpg){#fig-astro fig-align="left" height=500}
+
+:::
+
+::::
+

@@ -1,0 +1,46 @@
+
+---
+title: "16: The Sun A Nuclear Powerhouse"
+format:
+  revealjs:
+    logo: "Physics Department Logo2.jpg"
+    css: logo.css
+    menu:
+      side: left
+      width: half
+      numbers: true
+      markers: true
+    mouseWheel: true
+    slide-number: c/t 
+    show-slide-number: all
+    preview-links: true
+    chalkboard: true
+    navigation-mode: vertical
+    controls: true
+    controls-tutorial: true
+    transition: convex
+    pointer:
+      pointerSize: 35
+      color: '#00a0e0'
+revealjs-plugins:
+  - pointer
+---
+
+
+# [16.1 Sources of Sunshine: Thermal and Gravitational Energy](https://openstax.org/books/astronomy-2e/pages/16-1-sources-of-sunshine-thermal-and-gravitational-energy)
+
+## Subsection 
+
+# [16.2 Mass, Energy, and the Theory of Relativity](https://openstax.org/books/astronomy-2e/pages/16-2-mass-energy-and-the-theory-of-relativity)
+
+## Subsection 
+
+# [16.3 The Solar Interior: Theory](https://openstax.org/books/astronomy-2e/pages/16-3-the-solar-interior-theory)
+
+## Subsection 
+
+# [16.4 The Solar Interior: Observations](https://openstax.org/books/astronomy-2e/pages/16-4-the-solar-interior-observations)
+
+## Subsection 
+
+# Summary

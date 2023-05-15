@@ -1,0 +1,42 @@
+
+---
+title: "27: Active Galaxies Quasars and Supermassive Black Holes"
+format:
+  revealjs:
+    logo: "Physics Department Logo2.jpg"
+    css: logo.css
+    menu:
+      side: left
+      width: half
+      numbers: true
+      markers: true
+    mouseWheel: true
+    slide-number: c/t 
+    show-slide-number: all
+    preview-links: true
+    chalkboard: true
+    navigation-mode: vertical
+    controls: true
+    controls-tutorial: true
+    transition: convex
+    pointer:
+      pointerSize: 35
+      color: '#00a0e0'
+revealjs-plugins:
+  - pointer
+---
+
+
+# [27.1 Quasars](https://openstax.org/books/astronomy-2e/pages/27-1-quasars)
+
+## Subsection 
+
+# [27.2 Supermassive Black Holes: What Quasars Really Are](https://openstax.org/books/astronomy-2e/pages/27-2-supermassive-black-holes-what-quasars-really-are)
+
+## Subsection 
+
+# [27.3 Quasars as Probes of Evolution in the Universe](https://openstax.org/books/astronomy-2e/pages/27-3-quasars-as-probes-of-evolution-in-the-universe)
+
+## Subsection 
+
+# Summary

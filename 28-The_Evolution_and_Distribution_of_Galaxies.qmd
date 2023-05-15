@@ -1,0 +1,50 @@
+
+---
+title: "28: The Evolution and Distribution of Galaxies"
+format:
+  revealjs:
+    logo: "Physics Department Logo2.jpg"
+    css: logo.css
+    menu:
+      side: left
+      width: half
+      numbers: true
+      markers: true
+    mouseWheel: true
+    slide-number: c/t 
+    show-slide-number: all
+    preview-links: true
+    chalkboard: true
+    navigation-mode: vertical
+    controls: true
+    controls-tutorial: true
+    transition: convex
+    pointer:
+      pointerSize: 35
+      color: '#00a0e0'
+revealjs-plugins:
+  - pointer
+---
+
+
+# [28.1 Observations of Distant Galaxies](https://openstax.org/books/astronomy-2e/pages/28-1-observations-of-distant-galaxies)
+
+## Subsection 
+
+# [28.2 Galaxy Mergers and Active Galactic Nuclei](https://openstax.org/books/astronomy-2e/pages/28-2-galaxy-mergers-and-active-galactic-nuclei)
+
+## Subsection 
+
+# [28.3 The Distribution of Galaxies in Space](https://openstax.org/books/astronomy-2e/pages/28-3-the-distribution-of-galaxies-in-space)
+
+## Subsection 
+
+# [28.4 The Challenge of Dark Matter](https://openstax.org/books/astronomy-2e/pages/28-4-the-challenge-of-dark-matter)
+
+## Subsection 
+
+# [28.5 The Formation and Evolution of Galaxies and Structure in the Universe](https://openstax.org/books/astronomy-2e/pages/28-5-the-formation-and-evolution-of-galaxies-and-structure-in-the-universe)
+
+## Subsection 
+
+# Summary

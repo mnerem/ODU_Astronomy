@@ -1,0 +1,46 @@
+
+---
+title: "18: The Stars A Celestial Census"
+format:
+  revealjs:
+    logo: "Physics Department Logo2.jpg"
+    css: logo.css
+    menu:
+      side: left
+      width: half
+      numbers: true
+      markers: true
+    mouseWheel: true
+    slide-number: c/t 
+    show-slide-number: all
+    preview-links: true
+    chalkboard: true
+    navigation-mode: vertical
+    controls: true
+    controls-tutorial: true
+    transition: convex
+    pointer:
+      pointerSize: 35
+      color: '#00a0e0'
+revealjs-plugins:
+  - pointer
+---
+
+
+# [18.1 A Stellar Census](https://openstax.org/books/astronomy-2e/pages/18-1-a-stellar-census)
+
+## Subsection 
+
+# [18.2 Measuring Stellar Masses](https://openstax.org/books/astronomy-2e/pages/18-2-measuring-stellar-masses)
+
+## Subsection 
+
+# [18.3 Diameters of Stars](https://openstax.org/books/astronomy-2e/pages/18-3-diameters-of-stars)
+
+## Subsection 
+
+# [18.4 The HâR Diagram](https://openstax.org/books/astronomy-2e/pages/18-4-the-h-r-diagram)
+
+## Subsection 
+
+# Summary

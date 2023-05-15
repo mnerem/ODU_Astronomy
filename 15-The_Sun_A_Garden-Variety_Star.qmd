@@ -1,0 +1,46 @@
+
+---
+title: "15: The Sun A Garden: Variety Star"
+format:
+  revealjs:
+    logo: "Physics Department Logo2.jpg"
+    css: logo.css
+    menu:
+      side: left
+      width: half
+      numbers: true
+      markers: true
+    mouseWheel: true
+    slide-number: c/t 
+    show-slide-number: all
+    preview-links: true
+    chalkboard: true
+    navigation-mode: vertical
+    controls: true
+    controls-tutorial: true
+    transition: convex
+    pointer:
+      pointerSize: 35
+      color: '#00a0e0'
+revealjs-plugins:
+  - pointer
+---
+
+
+# [15.1 The Structure and Composition of the Sun](https://openstax.org/books/astronomy-2e/pages/15-1-the-structure-and-composition-of-the-sun)
+
+## Subsection 
+
+# [15.2 The Solar Cycle](https://openstax.org/books/astronomy-2e/pages/15-2-the-solar-cycle)
+
+## Subsection 
+
+# [15.3 Solar Activity above the Photosphere](https://openstax.org/books/astronomy-2e/pages/15-3-solar-activity-above-the-photosphere)
+
+## Subsection 
+
+# [15.4 Space Weather](https://openstax.org/books/astronomy-2e/pages/15-4-space-weather)
+
+## Subsection 
+
+# Summary

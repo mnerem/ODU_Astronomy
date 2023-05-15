@@ -1,0 +1,54 @@
+
+---
+title: "23: The Death of Stars"
+format:
+  revealjs:
+    logo: "Physics Department Logo2.jpg"
+    css: logo.css
+    menu:
+      side: left
+      width: half
+      numbers: true
+      markers: true
+    mouseWheel: true
+    slide-number: c/t 
+    show-slide-number: all
+    preview-links: true
+    chalkboard: true
+    navigation-mode: vertical
+    controls: true
+    controls-tutorial: true
+    transition: convex
+    pointer:
+      pointerSize: 35
+      color: '#00a0e0'
+revealjs-plugins:
+  - pointer
+---
+
+
+# [23.1 The Death of Low-Mass Stars](https://openstax.org/books/astronomy-2e/pages/23-1-the-death-of-low-mass-stars)
+
+## Subsection 
+
+# [23.2 Evolution of Massive Stars: An Explosive Finish](https://openstax.org/books/astronomy-2e/pages/23-2-evolution-of-massive-stars-an-explosive-finish)
+
+## Subsection 
+
+# [23.3 Supernova Observations](https://openstax.org/books/astronomy-2e/pages/23-3-supernova-observations)
+
+## Subsection 
+
+# [23.4 Pulsars and the Discovery of Neutron Stars](https://openstax.org/books/astronomy-2e/pages/23-4-pulsars-and-the-discovery-of-neutron-stars)
+
+## Subsection 
+
+# [23.5 The Evolution of Binary Star Systems](https://openstax.org/books/astronomy-2e/pages/23-5-the-evolution-of-binary-star-systems)
+
+## Subsection 
+
+# [23.6 The Mystery of the Gamma-Ray Bursts](https://openstax.org/books/astronomy-2e/pages/23-6-the-mystery-of-the-gamma-ray-bursts)
+
+## Subsection 
+
+# Summary

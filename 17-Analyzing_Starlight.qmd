@@ -1,0 +1,46 @@
+
+---
+title: "17: Analyzing Starlight"
+format:
+  revealjs:
+    logo: "Physics Department Logo2.jpg"
+    css: logo.css
+    menu:
+      side: left
+      width: half
+      numbers: true
+      markers: true
+    mouseWheel: true
+    slide-number: c/t 
+    show-slide-number: all
+    preview-links: true
+    chalkboard: true
+    navigation-mode: vertical
+    controls: true
+    controls-tutorial: true
+    transition: convex
+    pointer:
+      pointerSize: 35
+      color: '#00a0e0'
+revealjs-plugins:
+  - pointer
+---
+
+
+# [17.1 The Brightness of Stars](https://openstax.org/books/astronomy-2e/pages/17-1-the-brightness-of-stars)
+
+## Subsection 
+
+# [17.2 Colors of Stars](https://openstax.org/books/astronomy-2e/pages/17-2-colors-of-stars)
+
+## Subsection 
+
+# [17.3 The Spectra of Stars (and Brown Dwarfs)](https://openstax.org/books/astronomy-2e/pages/17-3-the-spectra-of-stars-and-brown-dwarfs)
+
+## Subsection 
+
+# [17.4 Using Spectra to Measure Stellar Radius, Composition, and Motion](https://openstax.org/books/astronomy-2e/pages/17-4-using-spectra-to-measure-stellar-radius-composition-and-motion)
+
+## Subsection 
+
+# Summary

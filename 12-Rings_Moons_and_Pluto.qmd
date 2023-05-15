@@ -1,0 +1,50 @@
+
+---
+title: "12: Rings Moons and Pluto"
+format:
+  revealjs:
+    logo: "Physics Department Logo2.jpg"
+    css: logo.css
+    menu:
+      side: left
+      width: half
+      numbers: true
+      markers: true
+    mouseWheel: true
+    slide-number: c/t 
+    show-slide-number: all
+    preview-links: true
+    chalkboard: true
+    navigation-mode: vertical
+    controls: true
+    controls-tutorial: true
+    transition: convex
+    pointer:
+      pointerSize: 35
+      color: '#00a0e0'
+revealjs-plugins:
+  - pointer
+---
+
+
+# [12.1 Ring and Moon Systems Introduced](https://openstax.org/books/astronomy-2e/pages/12-1-ring-and-moon-systems-introduced)
+
+## Subsection 
+
+# [12.2 The Galilean Moons of Jupiter](https://openstax.org/books/astronomy-2e/pages/12-2-the-galilean-moons-of-jupiter)
+
+## Subsection 
+
+# [12.3 Titan and Triton](https://openstax.org/books/astronomy-2e/pages/12-3-titan-and-triton)
+
+## Subsection 
+
+# [12.4 Pluto and Charon](https://openstax.org/books/astronomy-2e/pages/12-4-pluto-and-charon)
+
+## Subsection 
+
+# [12.5 Planetary Rings (and Enceladus)](https://openstax.org/books/astronomy-2e/pages/12-5-planetary-rings-and-enceladus)
+
+## Subsection 
+
+# Summary

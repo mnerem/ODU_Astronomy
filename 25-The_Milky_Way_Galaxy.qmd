@@ -1,0 +1,54 @@
+
+---
+title: "25: The Milky Way Galaxy"
+format:
+  revealjs:
+    logo: "Physics Department Logo2.jpg"
+    css: logo.css
+    menu:
+      side: left
+      width: half
+      numbers: true
+      markers: true
+    mouseWheel: true
+    slide-number: c/t 
+    show-slide-number: all
+    preview-links: true
+    chalkboard: true
+    navigation-mode: vertical
+    controls: true
+    controls-tutorial: true
+    transition: convex
+    pointer:
+      pointerSize: 35
+      color: '#00a0e0'
+revealjs-plugins:
+  - pointer
+---
+
+
+# [25.1 The Architecture of the Galaxy](https://openstax.org/books/astronomy-2e/pages/25-1-the-architecture-of-the-galaxy)
+
+## Subsection 
+
+# [25.2 Spiral Structure](https://openstax.org/books/astronomy-2e/pages/25-2-spiral-structure)
+
+## Subsection 
+
+# [25.3 The Mass of the Galaxy](https://openstax.org/books/astronomy-2e/pages/25-3-the-mass-of-the-galaxy)
+
+## Subsection 
+
+# [25.4 The Center of the Galaxy](https://openstax.org/books/astronomy-2e/pages/25-4-the-center-of-the-galaxy)
+
+## Subsection 
+
+# [25.5 Stellar Populations in the Galaxy](https://openstax.org/books/astronomy-2e/pages/25-5-stellar-populations-in-the-galaxy)
+
+## Subsection 
+
+# [25.6 The Formation of the Galaxy](https://openstax.org/books/astronomy-2e/pages/25-6-the-formation-of-the-galaxy)
+
+## Subsection 
+
+# Summary

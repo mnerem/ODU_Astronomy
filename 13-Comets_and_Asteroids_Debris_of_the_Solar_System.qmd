@@ -1,0 +1,46 @@
+
+---
+title: "13: Comets and Asteroids Debris of the Solar System"
+format:
+  revealjs:
+    logo: "Physics Department Logo2.jpg"
+    css: logo.css
+    menu:
+      side: left
+      width: half
+      numbers: true
+      markers: true
+    mouseWheel: true
+    slide-number: c/t 
+    show-slide-number: all
+    preview-links: true
+    chalkboard: true
+    navigation-mode: vertical
+    controls: true
+    controls-tutorial: true
+    transition: convex
+    pointer:
+      pointerSize: 35
+      color: '#00a0e0'
+revealjs-plugins:
+  - pointer
+---
+
+
+# [13.1 Asteroids](https://openstax.org/books/astronomy-2e/pages/13-1-asteroids)
+
+## Subsection 
+
+# [13.2 Asteroids and Planetary Defense](https://openstax.org/books/astronomy-2e/pages/13-2-asteroids-and-planetary-defense)
+
+## Subsection 
+
+# [13.3 The âLong-Hairedâ Comets](https://openstax.org/books/astronomy-2e/pages/13-3-the-long-haired-comets)
+
+## Subsection 
+
+# [13.4 The Origin and Fate of Comets and Related Objects](https://openstax.org/books/astronomy-2e/pages/13-4-the-origin-and-fate-of-comets-and-related-objects)
+
+## Subsection 
+
+# Summary

@@ -1,0 +1,50 @@
+
+---
+title: "08: Earth as a Planet"
+format:
+  revealjs:
+    logo: "Physics Department Logo2.jpg"
+    css: logo.css
+    menu:
+      side: left
+      width: half
+      numbers: true
+      markers: true
+    mouseWheel: true
+    slide-number: c/t 
+    show-slide-number: all
+    preview-links: true
+    chalkboard: true
+    navigation-mode: vertical
+    controls: true
+    controls-tutorial: true
+    transition: convex
+    pointer:
+      pointerSize: 35
+      color: '#00a0e0'
+revealjs-plugins:
+  - pointer
+---
+
+
+# [8.1 The Global Perspective](https://openstax.org/books/astronomy-2e/pages/8-1-the-global-perspective)
+
+## Subsection 
+
+# [8.2 Earthâs Crust](https://openstax.org/books/astronomy-2e/pages/8-2-earths-crust)
+
+## Subsection 
+
+# [8.3 Earthâs Atmosphere](https://openstax.org/books/astronomy-2e/pages/8-3-earths-atmosphere)
+
+## Subsection 
+
+# [8.4 Life, Chemical Evolution, and Climate Change](https://openstax.org/books/astronomy-2e/pages/8-4-life-chemical-evolution-and-climate-change)
+
+## Subsection 
+
+# [8.5 Cosmic Influences on the Evolution of Earth](https://openstax.org/books/astronomy-2e/pages/8-5-cosmic-influences-on-the-evolution-of-earth)
+
+## Subsection 
+
+# Summary

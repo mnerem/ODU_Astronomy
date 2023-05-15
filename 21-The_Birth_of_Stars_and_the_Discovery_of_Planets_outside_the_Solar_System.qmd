@@ -1,0 +1,54 @@
+
+---
+title: "21: The Birth of Stars and the Discovery of Planets outside the Solar System"
+format:
+  revealjs:
+    logo: "Physics Department Logo2.jpg"
+    css: logo.css
+    menu:
+      side: left
+      width: half
+      numbers: true
+      markers: true
+    mouseWheel: true
+    slide-number: c/t 
+    show-slide-number: all
+    preview-links: true
+    chalkboard: true
+    navigation-mode: vertical
+    controls: true
+    controls-tutorial: true
+    transition: convex
+    pointer:
+      pointerSize: 35
+      color: '#00a0e0'
+revealjs-plugins:
+  - pointer
+---
+
+
+# [21.1 Star Formation](https://openstax.org/books/astronomy-2e/pages/21-1-star-formation)
+
+## Subsection 
+
+# [21.2 The HâR Diagram and the Study of Stellar Evolution](https://openstax.org/books/astronomy-2e/pages/21-2-the-h-r-diagram-and-the-study-of-stellar-evolution)
+
+## Subsection 
+
+# [21.3 Evidence That Planets Form around Other Stars](https://openstax.org/books/astronomy-2e/pages/21-3-evidence-that-planets-form-around-other-stars)
+
+## Subsection 
+
+# [21.4 Planets beyond the Solar System: Search and Discovery](https://openstax.org/books/astronomy-2e/pages/21-4-planets-beyond-the-solar-system-search-and-discovery)
+
+## Subsection 
+
+# [21.5 Exoplanets Everywhere: What We Are Learning](https://openstax.org/books/astronomy-2e/pages/21-5-exoplanets-everywhere-what-we-are-learning)
+
+## Subsection 
+
+# [21.6 New Perspectives on Planet Formation](https://openstax.org/books/astronomy-2e/pages/21-6-new-perspectives-on-planet-formation)
+
+## Subsection 
+
+# Summary

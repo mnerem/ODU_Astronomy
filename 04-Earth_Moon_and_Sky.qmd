@@ -1,0 +1,58 @@
+
+---
+title: "04: Earth Moon and Sky"
+format:
+  revealjs:
+    logo: "Physics Department Logo2.jpg"
+    css: logo.css
+    menu:
+      side: left
+      width: half
+      numbers: true
+      markers: true
+    mouseWheel: true
+    slide-number: c/t 
+    show-slide-number: all
+    preview-links: true
+    chalkboard: true
+    navigation-mode: vertical
+    controls: true
+    controls-tutorial: true
+    transition: convex
+    pointer:
+      pointerSize: 35
+      color: '#00a0e0'
+revealjs-plugins:
+  - pointer
+---
+
+
+# [4.1 Earth and Sky](https://openstax.org/books/astronomy-2e/pages/4-1-earth-and-sky)
+
+## Subsection 
+
+# [4.2 The Seasons](https://openstax.org/books/astronomy-2e/pages/4-2-the-seasons)
+
+## Subsection 
+
+# [4.3 Keeping Time](https://openstax.org/books/astronomy-2e/pages/4-3-keeping-time)
+
+## Subsection 
+
+# [4.4 The Calendar](https://openstax.org/books/astronomy-2e/pages/4-4-the-calendar)
+
+## Subsection 
+
+# [4.5 Phases and Motions of the Moon](https://openstax.org/books/astronomy-2e/pages/4-5-phases-and-motions-of-the-moon)
+
+## Subsection 
+
+# [4.6 Ocean Tides and the Moon](https://openstax.org/books/astronomy-2e/pages/4-6-ocean-tides-and-the-moon)
+
+## Subsection 
+
+# [4.7 Eclipses of the Sun and Moon](https://openstax.org/books/astronomy-2e/pages/4-7-eclipses-of-the-sun-and-moon)
+
+## Subsection 
+
+# Summary

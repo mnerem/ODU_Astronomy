@@ -1,0 +1,50 @@
+
+---
+title: "26: Galaxies"
+format:
+  revealjs:
+    logo: "Physics Department Logo2.jpg"
+    css: logo.css
+    menu:
+      side: left
+      width: half
+      numbers: true
+      markers: true
+    mouseWheel: true
+    slide-number: c/t 
+    show-slide-number: all
+    preview-links: true
+    chalkboard: true
+    navigation-mode: vertical
+    controls: true
+    controls-tutorial: true
+    transition: convex
+    pointer:
+      pointerSize: 35
+      color: '#00a0e0'
+revealjs-plugins:
+  - pointer
+---
+
+
+# [26.1 The Discovery of Galaxies](https://openstax.org/books/astronomy-2e/pages/26-1-the-discovery-of-galaxies)
+
+## Subsection 
+
+# [26.2 Types of Galaxies](https://openstax.org/books/astronomy-2e/pages/26-2-types-of-galaxies)
+
+## Subsection 
+
+# [26.3 Properties of Galaxies](https://openstax.org/books/astronomy-2e/pages/26-3-properties-of-galaxies)
+
+## Subsection 
+
+# [26.4 The Extragalactic Distance Scale](https://openstax.org/books/astronomy-2e/pages/26-4-the-extragalactic-distance-scale)
+
+## Subsection 
+
+# [26.5 The Expanding Universe](https://openstax.org/books/astronomy-2e/pages/26-5-the-expanding-universe)
+
+## Subsection 
+
+# Summary

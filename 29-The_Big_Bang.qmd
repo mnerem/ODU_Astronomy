@@ -1,0 +1,58 @@
+
+---
+title: "29: The Big Bang"
+format:
+  revealjs:
+    logo: "Physics Department Logo2.jpg"
+    css: logo.css
+    menu:
+      side: left
+      width: half
+      numbers: true
+      markers: true
+    mouseWheel: true
+    slide-number: c/t 
+    show-slide-number: all
+    preview-links: true
+    chalkboard: true
+    navigation-mode: vertical
+    controls: true
+    controls-tutorial: true
+    transition: convex
+    pointer:
+      pointerSize: 35
+      color: '#00a0e0'
+revealjs-plugins:
+  - pointer
+---
+
+
+# [29.1 The Age of the Universe](https://openstax.org/books/astronomy-2e/pages/29-1-the-age-of-the-universe)
+
+## Subsection 
+
+# [29.2 A Model of the Universe](https://openstax.org/books/astronomy-2e/pages/29-2-a-model-of-the-universe)
+
+## Subsection 
+
+# [29.3 The Beginning of the Universe](https://openstax.org/books/astronomy-2e/pages/29-3-the-beginning-of-the-universe)
+
+## Subsection 
+
+# [29.4 The Cosmic Microwave Background](https://openstax.org/books/astronomy-2e/pages/29-4-the-cosmic-microwave-background)
+
+## Subsection 
+
+# [29.5 What Is the Universe Really Made Of?](https://openstax.org/books/astronomy-2e/pages/29-5-what-is-the-universe-really-made-of)
+
+## Subsection 
+
+# [29.6 The Inflationary Universe](https://openstax.org/books/astronomy-2e/pages/29-6-the-inflationary-universe)
+
+## Subsection 
+
+# [29.7 The Anthropic Principle](https://openstax.org/books/astronomy-2e/pages/29-7-the-anthropic-principle)
+
+## Subsection 
+
+# Summary

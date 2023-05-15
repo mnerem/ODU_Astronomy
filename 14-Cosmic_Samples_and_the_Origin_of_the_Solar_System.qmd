@@ -1,0 +1,50 @@
+
+---
+title: "14: Cosmic Samples and the Origin of the Solar System"
+format:
+  revealjs:
+    logo: "Physics Department Logo2.jpg"
+    css: logo.css
+    menu:
+      side: left
+      width: half
+      numbers: true
+      markers: true
+    mouseWheel: true
+    slide-number: c/t 
+    show-slide-number: all
+    preview-links: true
+    chalkboard: true
+    navigation-mode: vertical
+    controls: true
+    controls-tutorial: true
+    transition: convex
+    pointer:
+      pointerSize: 35
+      color: '#00a0e0'
+revealjs-plugins:
+  - pointer
+---
+
+
+# [14.1 Meteors](https://openstax.org/books/astronomy-2e/pages/14-1-meteors)
+
+## Subsection 
+
+# [14.2 Meteorites: Stones from Heaven](https://openstax.org/books/astronomy-2e/pages/14-2-meteorites-stones-from-heaven)
+
+## Subsection 
+
+# [14.3 Formation of the Solar System](https://openstax.org/books/astronomy-2e/pages/14-3-formation-of-the-solar-system)
+
+## Subsection 
+
+# [14.4 Comparison with Other Planetary Systems](https://openstax.org/books/astronomy-2e/pages/14-4-comparison-with-other-planetary-systems)
+
+## Subsection 
+
+# [14.5 Planetary Evolution](https://openstax.org/books/astronomy-2e/pages/14-5-planetary-evolution)
+
+## Subsection 
+
+# Summary

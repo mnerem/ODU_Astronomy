@@ -1,0 +1,54 @@
+
+---
+title: "10: Earthlike Planets Venus and Mars"
+format:
+  revealjs:
+    logo: "Physics Department Logo2.jpg"
+    css: logo.css
+    menu:
+      side: left
+      width: half
+      numbers: true
+      markers: true
+    mouseWheel: true
+    slide-number: c/t 
+    show-slide-number: all
+    preview-links: true
+    chalkboard: true
+    navigation-mode: vertical
+    controls: true
+    controls-tutorial: true
+    transition: convex
+    pointer:
+      pointerSize: 35
+      color: '#00a0e0'
+revealjs-plugins:
+  - pointer
+---
+
+
+# [10.1 The Nearest Planets: An Overview](https://openstax.org/books/astronomy-2e/pages/10-1-the-nearest-planets-an-overview)
+
+## Subsection 
+
+# [10.2 The Geology of Venus](https://openstax.org/books/astronomy-2e/pages/10-2-the-geology-of-venus)
+
+## Subsection 
+
+# [10.3 The Massive Atmosphere of Venus](https://openstax.org/books/astronomy-2e/pages/10-3-the-massive-atmosphere-of-venus)
+
+## Subsection 
+
+# [10.4 The Geology of Mars](https://openstax.org/books/astronomy-2e/pages/10-4-the-geology-of-mars)
+
+## Subsection 
+
+# [10.5 Water and Life on Mars](https://openstax.org/books/astronomy-2e/pages/10-5-water-and-life-on-mars)
+
+## Subsection 
+
+# [10.6 Divergent Planetary Evolution](https://openstax.org/books/astronomy-2e/pages/10-6-divergent-planetary-evolution)
+
+## Subsection 
+
+# Summary

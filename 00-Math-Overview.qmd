@@ -1,0 +1,184 @@
+
+---
+title: "Math Overview"
+title-slide-attributes:
+    data-background-image: figures/00/DTHalloween.jpg
+    data-background-size: cover
+    data-background-opacity: "0.5"
+format:
+  revealjs:
+    logo: "Physics Department Logo2.jpg"
+    css: logo.css
+    menu:
+      side: left
+      width: half
+      numbers: false
+      markers: true
+    mouseWheel: true
+    slide-number: c/t 
+    show-slide-number: all
+    preview-links: true
+    chalkboard: true
+    navigation-mode: vertical
+    controls: true
+    controls-tutorial: true
+    transition: convex
+    pointer:
+      pointerSize: 35
+      color: '#00a0e0'
+revealjs-plugins:
+  - pointer
+---
+
+# Scientific Notation {.smaller}
+What is the mass of an object that contains 
+**three hundred-thousand-billion-billion atoms** of carbon. 
+Given that one carbon atom has a mass of 
+**twenty billion-billion-billionths** of a kilogram?
+
+::: {.fragment}
+\begin{align*}
+M&=N_\text{atoms}\times m_\text{C} \\
+&=300,000,000,000,000,000,000,000 \times \\
+& \qquad 0.000,000,000,000,000,000,000,000,02\,\text{kg} \\
+&=\big(3E23\big)\big(2E-26\big)\text{kg}\\
+&=\big(3\times 2\big)\big(10^{23}\times10^{-26}\big)\,\text{kg}\\
+&=6\times10^{23-26}\,\text{kg} \\
+&=6E-3\,\text{kg} \\
+&=6\,\text{grams}
+\end{align*}
+::: 
+
+# Scientific Notation: More Examples
+
+<iframe src="https://janus.astro.umd.edu/astro/scinote/" width=1920px height=500px class="r-frame"></iframe>
+
+# Scientific Notation: You Try
+
+Question: Simplify $\dfrac{8\times10^{1024}}{4\times10^{1020}}\times0.5\times10^{-3}$
+
+::: {.fragment}
+   \begin{align}
+       &=\frac{8}{4}10^{1024-1020}\times\frac{1}{2}10^{-3} \\
+       &=\frac{8}{4\times2}10^4\times10^{-3}\\
+       &=\frac{8}{8}10^{4-3}\\
+       &=1\times10^1\\
+       &=10
+   \end{align}
+:::
+
+# Proportionality
+
+An object's acceleration is **proportional** to the force on it.
+ 
+
+:::: {.columns}
+::: {.column width="85%"}
+- 5kg mass pushed at **10N** accelerates at **2m/s$^2$
+- 5kg mass pushed at **20N** accelerates at **4m/s$^2$
+:::
+::: {.column width="15%"}
+$$a=\frac{F}{m}$$
+:::
+::::
+
+
+Time to travel a distance is **inversely proportional** to speed
+
+:::: {.columns}
+::: {.column width="85%"}
+- Traveling 20 miles at **30 mph** takes **40** minutes
+- Traveling 20 miles at **60 mph** takes **20** minutes
+:::
+::: {.column width="15%"}
+$$t\propto\frac{1}{v}$$
+:::
+
+::::
+ 
+# Geometry
+
+
+:::: {.columns}
+
+::: {.column width="45%"}
+
+::: {.callout-note}
+## Circle
+
+![](figures/00/circle-geometry.svg){height=450 fig-align="center"}
+
+:::
+
+:::
+::: {.column width="45%"}
+
+::: {.callout-note}
+## Sphere
+
+![](figures/00/sphere-geometry.svg){height=450 fig-align="center"}
+
+:::
+:::
+
+::::
+
+
+# Trigonometry
+
+The math of right triangles!
+
+
+:::: {.columns}
+
+::: {.column width="45%"}
+
+![](figures/00/Right-Triangle.png){fig-align="center"}
+
+:::
+::: {.column width="45%"}
+
+\begin{gather*}
+    \text{SOH-CAH-TOA} \\
+    \sin\theta=\frac{\text{opposite}}{\text{hypotenuse}}=\frac{b}{c} \\
+    \cos\theta=\frac{\text{adjacent}}{\text{hypotenuse}}=\frac{a}{c} \\
+    \tan\theta=\frac{\text{opposite}}{\text{adjacent}}=\frac{b}{a}
+\end{gather*}
+
+:::
+
+::::
+
+Pythagoras’ Theorem: $a^2 + b^2 = c^2$
+
+# Logarithms {.smaller}
+
+Logarithm is the inverse of exponentiation 
+
+Logs can simplify difficult calculations
+
+$$ 278\cdot 316 \quad \text{vs} \quad \log(278\cdot 316) = \log(278) +\log(316) $$
+
+```{python}
+
+import numpy as np
+import plotly.express as px
+import plotly.graph_objects as go
+
+def log2(x):
+    return np.log(x)/np.log(2)
+
+x1=np.array([1e-6,2,4,6,8])
+x2=np.linspace(1e-6,10,1000)
+
+fig1=px.line(x=x2,y=log2(x2))
+fig2=px.scatter(x=x1,y=log2(x1),color_discrete_sequence=['red'])
+fig3=go.Figure(data=fig1.data+fig2.data)
+fig3.update_xaxes(range=[0,10])
+fig3.update_yaxes(range=[-4,4])
+fig3.update_layout(width=800, height=300, margin=dict(l=10,r=10,b=10,t=10))
+fig3.show()
+
+```
+Astronomers invented logarithms to make their lives easier!
+

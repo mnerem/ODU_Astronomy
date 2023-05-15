@@ -1,0 +1,54 @@
+
+---
+title: "05: Radiation and Spectra"
+format:
+  revealjs:
+    logo: "Physics Department Logo2.jpg"
+    css: logo.css
+    menu:
+      side: left
+      width: half
+      numbers: true
+      markers: true
+    mouseWheel: true
+    slide-number: c/t 
+    show-slide-number: all
+    preview-links: true
+    chalkboard: true
+    navigation-mode: vertical
+    controls: true
+    controls-tutorial: true
+    transition: convex
+    pointer:
+      pointerSize: 35
+      color: '#00a0e0'
+revealjs-plugins:
+  - pointer
+---
+
+
+# [5.1 The Behavior of Light](https://openstax.org/books/astronomy-2e/pages/5-1-the-behavior-of-light)
+
+## Subsection 
+
+# [5.2 The Electromagnetic Spectrum](https://openstax.org/books/astronomy-2e/pages/5-2-the-electromagnetic-spectrum)
+
+## Subsection 
+
+# [5.3 Spectroscopy in Astronomy](https://openstax.org/books/astronomy-2e/pages/5-3-spectroscopy-in-astronomy)
+
+## Subsection 
+
+# [5.4 The Structure of the Atom](https://openstax.org/books/astronomy-2e/pages/5-4-the-structure-of-the-atom)
+
+## Subsection 
+
+# [5.5 Formation of Spectral Lines](https://openstax.org/books/astronomy-2e/pages/5-5-formation-of-spectral-lines)
+
+## Subsection 
+
+# [5.6 The Doppler Effect](https://openstax.org/books/astronomy-2e/pages/5-6-the-doppler-effect)
+
+## Subsection 
+
+# Summary

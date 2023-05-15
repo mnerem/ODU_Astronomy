@@ -1,0 +1,50 @@
+
+---
+title: "09: Cratered Worlds"
+format:
+  revealjs:
+    logo: "Physics Department Logo2.jpg"
+    css: logo.css
+    menu:
+      side: left
+      width: half
+      numbers: true
+      markers: true
+    mouseWheel: true
+    slide-number: c/t 
+    show-slide-number: all
+    preview-links: true
+    chalkboard: true
+    navigation-mode: vertical
+    controls: true
+    controls-tutorial: true
+    transition: convex
+    pointer:
+      pointerSize: 35
+      color: '#00a0e0'
+revealjs-plugins:
+  - pointer
+---
+
+
+# [9.1 General Properties of the Moon](https://openstax.org/books/astronomy-2e/pages/9-1-general-properties-of-the-moon)
+
+## Subsection 
+
+# [9.2 The Lunar Surface](https://openstax.org/books/astronomy-2e/pages/9-2-the-lunar-surface)
+
+## Subsection 
+
+# [9.3 Impact Craters](https://openstax.org/books/astronomy-2e/pages/9-3-impact-craters)
+
+## Subsection 
+
+# [9.4 The Origin of the Moon](https://openstax.org/books/astronomy-2e/pages/9-4-the-origin-of-the-moon)
+
+## Subsection 
+
+# [9.5 Mercury](https://openstax.org/books/astronomy-2e/pages/9-5-mercury)
+
+## Subsection 
+
+# Summary

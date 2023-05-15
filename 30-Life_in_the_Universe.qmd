@@ -1,0 +1,46 @@
+
+---
+title: "30: Life in the Universe"
+format:
+  revealjs:
+    logo: "Physics Department Logo2.jpg"
+    css: logo.css
+    menu:
+      side: left
+      width: half
+      numbers: true
+      markers: true
+    mouseWheel: true
+    slide-number: c/t 
+    show-slide-number: all
+    preview-links: true
+    chalkboard: true
+    navigation-mode: vertical
+    controls: true
+    controls-tutorial: true
+    transition: convex
+    pointer:
+      pointerSize: 35
+      color: '#00a0e0'
+revealjs-plugins:
+  - pointer
+---
+
+
+# [30.1 The Cosmic Context for Life](https://openstax.org/books/astronomy-2e/pages/30-1-the-cosmic-context-for-life)
+
+## Subsection 
+
+# [30.2 Astrobiology](https://openstax.org/books/astronomy-2e/pages/30-2-astrobiology)
+
+## Subsection 
+
+# [30.3 Searching for Life beyond Earth](https://openstax.org/books/astronomy-2e/pages/30-3-searching-for-life-beyond-earth)
+
+## Subsection 
+
+# [30.4 The Search for Extraterrestrial Intelligence](https://openstax.org/books/astronomy-2e/pages/30-4-the-search-for-extraterrestrial-intelligence)
+
+## Subsection 
+
+# Summary

@@ -1,0 +1,46 @@
+
+---
+title: "19: Celestial Distances"
+format:
+  revealjs:
+    logo: "Physics Department Logo2.jpg"
+    css: logo.css
+    menu:
+      side: left
+      width: half
+      numbers: true
+      markers: true
+    mouseWheel: true
+    slide-number: c/t 
+    show-slide-number: all
+    preview-links: true
+    chalkboard: true
+    navigation-mode: vertical
+    controls: true
+    controls-tutorial: true
+    transition: convex
+    pointer:
+      pointerSize: 35
+      color: '#00a0e0'
+revealjs-plugins:
+  - pointer
+---
+
+
+# [19.1 Fundamental Units of Distance](https://openstax.org/books/astronomy-2e/pages/19-1-fundamental-units-of-distance)
+
+## Subsection 
+
+# [19.2 Surveying the Stars](https://openstax.org/books/astronomy-2e/pages/19-2-surveying-the-stars)
+
+## Subsection 
+
+# [19.3 Variable Stars: One Key to Cosmic Distances](https://openstax.org/books/astronomy-2e/pages/19-3-variable-stars-one-key-to-cosmic-distances)
+
+## Subsection 
+
+# [19.4 The HâR Diagram and Cosmic Distances](https://openstax.org/books/astronomy-2e/pages/19-4-the-h-r-diagram-and-cosmic-distances)
+
+## Subsection 
+
+# Summary

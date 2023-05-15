@@ -1,0 +1,58 @@
+
+---
+title: "24: Black Holes and Curved Spacetime"
+format:
+  revealjs:
+    logo: "Physics Department Logo2.jpg"
+    css: logo.css
+    menu:
+      side: left
+      width: half
+      numbers: true
+      markers: true
+    mouseWheel: true
+    slide-number: c/t 
+    show-slide-number: all
+    preview-links: true
+    chalkboard: true
+    navigation-mode: vertical
+    controls: true
+    controls-tutorial: true
+    transition: convex
+    pointer:
+      pointerSize: 35
+      color: '#00a0e0'
+revealjs-plugins:
+  - pointer
+---
+
+
+# [24.1 Introducing General Relativity](https://openstax.org/books/astronomy-2e/pages/24-1-introducing-general-relativity)
+
+## Subsection 
+
+# [24.2 Spacetime and Gravity](https://openstax.org/books/astronomy-2e/pages/24-2-spacetime-and-gravity)
+
+## Subsection 
+
+# [24.3 Tests of General Relativity](https://openstax.org/books/astronomy-2e/pages/24-3-tests-of-general-relativity)
+
+## Subsection 
+
+# [24.4 Time in General Relativity](https://openstax.org/books/astronomy-2e/pages/24-4-time-in-general-relativity)
+
+## Subsection 
+
+# [24.5 Black Holes](https://openstax.org/books/astronomy-2e/pages/24-5-black-holes)
+
+## Subsection 
+
+# [24.6 Evidence for Black Holes](https://openstax.org/books/astronomy-2e/pages/24-6-evidence-for-black-holes)
+
+## Subsection 
+
+# [24.7 Gravitational Wave Astronomy](https://openstax.org/books/astronomy-2e/pages/24-7-gravitational-wave-astronomy)
+
+## Subsection 
+
+# Summary

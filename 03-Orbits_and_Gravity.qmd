@@ -1,0 +1,54 @@
+
+---
+title: "03: Orbits and Gravity"
+format:
+  revealjs:
+    logo: "Physics Department Logo2.jpg"
+    css: logo.css
+    menu:
+      side: left
+      width: half
+      numbers: true
+      markers: true
+    mouseWheel: true
+    slide-number: c/t 
+    show-slide-number: all
+    preview-links: true
+    chalkboard: true
+    navigation-mode: vertical
+    controls: true
+    controls-tutorial: true
+    transition: convex
+    pointer:
+      pointerSize: 35
+      color: '#00a0e0'
+revealjs-plugins:
+  - pointer
+---
+
+
+# [3.1 The Laws of Planetary Motion](https://openstax.org/books/astronomy-2e/pages/3-1-the-laws-of-planetary-motion)
+
+## Subsection 
+
+# [3.2 Newtonâs Great Synthesis](https://openstax.org/books/astronomy-2e/pages/3-2-newtons-great-synthesis)
+
+## Subsection 
+
+# [3.3 Newtonâs Universal Law of Gravitation](https://openstax.org/books/astronomy-2e/pages/3-3-newtons-universal-law-of-gravitation)
+
+## Subsection 
+
+# [3.4 Orbits in the Solar System](https://openstax.org/books/astronomy-2e/pages/3-4-orbits-in-the-solar-system)
+
+## Subsection 
+
+# [3.5 Motions of Satellites and Spacecraft](https://openstax.org/books/astronomy-2e/pages/3-5-motions-of-satellites-and-spacecraft)
+
+## Subsection 
+
+# [3.6 Gravity with More Than Two Bodies](https://openstax.org/books/astronomy-2e/pages/3-6-gravity-with-more-than-two-bodies)
+
+## Subsection 
+
+# Summary
