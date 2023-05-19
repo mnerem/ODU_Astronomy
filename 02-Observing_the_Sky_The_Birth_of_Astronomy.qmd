@@ -1,6 +1,10 @@
 
 ---
-title: "02: Observing the Sky The Birth of Astronomy"
+title: "2: Observing the Sky: The Birth of Astronomy"
+title-slide-attributes:
+    data-background-image: figures/02/125bb3ceb088c33741e52b9ba75b9c28b9e9f254.jpeg
+    data-background-size: contain
+    data-background-opacity: "0.5"
 format:
   revealjs:
     logo: "Physics Department Logo2.jpg"
@@ -8,7 +12,7 @@ format:
     menu:
       side: left
       width: half
-      numbers: true
+      numbers: false
       markers: true
     mouseWheel: true
     slide-number: c/t 
@@ -26,10 +30,72 @@ revealjs-plugins:
   - pointer
 ---
 
+# Original Slides
 
+## {background-image="figures/01/pg_0008.svg" background-size="75%"} 
+## {background-image="figures/01/pg_0011.svg" background-size="75%"} 
+## {background-image="figures/01/pg_0012.svg" background-size="75%"} 
+## {background-image="figures/01/pg_0013.svg" background-size="75%"} 
+## {background-image="figures/01/pg_0015.svg" background-size="75%"} 
+## {background-image="figures/01/pg_0016.svg" background-size="75%"} 
+## {background-image="figures/01/pg_0017.svg" background-size="75%"} 
+## {background-image="figures/01/pg_0018.svg" background-size="75%"} 
+## {background-image="figures/01/pg_0020.svg" background-size="75%"} 
+## {background-image="figures/01/pg_0021.svg" background-size="75%"} 
+## {background-image="figures/01/pg_0022.svg" background-size="75%"} 
+## {background-image="figures/01/pg_0023.svg" background-size="75%"} 
+## {background-image="figures/01/pg_0024.svg" background-size="75%"} 
+## {background-image="figures/01/pg_0028.svg" background-size="75%"} 
+## {background-image="figures/01/pg_0030.svg" background-size="75%"} 
+## {background-image="figures/01/pg_0031.svg" background-size="75%"} 
+## {background-image="figures/01/pg_0036.svg" background-size="75%"} 
+## {background-image="figures/01/pg_0038.svg" background-size="75%"} 
+## {background-image="figures/01/pg_0039.svg" background-size="75%"} 
+## {background-image="figures/01/pg_0040.svg" background-size="75%"} 
+## {background-image="figures/01/pg_0045.svg" background-size="75%"} 
+## {background-image="figures/01/pg_0047.svg" background-size="75%"} 
+## {background-image="figures/01/pg_0048.svg" background-size="75%"} 
+## {background-image="figures/01/pg_0049.svg" background-size="75%"} 
+## {background-image="figures/01/pg_0050.svg" background-size="75%"} 
+## {background-image="figures/01/pg_0051.svg" background-size="75%"} 
+## {background-image="figures/01/pg_0054.svg" background-size="75%"} 
+## {background-image="figures/01/pg_0057.svg" background-size="75%"} 
+## {background-image="figures/01/pg_0058.svg" background-size="75%"} 
+## {background-image="figures/01/pg_0059.svg" background-size="75%"} 
+## {background-image="figures/01/pg_0060.svg" background-size="75%"} 
+## {background-image="figures/01/pg_0061.svg" background-size="75%"} 
+## {background-image="figures/01/pg_0062.svg" background-size="75%"} 
+## {background-image="figures/01/pg_0063.svg" background-size="75%"} 
+## {background-image="figures/01/pg_0064.svg" background-size="75%"} 
+## {background-image="figures/01/pg_0065.svg" background-size="75%"} 
+## {background-image="figures/01/pg_0066.svg" background-size="75%"} 
+## {background-image="figures/01/pg_0067.svg" background-size="75%"} 
+## {background-image="figures/01/pg_0068.svg" background-size="75%"} 
+## {background-image="figures/01/pg_0069.svg" background-size="75%"} 
+## {background-image="figures/01/pg_0077.svg" background-size="75%"} 
+## {background-image="figures/01/pg_0078.svg" background-size="75%"} 
+## {background-image="figures/01/pg_0079.svg" background-size="75%"} 
+## {background-image="figures/01/pg_0080.svg" background-size="75%"} 
+## {background-image="figures/01/pg_0081.svg" background-size="75%"} 
+## {background-image="figures/01/pg_0085.svg" background-size="75%"} 
+## {background-image="figures/01/pg_0086.svg" background-size="75%"} 
+## {background-image="figures/01/pg_0090.svg" background-size="75%"} 
+## {background-image="figures/01/pg_0091.svg" background-size="75%"} 
+## {background-image="figures/01/pg_0092.svg" background-size="75%"} 
+## {background-image="figures/01/pg_0093.svg" background-size="75%"} 
+## {background-image="figures/01/pg_0094.svg" background-size="75%"} 
+
+
+# Outline {.smaller}
 # [2.1 The Sky Above](https://openstax.org/books/astronomy-2e/pages/2-1-the-sky-above)
 
-## Subsection 
+## Night Sky - Grand Canyon
+
+{{< video figures/02/grand-canyon-rotating-sky.mp4 width="900px" height="500px" >}}
+
+::: aside
+[Video Source: Grand Canyon NPS](https://youtu.be/NOZlhTCW3gM) 
+::: 
 
 # [2.2 Ancient Astronomy](https://openstax.org/books/astronomy-2e/pages/2-2-ancient-astronomy)
 

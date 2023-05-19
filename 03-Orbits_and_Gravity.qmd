@@ -26,16 +26,74 @@ revealjs-plugins:
   - pointer
 ---
 
+# Original Slides
+## {background-image="figures/03/crop-pg_0001.svg" background-size="75%"} 
+## {background-image="figures/03/crop-pg_0002.svg" background-size="75%"} 
+## {background-image="figures/03/crop-pg_0003.svg" background-size="75%"} 
+## {background-image="figures/03/crop-pg_0004.svg" background-size="75%"} 
+## {background-image="figures/03/crop-pg_0005.svg" background-size="75%"} 
+## {background-image="figures/03/crop-pg_0006.svg" background-size="75%"} 
+## {background-image="figures/03/crop-pg_0007.svg" background-size="75%"} 
+## {background-image="figures/03/crop-pg_0008.svg" background-size="75%"} 
+## {background-image="figures/03/crop-pg_0009.svg" background-size="75%"} 
+## {background-image="figures/03/crop-pg_0010.svg" background-size="75%"} 
+## {background-image="figures/03/crop-pg_0011.svg" background-size="75%"} 
+## {background-image="figures/03/crop-pg_0012.svg" background-size="75%"} 
+## {background-image="figures/03/crop-pg_0013.svg" background-size="75%"} 
+## {background-image="figures/03/crop-pg_0014.svg" background-size="75%"} 
+## {background-image="figures/03/crop-pg_0015.svg" background-size="75%"} 
+## {background-image="figures/03/crop-pg_0016.svg" background-size="75%"} 
+## {background-image="figures/03/crop-pg_0017.svg" background-size="75%"} 
+## {background-image="figures/03/crop-pg_0018.svg" background-size="75%"} 
+## {background-image="figures/03/crop-pg_0019.svg" background-size="75%"} 
+## {background-image="figures/03/crop-pg_0020.svg" background-size="75%"} 
+## {background-image="figures/03/crop-pg_0021.svg" background-size="75%"} 
+## {background-image="figures/03/crop-pg_0022.svg" background-size="75%"} 
+## {background-image="figures/03/crop-pg_0023.svg" background-size="75%"} 
+## {background-image="figures/03/crop-pg_0024.svg" background-size="75%"} 
+## {background-image="figures/03/crop-pg_0025.svg" background-size="75%"} 
+## {background-image="figures/03/crop-pg_0026.svg" background-size="75%"} 
+## {background-image="figures/03/crop-pg_0027.svg" background-size="75%"} 
+## {background-image="figures/03/crop-pg_0028.svg" background-size="75%"} 
+## {background-image="figures/03/crop-pg_0029.svg" background-size="75%"} 
+## {background-image="figures/03/crop-pg_0030.svg" background-size="75%"} 
+## {background-image="figures/03/crop-pg_0031.svg" background-size="75%"} 
+## {background-image="figures/03/crop-pg_0032.svg" background-size="75%"} 
+## {background-image="figures/03/crop-pg_0033.svg" background-size="75%"} 
+## {background-image="figures/03/crop-pg_0034.svg" background-size="75%"} 
+## {background-image="figures/03/crop-pg_0035.svg" background-size="75%"} 
+## {background-image="figures/03/crop-pg_0036.svg" background-size="75%"} 
+## {background-image="figures/03/crop-pg_0037.svg" background-size="75%"} 
+## {background-image="figures/03/crop-pg_0038.svg" background-size="75%"} 
+## {background-image="figures/03/crop-pg_0039.svg" background-size="75%"} 
+## {background-image="figures/03/crop-pg_0040.svg" background-size="75%"} 
+## {background-image="figures/03/crop-pg_0041.svg" background-size="75%"} 
+## {background-image="figures/03/crop-pg_0042.svg" background-size="75%"} 
+## {background-image="figures/03/crop-pg_0043.svg" background-size="75%"} 
+## {background-image="figures/03/crop-pg_0044.svg" background-size="75%"} 
+## {background-image="figures/03/crop-pg_0045.svg" background-size="75%"} 
+## {background-image="figures/03/crop-pg_0046.svg" background-size="75%"} 
+## {background-image="figures/03/crop-pg_0047.svg" background-size="75%"} 
+## {background-image="figures/03/crop-pg_0048.svg" background-size="75%"} 
+## {background-image="figures/03/crop-pg_0049.svg" background-size="75%"} 
+## {background-image="figures/03/crop-pg_0050.svg" background-size="75%"} 
+## {background-image="figures/03/crop-pg_0051.svg" background-size="75%"} 
+## {background-image="figures/03/crop-pg_0052.svg" background-size="75%"} 
+## {background-image="figures/03/crop-pg_0053.svg" background-size="75%"} 
+## {background-image="figures/03/crop-pg_0054.svg" background-size="75%"} 
+## {background-image="figures/03/crop-pg_0055.svg" background-size="75%"} 
+
+
 
 # [3.1 The Laws of Planetary Motion](https://openstax.org/books/astronomy-2e/pages/3-1-the-laws-of-planetary-motion)
 
 ## Subsection 
 
-# [3.2 Newtonâs Great Synthesis](https://openstax.org/books/astronomy-2e/pages/3-2-newtons-great-synthesis)
+# [3.2 Newton's Great Synthesis](https://openstax.org/books/astronomy-2e/pages/3-2-newtons-great-synthesis)
 
 ## Subsection 
 
-# [3.3 Newtonâs Universal Law of Gravitation](https://openstax.org/books/astronomy-2e/pages/3-3-newtons-universal-law-of-gravitation)
+# [3.3 Newton's Universal Law of Gravitation](https://openstax.org/books/astronomy-2e/pages/3-3-newtons-universal-law-of-gravitation)
 
 ## Subsection 
 

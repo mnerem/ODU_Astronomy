@@ -30,6 +30,41 @@ revealjs-plugins:
   - pointer
 ---
 
+
+# Original Slides
+
+## {background-image="figures/01/pg_0002.svg" background-size="75%"} 
+## {background-image="figures/01/pg_0009.svg" background-size="75%"} 
+## {background-image="figures/01/pg_0010.svg" background-size="75%"} 
+## {background-image="figures/01/pg_0013.svg" background-size="75%"} 
+## {background-image="figures/01/pg_0014.svg" background-size="75%"} 
+## {background-image="figures/01/pg_0020.svg" background-size="75%"} 
+## {background-image="figures/01/pg_0025.svg" background-size="75%"} 
+## {background-image="figures/01/pg_0026.svg" background-size="75%"} 
+## {background-image="figures/01/pg_0033.svg" background-size="75%"} 
+## {background-image="figures/01/pg_0037.svg" background-size="75%"} 
+## {background-image="figures/01/pg_0038.svg" background-size="75%"} 
+## {background-image="figures/01/pg_0041.svg" background-size="75%"} 
+## {background-image="figures/01/pg_0043.svg" background-size="75%"} 
+## {background-image="figures/01/pg_0046.svg" background-size="75%"} 
+## {background-image="figures/01/pg_0049.svg" background-size="75%"} 
+## {background-image="figures/01/pg_0052.svg" background-size="75%"} 
+## {background-image="figures/01/pg_0058.svg" background-size="75%"} 
+## {background-image="figures/01/pg_0060.svg" background-size="75%"} 
+## {background-image="figures/01/pg_0061.svg" background-size="75%"} 
+## {background-image="figures/01/pg_0065.svg" background-size="75%"} 
+## {background-image="figures/01/pg_0068.svg" background-size="75%"} 
+## {background-image="figures/01/pg_0069.svg" background-size="75%"} 
+## {background-image="figures/01/pg_0072.svg" background-size="75%"} 
+## {background-image="figures/01/pg_0073.svg" background-size="75%"} 
+## {background-image="figures/01/pg_0074.svg" background-size="75%"} 
+## {background-image="figures/01/pg_0075.svg" background-size="75%"} 
+## {background-image="figures/01/pg_0079.svg" background-size="75%"} 
+## {background-image="figures/01/pg_0080.svg" background-size="75%"} 
+## {background-image="figures/01/pg_0081.svg" background-size="75%"} 
+## {background-image="figures/01/pg_0082.svg" background-size="75%"} 
+
+
 # Outline {.smaller}
 
 :::: {.columns}
