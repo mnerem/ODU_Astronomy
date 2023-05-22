@@ -1,58 +1,18 @@
-
----
-title: "6: Astronomical Instruments"
-title-slide-attributes:
-    data-background-image: figures/06/aa11673b0d943585dc7987b4c52792239a8d6c86.jpeg
-    data-background-size: contain
-    data-background-opacity: "0.5"
-format:
-  revealjs:
-    logo: "Physics Department Logo2.jpg"
-    css: logo.css
-    menu:
-      side: left
-      width: half
-      numbers: false
-      markers: true
-    mouseWheel: true
-    slide-number: c/t 
-    show-slide-number: all
-    preview-links: true
-    chalkboard: true
-    navigation-mode: vertical
-    controls: true
-    controls-tutorial: true
-    transition: convex
-    pointer:
-      pointerSize: 35
-      color: '#00a0e0'
-revealjs-plugins:
-  - pointer
----
-
+## {background-image="figures/06/pg_0001.svg" background-size="75%"} 
+## {background-image="figures/06/pg_0002.svg" background-size="75%"} 
+## {background-image="figures/06/pg_0003.svg" background-size="75%"} 
 ## {background-image="figures/06/pg_0004.svg" background-size="75%"} 
-
-# [6.1 Telescopes](https://openstax.org/books/astronomy-2e/pages/6-1-telescopes)
-
-## Systems for Measuring Radiation
-
-| | |
-|-|-|
-|**Telescope**| *bucket* for collecting light |
-|**Wavelength Filter**| Red and blue filters or spectral line accuracy |
-|**Detector**| Records the observations |
-
-![[Orion Region in (a) visible (b) X-rays and (c) infrared spectrum.](https://openstax.org/books/astronomy-2e/pages/6-1-telescopes#OSC_Astro_06_01_Originsky) ](figures/06/Orion-different-spectrums.jpeg){#fig-orion-spectrums fig-align="center"} 
-
 ## {background-image="figures/06/pg_0005.svg" background-size="75%"} 
+## {background-image="figures/06/pg_0006.svg" background-size="75%"} 
 ## {background-image="figures/06/pg_0007.svg" background-size="75%"} 
+## {background-image="figures/06/pg_0008.svg" background-size="75%"} 
 ## {background-image="figures/06/pg_0009.svg" background-size="75%"} 
-## {background-image="figures/06/pg_0014.svg" background-size="75%"} 
 ## {background-image="figures/06/pg_0010.svg" background-size="75%"} 
 ## {background-image="figures/06/pg_0011.svg" background-size="75%"} 
+## {background-image="figures/06/pg_0012.svg" background-size="75%"} 
+## {background-image="figures/06/pg_0013.svg" background-size="75%"} 
+## {background-image="figures/06/pg_0014.svg" background-size="75%"} 
 ## {background-image="figures/06/pg_0015.svg" background-size="75%"} 
-## {background-image="figures/06/pg_0039.svg" background-size="75%"} 
-## {background-image="figures/06/pg_0041.svg" background-size="75%"} 
 ## {background-image="figures/06/pg_0016.svg" background-size="75%"} 
 ## {background-image="figures/06/pg_0017.svg" background-size="75%"} 
 ## {background-image="figures/06/pg_0018.svg" background-size="75%"} 
@@ -67,45 +27,37 @@ revealjs-plugins:
 ## {background-image="figures/06/pg_0027.svg" background-size="75%"} 
 ## {background-image="figures/06/pg_0028.svg" background-size="75%"} 
 ## {background-image="figures/06/pg_0029.svg" background-size="75%"} 
+## {background-image="figures/06/pg_0030.svg" background-size="75%"} 
+## {background-image="figures/06/pg_0031.svg" background-size="75%"} 
 ## {background-image="figures/06/pg_0032.svg" background-size="75%"} 
 ## {background-image="figures/06/pg_0033.svg" background-size="75%"} 
+## {background-image="figures/06/pg_0034.svg" background-size="75%"} 
 ## {background-image="figures/06/pg_0035.svg" background-size="75%"} 
 ## {background-image="figures/06/pg_0036.svg" background-size="75%"} 
-
-# [6.2 Telescopes Today](https://openstax.org/books/astronomy-2e/pages/6-2-telescopes-today)
-
-## {background-image="figures/06/pg_0034.svg" background-size="75%"} 
 ## {background-image="figures/06/pg_0037.svg" background-size="75%"} 
 ## {background-image="figures/06/pg_0038.svg" background-size="75%"} 
-
-# [6.3 Visible-Light Detectors and Instruments](https://openstax.org/books/astronomy-2e/pages/6-3-visible-light-detectors-and-instruments)
-
+## {background-image="figures/06/pg_0039.svg" background-size="75%"} 
+## {background-image="figures/06/pg_0040.svg" background-size="75%"} 
+## {background-image="figures/06/pg_0041.svg" background-size="75%"} 
 ## {background-image="figures/06/pg_0042.svg" background-size="75%"} 
 ## {background-image="figures/06/pg_0043.svg" background-size="75%"} 
 ## {background-image="figures/06/pg_0044.svg" background-size="75%"} 
 ## {background-image="figures/06/pg_0045.svg" background-size="75%"} 
 ## {background-image="figures/06/pg_0046.svg" background-size="75%"} 
-
-# [6.4 Radio Telescopes](https://openstax.org/books/astronomy-2e/pages/6-4-radio-telescopes)
 ## {background-image="figures/06/pg_0047.svg" background-size="75%"} 
 ## {background-image="figures/06/pg_0048.svg" background-size="75%"} 
-
-
-# [6.5 Observations outside Earth's Atmosphere](https://openstax.org/books/astronomy-2e/pages/6-5-observations-outside-earths-atmosphere)
-
 ## {background-image="figures/06/pg_0049.svg" background-size="75%"} 
 ## {background-image="figures/06/pg_0050.svg" background-size="75%"} 
 ## {background-image="figures/06/pg_0051.svg" background-size="75%"} 
 ## {background-image="figures/06/pg_0052.svg" background-size="75%"} 
-
-# [6.6 The Future of Large Telescopes](https://openstax.org/books/astronomy-2e/pages/6-6-the-future-of-large-telescopes)
-
+## {background-image="figures/06/pg_0053.svg" background-size="75%"} 
+## {background-image="figures/06/pg_0054.svg" background-size="75%"} 
+## {background-image="figures/06/pg_0055.svg" background-size="75%"} 
+## {background-image="figures/06/pg_0056.svg" background-size="75%"} 
 ## {background-image="figures/06/pg_0057.svg" background-size="75%"} 
+## {background-image="figures/06/pg_0058.svg" background-size="75%"} 
 ## {background-image="figures/06/pg_0059.svg" background-size="75%"} 
 ## {background-image="figures/06/pg_0060.svg" background-size="75%"} 
 ## {background-image="figures/06/pg_0061.svg" background-size="75%"} 
-
-# Summary
-
 ## {background-image="figures/06/pg_0062.svg" background-size="75%"} 
-
+## {background-image="figures/06/temp.md" background-size="75%"} 
