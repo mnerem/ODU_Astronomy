@@ -52,7 +52,6 @@ revealjs-plugins:
 ## {background-image="figures/06/pg_0011.svg" background-size="75%"} 
 ## {background-image="figures/06/pg_0015.svg" background-size="75%"} 
 ## {background-image="figures/06/pg_0039.svg" background-size="75%"} 
-## {background-image="figures/06/pg_0041.svg" background-size="75%"} 
 ## {background-image="figures/06/pg_0016.svg" background-size="75%"} 
 ## {background-image="figures/06/pg_0017.svg" background-size="75%"} 
 ## {background-image="figures/06/pg_0018.svg" background-size="75%"} 
@@ -81,7 +80,22 @@ revealjs-plugins:
 # [6.3 Visible-Light Detectors and Instruments](https://openstax.org/books/astronomy-2e/pages/6-3-visible-light-detectors-and-instruments)
 
 ## {background-image="figures/06/pg_0042.svg" background-size="75%"} 
-## {background-image="figures/06/pg_0043.svg" background-size="75%"} 
+## Charged Couple Device (CCD)
+
+
+:::: {.columns}
+
+::: {.column width="45%"}
+- Photons excites a pixel
+- Exited pixel creates electric current
+- Current converted into a digital signal
+:::
+::: {.column width="45%"}
+![[Example of how excited pixels can create an electronic image.](https://commons.wikimedia.org/wiki/File:EMCCD2_color_en.svg) ](figures/06/EMCCD2_color_en.svg){#fig-CCD-electronics fig-align="left"} 
+:::
+
+::::
+
 ## {background-image="figures/06/pg_0044.svg" background-size="75%"} 
 ## {background-image="figures/06/pg_0045.svg" background-size="75%"} 
 ## {background-image="figures/06/pg_0046.svg" background-size="75%"} 
@@ -98,12 +112,72 @@ revealjs-plugins:
 ## {background-image="figures/06/pg_0051.svg" background-size="75%"} 
 ## {background-image="figures/06/pg_0052.svg" background-size="75%"} 
 
-# [6.6 The Future of Large Telescopes](https://openstax.org/books/astronomy-2e/pages/6-6-the-future-of-large-telescopes)
-
 ## {background-image="figures/06/pg_0057.svg" background-size="75%"} 
 ## {background-image="figures/06/pg_0059.svg" background-size="75%"} 
-## {background-image="figures/06/pg_0060.svg" background-size="75%"} 
-## {background-image="figures/06/pg_0061.svg" background-size="75%"} 
+## Neutron Stars merging
+
+{{< video figures/06/WhtDwrfCollid_ProRes_720x486_59.94fps.webmhd.webm width="900" height="500" >}}
+![[Simulation of Gravitational Waves produce by two neutron stars merging](https://svs.gsfc.nasa.gov/10543) ](){#fig-merger fig-align="left"} 
+
+## Astronomy and Computing Power
+
+- Computers are essential for astronomy
+- Perform *huge* data analysis task
+- Simulations test models to match observations
+
+![[Tidal disruption event created by a star wondering too close to a black hole.](https://svs.gsfc.nasa.gov/14132) ](figures/06/BHW_TDE_Neutrino_Illustration.gif){#fig-black-hole-sim fig-align="center"} 
+
+# [6.6 The Future of Large Telescopes](https://openstax.org/books/astronomy-2e/pages/6-6-the-future-of-large-telescopes)
+
+## James Webb Space Telescope (JWST) 
+
+
+:::: {.columns}
+
+::: {.column width="40%"}
+
+Mission Goals
+
+- Find the 1st galaxies after the Big Bang
+- Determine galactic evolution
+- Observe formation of stars and planets
+- Look for potential life
+
+:::
+::: {.column width="60%"}
+![[Full Scale Model of JWST](https://www.flickr.com/photos/nasawebbtelescope/8542011795/in/album-72157632891065602/) ](figures/06/8542011795_86a5358c56_k.jpg){#fig-JWST-model fig-align="center"} 
+:::
+
+::::
+
+## Large Ground Base Telescopes
+
+:::: {.columns}
+
+::: {.column width="50%"}
+![[European Extremely Large Telescope (ELT)](https://openstax.org/books/astronomy-2e/pages/6-6-the-future-of-large-telescopes#OSC_Astro_06_06_Conception) ](figures/06/0a6c8ba09f8cf6e3ba40c400e805e647ccc5d8b0.jpeg){#fig-ELT fig-align="center"} 
+
+- 39.3 meter primary mirror
+- 798 hexagonal mirrors 
+
+:::
+::: {.column width="50%"}
+![[Keck Telescope with **hexagonal** mirrors highlighted](https://commons.wikimedia.org/wiki/File:KeckObservatory20071013.jpg) ](figures/06/KeckObservatory20071013.png){#fig-keck-mirros fig-align="center" height=500} 
+:::
+
+::::
+
+## EHT
+
+![[8 ground based based radio telescopes connected by interferometry](https://www.youtube.com/watch?v=hMsNd1W_lmE) ](figures/06/EHT.svg){#fig-EHT fig-align="center"} 
+
+## EHT: Capturing Black hole Image
+
+![](figures/06/EHT-description.png)
+
+## EHT: M87 Super Massive Black Hole
+
+![[Transition between the observed polarization image and a best-fit theory image](https://eventhorizontelescope.org/blog/astronomers-image-magnetic-fields-edge-m87s-black-hole) ](figures/06/eht_m87_obs_the_pol_comp.gif){#fig-eht-polarization fig-align="center"} 
 
 # Summary
 

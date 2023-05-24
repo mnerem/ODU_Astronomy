@@ -1,0 +1,46 @@
+
+---
+title: "07: Other Worlds An Introduction to the Solar System"
+format:
+  revealjs:
+    logo: "Physics Department Logo2.jpg"
+    css: logo.css
+    menu:
+      side: left
+      width: half
+      numbers: true
+      markers: true
+    mouseWheel: true
+    slide-number: c/t 
+    show-slide-number: all
+    preview-links: true
+    chalkboard: true
+    navigation-mode: vertical
+    controls: true
+    controls-tutorial: true
+    transition: convex
+    pointer:
+      pointerSize: 35
+      color: '#00a0e0'
+revealjs-plugins:
+  - pointer
+---
+
+
+# [7.1 Overview of Our Planetary System](https://openstax.org/books/astronomy-2e/pages/7-1-overview-of-our-planetary-system)
+
+## Subsection 
+
+# [7.2 Composition and Structure of Planets](https://openstax.org/books/astronomy-2e/pages/7-2-composition-and-structure-of-planets)
+
+## Subsection 
+
+# [7.3 Dating Planetary Surfaces](https://openstax.org/books/astronomy-2e/pages/7-3-dating-planetary-surfaces)
+
+## Subsection 
+
+# [7.4 Origin of the Solar System](https://openstax.org/books/astronomy-2e/pages/7-4-origin-of-the-solar-system)
+
+## Subsection 
+
+# Summary
