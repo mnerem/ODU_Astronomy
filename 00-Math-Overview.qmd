@@ -7,6 +7,7 @@ title-slide-attributes:
     data-background-opacity: "0.5"
 format:
   revealjs:
+    history: false
     logo: "Physics Department Logo2.jpg"
     css: logo.css
     menu:

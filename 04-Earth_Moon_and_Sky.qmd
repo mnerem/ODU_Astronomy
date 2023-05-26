@@ -3,6 +3,7 @@
 title: "04: Earth Moon and Sky"
 format:
   revealjs:
+    history: false
     logo: "Physics Department Logo2.jpg"
     css: logo.css
     menu:

@@ -3,6 +3,7 @@
 title: "03: Orbits and Gravity"
 format:
   revealjs:
+    history: false
     logo: "Physics Department Logo2.jpg"
     css: logo.css
     menu:

@@ -7,6 +7,7 @@ title-slide-attributes:
     data-background-opacity: "0.5"
 format:
   revealjs:
+    history: false
     logo: "Physics Department Logo2.jpg"
     css: logo.css
     menu:
@@ -34,7 +35,20 @@ revealjs-plugins:
 
 # [7.1 Overview of Our Planetary System](https://openstax.org/books/astronomy-2e/pages/7-1-overview-of-our-planetary-system)
 
-## Subsection 
+## {background-image="figures/07/pg_0005.svg" background-size="75%"} 
+## {background-image="figures/07/pg_0006.svg" background-size="75%"} 
+## {background-iframe="https://eyes.nasa.gov/apps/solar-system/#/home" background-interactive=true}
+## Mass Distribution
+
+| Object | Solar System Mass %|
+|--------|---------------------------------|
+| Sun    | 99.80% |
+| Jupiter | 0.10% |
+| All other planets | 0.04% |
+| Comets | 0.0005%-0.03% |
+| Moons and Rings | 0.0005% |
+| Asteroids | 0.000002% |
+| Cosmic Dust | 0.0000001 |
 
 # [7.2 Composition and Structure of Planets](https://openstax.org/books/astronomy-2e/pages/7-2-composition-and-structure-of-planets)
 
@@ -46,37 +60,36 @@ revealjs-plugins:
 
 # [7.4 Origin of the Solar System](https://openstax.org/books/astronomy-2e/pages/7-4-origin-of-the-solar-system)
 
-## Subsection 
+# 7.4.1 Origin of the Solar System: Evidence from Far Away
+
+![[Artist impression of stars across the Milky Way and their planets.](https://commons.wikimedia.org/wiki/File:Planets_everywhere_(artist%E2%80%99s_impression).jpg) ](figures/07/Planets_everywhere_(artist’s_impression).jpg){#fig-exoplanets fig-align="center"} 
+
+## NASA Exoplanet Exploration
+
+<iframe src="https://exoplanets.nasa.gov/" width="1080" height="600"></iframe>
+
+## {background-iframe="https://exoplanets.nasa.gov/alien-worlds/ways-to-find-a-planet/" background-interactive=true}
+
+## Transit Method {.smaller}
+
+{{< video figures/07/transit_method_single_planet.mp4 width="800" height="400" >}}
+![[Measure amount light is dimmed during a planet's transit.](https://exoplanets.nasa.gov/alien-worlds/ways-to-find-a-planet/#/2) ](){#fig-exo-transit fig-align="left"} 
+
+$$ \text{Percent Reduction in light} = \frac{\text{Cross sectional area of planet}}{\text{Cross sectional area of star}}
+    = \frac{\pi r^2}{\pi R^2}
+$$
+
+## Radial Velocity
+
+## Gravitational Microlensing
+
+## Direct Imaging
+
+
+## Astrometry
 
 # Summary
-## {background-image="figures/07/pg_0001.svg" background-size="75%"} 
-## {background-image="figures/07/pg_0002.svg" background-size="75%"} 
-## {background-image="figures/07/pg_0003.svg" background-size="75%"} 
-## {background-image="figures/07/pg_0004.svg" background-size="75%"} 
-## {background-image="figures/07/pg_0005.svg" background-size="75%"} 
-## {background-image="figures/07/pg_0006.svg" background-size="75%"} 
 ## {background-image="figures/07/pg_0007.svg" background-size="75%"} 
-## {background-image="figures/07/pg_0008.svg" background-size="75%"} 
-## {background-image="figures/07/pg_0009.svg" background-size="75%"} 
-## {background-image="figures/07/pg_0010.svg" background-size="75%"} 
-## {background-image="figures/07/pg_0011.svg" background-size="75%"} 
-## {background-image="figures/07/pg_0012.svg" background-size="75%"} 
-## {background-image="figures/07/pg_0013.svg" background-size="75%"} 
-## {background-image="figures/07/pg_0014.svg" background-size="75%"} 
-## {background-image="figures/07/pg_0015.svg" background-size="75%"} 
-## {background-image="figures/07/pg_0016.svg" background-size="75%"} 
-## {background-image="figures/07/pg_0017.svg" background-size="75%"} 
-## {background-image="figures/07/pg_0018.svg" background-size="75%"} 
-## {background-image="figures/07/pg_0019.svg" background-size="75%"} 
-## {background-image="figures/07/pg_0020.svg" background-size="75%"} 
-## {background-image="figures/07/pg_0021.svg" background-size="75%"} 
-## {background-image="figures/07/pg_0022.svg" background-size="75%"} 
-## {background-image="figures/07/pg_0023.svg" background-size="75%"} 
-## {background-image="figures/07/pg_0024.svg" background-size="75%"} 
-## {background-image="figures/07/pg_0025.svg" background-size="75%"} 
-## {background-image="figures/07/pg_0026.svg" background-size="75%"} 
-## {background-image="figures/07/pg_0027.svg" background-size="75%"} 
-## {background-image="figures/07/pg_0028.svg" background-size="75%"} 
 ## {background-image="figures/07/pg_0029.svg" background-size="75%"} 
 ## {background-image="figures/07/pg_0030.svg" background-size="75%"} 
 ## {background-image="figures/07/pg_0031.svg" background-size="75%"} 
