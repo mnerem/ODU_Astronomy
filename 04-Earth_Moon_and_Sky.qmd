@@ -29,134 +29,127 @@ revealjs-plugins:
 
 # Original Slides
 
-## {background-image="figures/04/crop-pg_0001.svg" background-size="75%"} 
-## {background-image="figures/04/crop-pg_0002.svg" background-size="75%"} 
-## {background-image="figures/04/crop-pg_0003.svg" background-size="75%"} 
-## {background-image="figures/04/crop-pg_0004.svg" background-size="75%"} 
-## {background-image="figures/04/crop-pg_0005.svg" background-size="75%"} 
-## {background-image="figures/04/crop-pg_0006.svg" background-size="75%"} 
-## {background-image="figures/04/crop-pg_0007.svg" background-size="75%"} 
-## {background-image="figures/04/crop-pg_0008.svg" background-size="75%"} 
-## {background-image="figures/04/crop-pg_0009.svg" background-size="75%"} 
-## {background-image="figures/04/crop-pg_0010.svg" background-size="75%"} 
-## {background-image="figures/04/crop-pg_0011.svg" background-size="75%"} 
-## {background-image="figures/04/crop-pg_0012.svg" background-size="75%"} 
-## {background-image="figures/04/crop-pg_0013.svg" background-size="75%"} 
-## {background-image="figures/04/crop-pg_0014.svg" background-size="75%"} 
-## {background-image="figures/04/crop-pg_0015.svg" background-size="75%"} 
-## {background-image="figures/04/crop-pg_0016.svg" background-size="75%"} 
-## {background-image="figures/04/crop-pg_0017.svg" background-size="75%"} 
-## {background-image="figures/04/crop-pg_0018.svg" background-size="75%"} 
-## {background-image="figures/04/crop-pg_0019.svg" background-size="75%"} 
-## {background-image="figures/04/crop-pg_0020.svg" background-size="75%"} 
-## {background-image="figures/04/crop-pg_0021.svg" background-size="75%"} 
-## {background-image="figures/04/crop-pg_0022.svg" background-size="75%"} 
-## {background-image="figures/04/crop-pg_0023.svg" background-size="75%"} 
-## {background-image="figures/04/crop-pg_0024.svg" background-size="75%"} 
-## {background-image="figures/04/crop-pg_0025.svg" background-size="75%"} 
-## {background-image="figures/04/crop-pg_0026.svg" background-size="75%"} 
-## {background-image="figures/04/crop-pg_0027.svg" background-size="75%"} 
-## {background-image="figures/04/crop-pg_0028.svg" background-size="75%"} 
-## {background-image="figures/04/crop-pg_0029.svg" background-size="75%"} 
-## {background-image="figures/04/crop-pg_0030.svg" background-size="75%"} 
-## {background-image="figures/04/crop-pg_0031.svg" background-size="75%"} 
-## {background-image="figures/04/crop-pg_0032.svg" background-size="75%"} 
-## {background-image="figures/04/crop-pg_0033.svg" background-size="75%"} 
-## {background-image="figures/04/crop-pg_0034.svg" background-size="75%"} 
-## {background-image="figures/04/crop-pg_0035.svg" background-size="75%"} 
-## {background-image="figures/04/crop-pg_0036.svg" background-size="75%"} 
-## {background-image="figures/04/crop-pg_0037.svg" background-size="75%"} 
-## {background-image="figures/04/crop-pg_0038.svg" background-size="75%"} 
-## {background-image="figures/04/crop-pg_0039.svg" background-size="75%"} 
-## {background-image="figures/04/crop-pg_0040.svg" background-size="75%"} 
-## {background-image="figures/04/crop-pg_0041.svg" background-size="75%"} 
-## {background-image="figures/04/crop-pg_0042.svg" background-size="75%"} 
-## {background-image="figures/04/crop-pg_0043.svg" background-size="75%"} 
-## {background-image="figures/04/crop-pg_0044.svg" background-size="75%"} 
-## {background-image="figures/04/crop-pg_0045.svg" background-size="75%"} 
-## {background-image="figures/04/crop-pg_0046.svg" background-size="75%"} 
-## {background-image="figures/04/crop-pg_0047.svg" background-size="75%"} 
-## {background-image="figures/04/crop-pg_0048.svg" background-size="75%"} 
-## {background-image="figures/04/crop-pg_0049.svg" background-size="75%"} 
-## {background-image="figures/04/crop-pg_0050.svg" background-size="75%"} 
-## {background-image="figures/04/crop-pg_0051.svg" background-size="75%"} 
-## {background-image="figures/04/crop-pg_0052.svg" background-size="75%"} 
-## {background-image="figures/04/crop-pg_0053.svg" background-size="75%"} 
-## {background-image="figures/04/crop-pg_0054.svg" background-size="75%"} 
-## {background-image="figures/04/crop-pg_0055.svg" background-size="75%"} 
-## {background-image="figures/04/crop-pg_0056.svg" background-size="75%"} 
-## {background-image="figures/04/crop-pg_0057.svg" background-size="75%"} 
-## {background-image="figures/04/crop-pg_0058.svg" background-size="75%"} 
-## {background-image="figures/04/crop-pg_0059.svg" background-size="75%"} 
-## {background-image="figures/04/crop-pg_0060.svg" background-size="75%"} 
-## {background-image="figures/04/crop-pg_0061.svg" background-size="75%"} 
-## {background-image="figures/04/crop-pg_0062.svg" background-size="75%"} 
-## {background-image="figures/04/crop-pg_0063.svg" background-size="75%"} 
-## {background-image="figures/04/crop-pg_0064.svg" background-size="75%"} 
-## {background-image="figures/04/crop-pg_0065.svg" background-size="75%"} 
-## {background-image="figures/04/crop-pg_0066.svg" background-size="75%"} 
-## {background-image="figures/04/crop-pg_0067.svg" background-size="75%"} 
-## {background-image="figures/04/crop-pg_0068.svg" background-size="75%"} 
-## {background-image="figures/04/crop-pg_0069.svg" background-size="75%"} 
-## {background-image="figures/04/crop-pg_0070.svg" background-size="75%"} 
-## {background-image="figures/04/crop-pg_0071.svg" background-size="75%"} 
-## {background-image="figures/04/crop-pg_0072.svg" background-size="75%"} 
-## {background-image="figures/04/crop-pg_0073.svg" background-size="75%"} 
-## {background-image="figures/04/crop-pg_0074.svg" background-size="75%"} 
-## {background-image="figures/04/crop-pg_0075.svg" background-size="75%"} 
-## {background-image="figures/04/crop-pg_0076.svg" background-size="75%"} 
-## {background-image="figures/04/crop-pg_0077.svg" background-size="75%"} 
-## {background-image="figures/04/crop-pg_0078.svg" background-size="75%"} 
-## {background-image="figures/04/crop-pg_0079.svg" background-size="75%"} 
-## {background-image="figures/04/crop-pg_0080.svg" background-size="75%"} 
-## {background-image="figures/04/crop-pg_0081.svg" background-size="75%"} 
-## {background-image="figures/04/crop-pg_0082.svg" background-size="75%"} 
-## {background-image="figures/04/crop-pg_0083.svg" background-size="75%"} 
-## {background-image="figures/04/crop-pg_0084.svg" background-size="75%"} 
-## {background-image="figures/04/crop-pg_0085.svg" background-size="75%"} 
-## {background-image="figures/04/crop-pg_0086.svg" background-size="75%"} 
-## {background-image="figures/04/crop-pg_0087.svg" background-size="75%"} 
-## {background-image="figures/04/crop-pg_0088.svg" background-size="75%"} 
-## {background-image="figures/04/crop-pg_0089.svg" background-size="75%"} 
-## {background-image="figures/04/crop-pg_0090.svg" background-size="75%"} 
-## {background-image="figures/04/crop-pg_0091.svg" background-size="75%"} 
-## {background-image="figures/04/crop-pg_0092.svg" background-size="75%"} 
-## {background-image="figures/04/crop-pg_0093.svg" background-size="75%"} 
-## {background-image="figures/04/crop-pg_0094.svg" background-size="75%"} 
-## {background-image="figures/04/crop-pg_0095.svg" background-size="75%"} 
-## {background-image="figures/04/crop-pg_0096.svg" background-size="75%"} 
-## {background-image="figures/04/crop-pg_0097.svg" background-size="75%"} 
-## {background-image="figures/04/crop-pg_0098.svg" background-size="75%"} 
-## {background-image="figures/04/crop-pg_0099.svg" background-size="75%"} 
-## {background-image="figures/04/temp.md" background-size="75%"} 
+# {background-image="figures/04/crop-pg_0001.svg" background-size="75%"} 
+# {background-image="figures/04/crop-pg_0002.svg" background-size="75%"} 
+# {background-image="figures/04/crop-pg_0003.svg" background-size="75%"} 
+# {background-image="figures/04/crop-pg_0004.svg" background-size="75%"} 
+# {background-image="figures/04/crop-pg_0005.svg" background-size="75%"} 
+# {background-image="figures/04/crop-pg_0006.svg" background-size="75%"} 
+# {background-image="figures/04/crop-pg_0007.svg" background-size="75%"} 
+# {background-image="figures/04/crop-pg_0008.svg" background-size="75%"} 
+# {background-image="figures/04/crop-pg_0009.svg" background-size="75%"} 
+# {background-image="figures/04/crop-pg_0010.svg" background-size="75%"} 
+# {background-image="figures/04/crop-pg_0011.svg" background-size="75%"} 
+# {background-image="figures/04/crop-pg_0012.svg" background-size="75%"} 
+# {background-image="figures/04/crop-pg_0013.svg" background-size="75%"} 
+# {background-image="figures/04/crop-pg_0014.svg" background-size="75%"} 
+# {background-image="figures/04/crop-pg_0015.svg" background-size="75%"} 
+# {background-image="figures/04/crop-pg_0016.svg" background-size="75%"} 
+# {background-image="figures/04/crop-pg_0017.svg" background-size="75%"} 
+# {background-image="figures/04/crop-pg_0018.svg" background-size="75%"} 
+# {background-image="figures/04/crop-pg_0019.svg" background-size="75%"} 
+# {background-image="figures/04/crop-pg_0020.svg" background-size="75%"} 
+# {background-image="figures/04/crop-pg_0021.svg" background-size="75%"} 
+# {background-image="figures/04/crop-pg_0022.svg" background-size="75%"} 
+# {background-image="figures/04/crop-pg_0023.svg" background-size="75%"} 
+# {background-image="figures/04/crop-pg_0024.svg" background-size="75%"} 
+# {background-image="figures/04/crop-pg_0025.svg" background-size="75%"} 
+# {background-image="figures/04/crop-pg_0026.svg" background-size="75%"} 
+# {background-image="figures/04/crop-pg_0027.svg" background-size="75%"} 
+# {background-image="figures/04/crop-pg_0028.svg" background-size="75%"} 
+# {background-image="figures/04/crop-pg_0029.svg" background-size="75%"} 
+# {background-image="figures/04/crop-pg_0030.svg" background-size="75%"} 
+# {background-image="figures/04/crop-pg_0031.svg" background-size="75%"} 
+# {background-image="figures/04/crop-pg_0032.svg" background-size="75%"} 
+# {background-image="figures/04/crop-pg_0033.svg" background-size="75%"} 
+# {background-image="figures/04/crop-pg_0034.svg" background-size="75%"} 
+# {background-image="figures/04/crop-pg_0035.svg" background-size="75%"} 
+# {background-image="figures/04/crop-pg_0036.svg" background-size="75%"} 
+# {background-image="figures/04/crop-pg_0037.svg" background-size="75%"} 
+# {background-image="figures/04/crop-pg_0038.svg" background-size="75%"} 
+# {background-image="figures/04/crop-pg_0039.svg" background-size="75%"} 
+# {background-image="figures/04/crop-pg_0040.svg" background-size="75%"} 
+# {background-image="figures/04/crop-pg_0041.svg" background-size="75%"} 
+# {background-image="figures/04/crop-pg_0042.svg" background-size="75%"} 
+# {background-image="figures/04/crop-pg_0043.svg" background-size="75%"} 
+# {background-image="figures/04/crop-pg_0044.svg" background-size="75%"} 
+# {background-image="figures/04/crop-pg_0045.svg" background-size="75%"} 
+# {background-image="figures/04/crop-pg_0046.svg" background-size="75%"} 
+# {background-image="figures/04/crop-pg_0047.svg" background-size="75%"} 
+# {background-image="figures/04/crop-pg_0048.svg" background-size="75%"} 
+# {background-image="figures/04/crop-pg_0049.svg" background-size="75%"} 
+# {background-image="figures/04/crop-pg_0050.svg" background-size="75%"} 
+# {background-image="figures/04/crop-pg_0051.svg" background-size="75%"} 
+# {background-image="figures/04/crop-pg_0052.svg" background-size="75%"} 
+# {background-image="figures/04/crop-pg_0053.svg" background-size="75%"} 
+# {background-image="figures/04/crop-pg_0054.svg" background-size="75%"} 
+# {background-image="figures/04/crop-pg_0055.svg" background-size="75%"} 
+# {background-image="figures/04/crop-pg_0056.svg" background-size="75%"} 
+# {background-image="figures/04/crop-pg_0057.svg" background-size="75%"} 
+# {background-image="figures/04/crop-pg_0058.svg" background-size="75%"} 
+# {background-image="figures/04/crop-pg_0059.svg" background-size="75%"} 
+# {background-image="figures/04/crop-pg_0060.svg" background-size="75%"} 
+# {background-image="figures/04/crop-pg_0061.svg" background-size="75%"} 
+# {background-image="figures/04/crop-pg_0062.svg" background-size="75%"} 
+# {background-image="figures/04/crop-pg_0063.svg" background-size="75%"} 
+# {background-image="figures/04/crop-pg_0064.svg" background-size="75%"} 
+# {background-image="figures/04/crop-pg_0065.svg" background-size="75%"} 
+# {background-image="figures/04/crop-pg_0066.svg" background-size="75%"} 
+# {background-image="figures/04/crop-pg_0067.svg" background-size="75%"} 
+# {background-image="figures/04/crop-pg_0068.svg" background-size="75%"} 
+# {background-image="figures/04/crop-pg_0069.svg" background-size="75%"} 
+# {background-image="figures/04/crop-pg_0070.svg" background-size="75%"} 
+# {background-image="figures/04/crop-pg_0071.svg" background-size="75%"} 
+# {background-image="figures/04/crop-pg_0072.svg" background-size="75%"} 
+# {background-image="figures/04/crop-pg_0073.svg" background-size="75%"} 
+# {background-image="figures/04/crop-pg_0074.svg" background-size="75%"} 
+# {background-image="figures/04/crop-pg_0075.svg" background-size="75%"} 
+# {background-image="figures/04/crop-pg_0076.svg" background-size="75%"} 
+# {background-image="figures/04/crop-pg_0077.svg" background-size="75%"} 
+# {background-image="figures/04/crop-pg_0078.svg" background-size="75%"} 
+# {background-image="figures/04/crop-pg_0079.svg" background-size="75%"} 
+# {background-image="figures/04/crop-pg_0080.svg" background-size="75%"} 
+# {background-image="figures/04/crop-pg_0081.svg" background-size="75%"} 
+# {background-image="figures/04/crop-pg_0082.svg" background-size="75%"} 
+# {background-image="figures/04/crop-pg_0083.svg" background-size="75%"} 
+# {background-image="figures/04/crop-pg_0084.svg" background-size="75%"} 
+# {background-image="figures/04/crop-pg_0085.svg" background-size="75%"} 
+# {background-image="figures/04/crop-pg_0086.svg" background-size="75%"} 
+# {background-image="figures/04/crop-pg_0087.svg" background-size="75%"} 
+# {background-image="figures/04/crop-pg_0088.svg" background-size="75%"} 
+# {background-image="figures/04/crop-pg_0089.svg" background-size="75%"} 
+# {background-image="figures/04/crop-pg_0090.svg" background-size="75%"} 
+# {background-image="figures/04/crop-pg_0091.svg" background-size="75%"} 
+# {background-image="figures/04/crop-pg_0092.svg" background-size="75%"} 
+# {background-image="figures/04/crop-pg_0093.svg" background-size="75%"} 
+# {background-image="figures/04/crop-pg_0094.svg" background-size="75%"} 
+# {background-image="figures/04/crop-pg_0095.svg" background-size="75%"} 
+# {background-image="figures/04/crop-pg_0096.svg" background-size="75%"} 
+# {background-image="figures/04/crop-pg_0097.svg" background-size="75%"} 
+# {background-image="figures/04/crop-pg_0098.svg" background-size="75%"} 
+# {background-image="figures/04/crop-pg_0099.svg" background-size="75%"} 
+# {background-image="figures/04/temp.md" background-size="75%"} 
 
 
 # [4.1 Earth and Sky](https://openstax.org/books/astronomy-2e/pages/4-1-earth-and-sky)
 
-## Subsection 
 
 # [4.2 The Seasons](https://openstax.org/books/astronomy-2e/pages/4-2-the-seasons)
 
-## Subsection 
 
 # [4.3 Keeping Time](https://openstax.org/books/astronomy-2e/pages/4-3-keeping-time)
 
-## Subsection 
 
 # [4.4 The Calendar](https://openstax.org/books/astronomy-2e/pages/4-4-the-calendar)
 
-## Subsection 
 
 # [4.5 Phases and Motions of the Moon](https://openstax.org/books/astronomy-2e/pages/4-5-phases-and-motions-of-the-moon)
 
-## Subsection 
 
 # [4.6 Ocean Tides and the Moon](https://openstax.org/books/astronomy-2e/pages/4-6-ocean-tides-and-the-moon)
 
-## Subsection 
 
 # [4.7 Eclipses of the Sun and Moon](https://openstax.org/books/astronomy-2e/pages/4-7-eclipses-of-the-sun-and-moon)
 
-## Subsection 
 
 # Summary

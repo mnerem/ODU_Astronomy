@@ -35,14 +35,14 @@ revealjs-plugins:
 
 # [7.1 Overview of Our Planetary System](https://openstax.org/books/astronomy-2e/pages/7-1-overview-of-our-planetary-system)
 
-## {background-image="figures/07/pg_0005.svg" background-size="75%"} 
-## {background-image="figures/07/pg_0006.svg" background-size="75%"} 
-## {background-iframe="https://eyes.nasa.gov/apps/solar-system/#/home" background-interactive=true}
-## Mass Distribution
+# {background-image="figures/07/pg_0005.svg" background-size="75%"} 
+# {background-image="figures/07/pg_0006.svg" background-size="75%"} 
+# {background-iframe="https://eyes.nasa.gov/apps/solar-system/#/home" background-interactive=true}
+# Mass Distribution
 
 | Object | Solar System Mass %|
 |--------|---------------------------------|
-| Sun    | 99.80% |
+| Sun    | **99.80%** |
 | Jupiter | 0.10% |
 | All other planets | 0.04% |
 | Comets | 0.0005%-0.03% |
@@ -50,27 +50,156 @@ revealjs-plugins:
 | Asteroids | 0.000002% |
 | Cosmic Dust | 0.0000001 |
 
+# Planets {.smaller}
+
+|Planet   | Radius (AU)| Period (y) | Radius (RE) |  Mass (ME) |
+|---------|------------|------------|-------------|------------|
+| Mercury |  0.39      | 0.24       | 0.38        | 0.06       |
+| Venus   |  0.72      | 0.62       | 0.95        | 0.81       |
+| Earth   |  1         | 1          | 1           | 1          |
+| Mars    |  1.52      | 1.88       | 0.53        | 0.11       |
+| Jupiter |  5.2       | 11.86      | 11.21       | 317.58     |
+| Saturn  |  9.54      | 29.46      | 9.45        | 95.08      |
+| Uranus  | 19.18      | 84.07      | 4.01        | 14.48      |
+| Neptune | 30.06      | 164.82     | 3.89        | 17.22      |
+
+# Density Calculation
+
+::: {.callout-note icon=false}
+## Density of Saturn
+$$\text{Density}=\frac{\text{Mass}}{\text{Volume}} \qquad \rho=\frac{M}{V}$$
+$$V=\frac{4}{3}\pi r^4 $$
+$$\rho=\frac{5.683\times10^{26}\text{kg}}{\tfrac{4}{3}\pi(58.232\times10^6\text{m})^3}=687.07\text{kg/m}^3$$
+:::
+
 # [7.2 Composition and Structure of Planets](https://openstax.org/books/astronomy-2e/pages/7-2-composition-and-structure-of-planets)
 
-## Subsection 
+# Types of Planets
+
+
+:::: {.columns}
+
+::: {.column width="45%"}
+
+::: {.callout-warning icon=false}
+## Gas Planets
+- Giant Planets
+    - Jupiter
+    - Saturn
+- Ice Planets
+    - Uranus
+    - Neptune
+:::
+
+:::
+
+::: {.column width="45%"}
+
+::: {.callout-note icon=false}
+## Terrestrial Planets
+- Mercury
+- Venus
+- Earth
+- Mars
+:::
+:::
+
+::::
+
+# Interiors of the Giant Planets
+
+
+:::: {.columns}
+
+::: {.column width="45%"}
+![[Numbers are thousands of kilometers](https://openstax.org/books/astronomy-2e/pages/11-2-the-giant-planets#OSC_Astro_11_02_Internal)](figures/07/Gas-Giant-Interiors.svg){#fig-gas-interior fig-align="center" height=500} 
+:::
+::: {.column width="50%"}
+
+- At depths of a few 1,000 km, gases are compressed so much they liquefy.
+- At higher pressure and temperature, liquid hydrogen acts like a metal, metallic hydrogen.
+- Cores are a liquid mixture of water, rock, and metals.
+:::
+
+::::
+
+# Interiors of the Terrestrial Planets
+
+![[Composes mostly of rocks and metals](https://en.wikipedia.org/wiki/File:Terrestial_Planets_internal_en.jpg) ](figures/07/1024px-Terrestial_Planets_internal_en.jpg){#fig-terrestrial-interior fig-align="center"} 
+
+# Moons, Asteroids, and Comets
+
+
+:::: {.columns}
+
+::: {.column width="33%"}
+
+::: {.callout-note appearance="minimal"}
+![[Phobos: One of the moons of Mars](https://en.wikipedia.org/wiki/File:Phobos_colour_2008.jpg) ](figures/07/Phobos_colour_2008.jpg){#fig-phobos fig-align="center" height=250} 
+:::
+
+:::
+::: {.column width="33%"}
+
+::: {.callout-note appearance="minimal"}
+![[Largest to smallest asteroids](https://en.wikipedia.org/wiki/Asteroid#/media/File:Asteroidsscale.jpg) ](figures/07/Asteroidsscale.jpg){#fig-asteroids fig-align="center" height=250} 
+:::
+
+:::
+::: {.column width="33%"}
+
+::: {.callout-note appearance="minimal"}
+![[Hartley 2 comet ejecting gas and snow](https://commons.wikimedia.org/wiki/File:Hartley2jets2_epoxi_big.jpg) ](figures/07/443px-Hartley2jets2_epoxi_big.jpg){#fig-comets fig-align="center" height=250} 
+:::
+
+:::
+
+::::
 
 # [7.3 Dating Planetary Surfaces](https://openstax.org/books/astronomy-2e/pages/7-3-dating-planetary-surfaces)
 
-## Subsection 
+# {background-image="figures/07/old08-pg_0007.svg" background-size="75%"} 
+# {background-image="figures/07/old08-pg_0008.svg" background-size="75%"} 
+# {background-image="figures/07/old08-pg_0009.svg" background-size="75%"} 
+# {background-image="figures/07/old08-pg_0011.svg" background-size="75%"} 
+# {background-image="figures/07/old08-pg_0012.svg" background-size="75%"} 
+# {background-image="figures/07/old08-pg_0013.svg" background-size="75%"} 
+# {background-image="figures/07/old08-pg_0014.svg" background-size="75%"} 
+# {background-image="figures/07/old08-pg_0015.svg" background-size="75%"} 
+# {background-image="figures/07/old08-pg_0016.svg" background-size="75%"} 
+# {background-image="figures/07/old08-pg_0017.svg" background-size="75%"} 
+# {background-image="figures/07/old08-pg_0018.svg" background-size="75%"} 
+# {background-image="figures/07/old08-pg_0019.svg" background-size="75%"} 
+
 
 # [7.4 Origin of the Solar System](https://openstax.org/books/astronomy-2e/pages/7-4-origin-of-the-solar-system)
+
+# {background-image="figures/07/old07-pg_0007.svg" background-size="75%"} 
+# {background-image="figures/07/old07-pg_0008.svg" background-size="75%"} 
+# {background-image="figures/07/old07-pg_0009.svg" background-size="75%"} 
+# {background-image="figures/07/old07-pg_0010.svg" background-size="75%"} 
+# {background-image="figures/07/old07-pg_0011.svg" background-size="75%"} 
+# {background-image="figures/07/old07-pg_0012.svg" background-size="75%"} 
+# {background-image="figures/07/old07-pg_0013.svg" background-size="75%"} 
+# {background-image="figures/07/old07-pg_0014.svg" background-size="75%"} 
+# {background-image="figures/07/old07-pg_0015.svg" background-size="75%"} 
+# {background-image="figures/07/old07-pg_0016.svg" background-size="75%"} 
+# {background-image="figures/07/old07-pg_0017.svg" background-size="75%"} 
+# {background-image="figures/07/old07-pg_0018.svg" background-size="75%"} 
+# {background-image="figures/07/old07-pg_0019.svg" background-size="75%"} 
+
 
 # 7.4.1 Origin of the Solar System: Evidence from Far Away
 
 ![[Artist impression of stars across the Milky Way and their planets.](https://commons.wikimedia.org/wiki/File:Planets_everywhere_(artist%E2%80%99s_impression).jpg) ](figures/07/Planets_everywhere_(artist’s_impression).jpg){#fig-exoplanets fig-align="center"} 
 
-## NASA Exoplanet Exploration
+# NASA Exoplanet Exploration
 
 <iframe src="https://exoplanets.nasa.gov/" width="1080" height="600"></iframe>
 
-## {background-iframe="https://exoplanets.nasa.gov/alien-worlds/ways-to-find-a-planet/" background-interactive=true}
+# {background-iframe="https://exoplanets.nasa.gov/alien-worlds/ways-to-find-a-planet/" background-interactive=true}
 
-## Transit Method {.smaller}
+# Transit Method {.smaller}
 
 {{< video figures/07/transit_method_single_planet.mp4 width="800" height="400" >}}
 ![[Measure amount light is dimmed during a planet's transit.](https://exoplanets.nasa.gov/alien-worlds/ways-to-find-a-planet/#/2) ](){#fig-exo-transit fig-align="left"} 
@@ -79,31 +208,39 @@ $$ \text{Percent Reduction in light} = \frac{\text{Cross sectional area of plane
     = \frac{\pi r^2}{\pi R^2}
 $$
 
-## Radial Velocity
+# Radial Velocity
 
-## Gravitational Microlensing
+{{< video figures/07/radial_velocity.mp4 width="800" height="400" >}}
+![[Motion of star detected as Doppler shifts on Earth.](https://exoplanets.nasa.gov/alien-worlds/ways-to-find-a-planet/#/1) ](){#fig-exo-radial-velocity fig-align="left"} 
 
-## Direct Imaging
+- Stars with **periodic** velocity changes are orbited by planets.
+- Stars and planets orbit their center of mass.
+
+# Gravitational Microlensing
 
 
-## Astrometry
+
+# Direct Imaging
+
+
+# Astrometry
 
 # Summary
-## {background-image="figures/07/pg_0007.svg" background-size="75%"} 
-## {background-image="figures/07/pg_0029.svg" background-size="75%"} 
-## {background-image="figures/07/pg_0030.svg" background-size="75%"} 
-## {background-image="figures/07/pg_0031.svg" background-size="75%"} 
-## {background-image="figures/07/pg_0032.svg" background-size="75%"} 
-## {background-image="figures/07/pg_0033.svg" background-size="75%"} 
-## {background-image="figures/07/pg_0034.svg" background-size="75%"} 
-## {background-image="figures/07/pg_0035.svg" background-size="75%"} 
-## {background-image="figures/07/pg_0036.svg" background-size="75%"} 
-## {background-image="figures/07/pg_0037.svg" background-size="75%"} 
-## {background-image="figures/07/pg_0038.svg" background-size="75%"} 
-## {background-image="figures/07/pg_0039.svg" background-size="75%"} 
-## {background-image="figures/07/pg_0040.svg" background-size="75%"} 
-## {background-image="figures/07/pg_0041.svg" background-size="75%"} 
-## {background-image="figures/07/pg_0042.svg" background-size="75%"} 
-## {background-image="figures/07/pg_0043.svg" background-size="75%"} 
-## {background-image="figures/07/pg_0044.svg" background-size="75%"} 
-## {background-image="figures/07/pg_0045.svg" background-size="75%"} 
+# {background-image="figures/07/pg_0007.svg" background-size="75%"} 
+# {background-image="figures/07/pg_0029.svg" background-size="75%"} 
+# {background-image="figures/07/pg_0030.svg" background-size="75%"} 
+# {background-image="figures/07/pg_0031.svg" background-size="75%"} 
+# {background-image="figures/07/pg_0032.svg" background-size="75%"} 
+# {background-image="figures/07/pg_0033.svg" background-size="75%"} 
+# {background-image="figures/07/pg_0034.svg" background-size="75%"} 
+# {background-image="figures/07/pg_0035.svg" background-size="75%"} 
+# {background-image="figures/07/pg_0036.svg" background-size="75%"} 
+# {background-image="figures/07/pg_0037.svg" background-size="75%"} 
+# {background-image="figures/07/pg_0038.svg" background-size="75%"} 
+# {background-image="figures/07/pg_0039.svg" background-size="75%"} 
+# {background-image="figures/07/pg_0040.svg" background-size="75%"} 
+# {background-image="figures/07/pg_0041.svg" background-size="75%"} 
+# {background-image="figures/07/pg_0042.svg" background-size="75%"} 
+# {background-image="figures/07/pg_0043.svg" background-size="75%"} 
+# {background-image="figures/07/pg_0044.svg" background-size="75%"} 
+# {background-image="figures/07/pg_0045.svg" background-size="75%"} 

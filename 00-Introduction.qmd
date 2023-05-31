@@ -105,9 +105,9 @@ Link broken
 
 # Class Calendar
 
-## Synchronous Course {background-iframe="https://calendar.google.com/calendar/embed?src=c_aaaq91pmjpi4eb9gjj4hpitu5o%40group.calendar.google.com&ctz=America%2FNew_York"}
+# Synchronous Course {background-iframe="https://calendar.google.com/calendar/embed?src=c_aaaq91pmjpi4eb9gjj4hpitu5o%40group.calendar.google.com&ctz=America%2FNew_York"}
 
-## Asynchronous Course {background-iframe="https://calendar.google.com/calendar/embed?src=c_09gutgl9ffeda7cs1plas8dnms%40group.calendar.google.com&ctz=America%2FNew_York"}
+# Asynchronous Course {background-iframe="https://calendar.google.com/calendar/embed?src=c_09gutgl9ffeda7cs1plas8dnms%40group.calendar.google.com&ctz=America%2FNew_York"}
 
 # Final Thoughts
 

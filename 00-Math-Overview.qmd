@@ -105,7 +105,7 @@ $$t\propto\frac{1}{v}$$
 ::: {.column width="45%"}
 
 ::: {.callout-note}
-## Circle
+# Circle
 
 ![](figures/00/circle-geometry.svg){height=450 fig-align="center"}
 
@@ -115,7 +115,7 @@ $$t\propto\frac{1}{v}$$
 ::: {.column width="45%"}
 
 ::: {.callout-note}
-## Sphere
+# Sphere
 
 ![](figures/00/sphere-geometry.svg){height=450 fig-align="center"}
 

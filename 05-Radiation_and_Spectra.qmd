@@ -36,87 +36,87 @@ revealjs-plugins:
 # {background-image="figures/05/pg_0004.svg" background-size="75%"} 
 
 # [5.1 The Behavior of Light](https://openstax.org/books/astronomy-2e/pages/5-1-the-behavior-of-light)
-## {background-image="figures/05/pg_0005.svg" background-size="75%"} 
-## {background-image="figures/05/pg_0006.svg" background-size="75%"} 
-## {background-image="figures/05/pg_0007.svg" background-size="75%"} 
-## {background-image="figures/05/pg_0008.svg" background-size="75%"} 
-## {background-image="figures/05/pg_0009.svg" background-size="75%"} 
-## {background-image="figures/05/pg_0010.svg" background-size="75%"} 
-## {background-image="figures/05/pg_0011.svg" background-size="75%"} 
-## {background-image="figures/05/pg_0012.svg" background-size="75%"} 
-## {background-image="figures/05/pg_0013.svg" background-size="75%"} 
-## {background-image="figures/05/pg_0014.svg" background-size="75%"} 
-## {background-image="figures/05/pg_0015.svg" background-size="75%"} 
-## {background-image="figures/05/pg_0016.svg" background-size="75%"} 
-## {background-image="figures/05/pg_0021.svg" background-size="75%"} 
+# {background-image="figures/05/pg_0005.svg" background-size="75%"} 
+# {background-image="figures/05/pg_0006.svg" background-size="75%"} 
+# {background-image="figures/05/pg_0007.svg" background-size="75%"} 
+# {background-image="figures/05/pg_0008.svg" background-size="75%"} 
+# {background-image="figures/05/pg_0009.svg" background-size="75%"} 
+# {background-image="figures/05/pg_0010.svg" background-size="75%"} 
+# {background-image="figures/05/pg_0011.svg" background-size="75%"} 
+# {background-image="figures/05/pg_0012.svg" background-size="75%"} 
+# {background-image="figures/05/pg_0013.svg" background-size="75%"} 
+# {background-image="figures/05/pg_0014.svg" background-size="75%"} 
+# {background-image="figures/05/pg_0015.svg" background-size="75%"} 
+# {background-image="figures/05/pg_0016.svg" background-size="75%"} 
+# {background-image="figures/05/pg_0021.svg" background-size="75%"} 
 
 # 5.1.1 Wave-Particle Duality
-## {background-image="figures/05/pg_0048.svg" background-size="75%"} 
-## {background-image="figures/05/pg_0049.svg" background-size="75%"} 
-## {background-image="figures/05/pg_0050.svg" background-size="75%"} 
-## {background-image="figures/05/pg_0051.svg" background-size="75%"} 
-## {background-image="figures/05/pg_0052.svg" background-size="75%"} 
-## {background-image="figures/05/pg_0053.svg" background-size="75%"} 
-## {background-image="figures/05/pg_0054.svg" background-size="75%"} 
-## {background-image="figures/05/pg_0055.svg" background-size="75%"} 
-## {background-image="figures/05/pg_0056.svg" background-size="75%"} 
-## {background-image="figures/05/pg_0057.svg" background-size="75%"} 
-## {background-image="figures/05/pg_0058.svg" background-size="75%"} 
-## Wave Interference
+# {background-image="figures/05/pg_0048.svg" background-size="75%"} 
+# {background-image="figures/05/pg_0049.svg" background-size="75%"} 
+# {background-image="figures/05/pg_0050.svg" background-size="75%"} 
+# {background-image="figures/05/pg_0051.svg" background-size="75%"} 
+# {background-image="figures/05/pg_0052.svg" background-size="75%"} 
+# {background-image="figures/05/pg_0053.svg" background-size="75%"} 
+# {background-image="figures/05/pg_0054.svg" background-size="75%"} 
+# {background-image="figures/05/pg_0055.svg" background-size="75%"} 
+# {background-image="figures/05/pg_0056.svg" background-size="75%"} 
+# {background-image="figures/05/pg_0057.svg" background-size="75%"} 
+# {background-image="figures/05/pg_0058.svg" background-size="75%"} 
+# Wave Interference
 
 
 ![[Different phases result in different amounts of constructive or destructive interference](https://commons.wikimedia.org/wiki/File:Waventerference.gif) ](figures/05/Waventerference.gif){#fig-phase-interference fig-align="left"} 
 
-## Double Slit Wave Interference
+# Double Slit Wave Interference
 
 ![[Plane Wave (left) passing through a double slit.](https://commons.wikimedia.org/wiki/File:Doubleslit3Dspectrum.gif) ](figures/05/Doubleslit3Dspectrum.gif){#fig-double-slit-gif fig-align="center"} 
 
-## {background-image="figures/05/pg_0061.svg" background-size="75%"} 
-## {background-image="figures/05/pg_0062.svg" background-size="75%"} 
-## {background-image="figures/05/pg_0063.svg" background-size="75%"} 
-## {background-image="figures/05/pg_0064.svg" background-size="75%"} 
-## {background-image="figures/05/pg_0065.svg" background-size="75%"} 
-## {background-image="figures/05/pg_0066.svg" background-size="75%"} 
-## {background-image="figures/05/pg_0067.svg" background-size="75%"} 
-## {background-image="figures/05/pg_0068.svg" background-size="75%"} 
-## {background-image="figures/05/pg_0069.svg" background-size="75%"} 
-## {background-image="figures/05/pg_0070.svg" background-size="75%"} 
-## {background-image="figures/05/pg_0071.svg" background-size="75%"} 
-## {background-image="figures/05/pg_0072.svg" background-size="75%"} 
-## {background-image="figures/05/pg_0073.svg" background-size="75%"} 
+# {background-image="figures/05/pg_0061.svg" background-size="75%"} 
+# {background-image="figures/05/pg_0062.svg" background-size="75%"} 
+# {background-image="figures/05/pg_0063.svg" background-size="75%"} 
+# {background-image="figures/05/pg_0064.svg" background-size="75%"} 
+# {background-image="figures/05/pg_0065.svg" background-size="75%"} 
+# {background-image="figures/05/pg_0066.svg" background-size="75%"} 
+# {background-image="figures/05/pg_0067.svg" background-size="75%"} 
+# {background-image="figures/05/pg_0068.svg" background-size="75%"} 
+# {background-image="figures/05/pg_0069.svg" background-size="75%"} 
+# {background-image="figures/05/pg_0070.svg" background-size="75%"} 
+# {background-image="figures/05/pg_0071.svg" background-size="75%"} 
+# {background-image="figures/05/pg_0072.svg" background-size="75%"} 
+# {background-image="figures/05/pg_0073.svg" background-size="75%"} 
 
 # [5.2 The Electromagnetic Spectrum](https://openstax.org/books/astronomy-2e/pages/5-2-the-electromagnetic-spectrum)
-## {background-image="figures/05/pg_0017.svg" background-size="75%"} 
-## {background-image="figures/05/pg_0018.svg" background-size="75%"} 
-## EM Spectrum
+# {background-image="figures/05/pg_0017.svg" background-size="75%"} 
+# {background-image="figures/05/pg_0018.svg" background-size="75%"} 
+# EM Spectrum
 
 ![[Chart of different ways to interpret the EM spectrum.](https://commons.wikimedia.org/wiki/File:EM_Spectrum_Properties_edit.svg) ](./figures/05/EM_Spectrum_Properties_edit.svg){#fig-em-spectrum fig-align="center"} 
 
-## {background-image="figures/05/pg_0022.svg" background-size="75%"} 
-## {background-image="figures/05/pg_0025.svg" background-size="75%"} 
+# {background-image="figures/05/pg_0022.svg" background-size="75%"} 
+# {background-image="figures/05/pg_0025.svg" background-size="75%"} 
 
 # 5.2.1 Radiation and Temperature
-## {background-image="figures/05/pg_0074.svg" background-size="75%"} 
-## {background-image="figures/05/pg_0075.svg" background-size="75%"} 
-## {background-image="figures/05/pg_0076.svg" background-size="75%"} 
-## {background-image="figures/05/pg_0077.svg" background-size="75%"} 
-## {background-image="figures/05/pg_0078.svg" background-size="75%"} 
-## {background-image="figures/05/pg_0079.svg" background-size="75%"} 
-## {background-image="figures/05/pg_0080.svg" background-size="75%"} 
-## {background-image="figures/05/pg_0081.svg" background-size="75%"} 
-## {background-image="figures/05/pg_0082.svg" background-size="75%"} 
-## {background-image="figures/05/pg_0083.svg" background-size="75%"} 
-## {background-image="figures/05/pg_0084.svg" background-size="75%"} 
-## {background-image="figures/05/pg_0085.svg" background-size="75%"} 
-## {background-image="figures/05/pg_0086.svg" background-size="75%"} 
+# {background-image="figures/05/pg_0074.svg" background-size="75%"} 
+# {background-image="figures/05/pg_0075.svg" background-size="75%"} 
+# {background-image="figures/05/pg_0076.svg" background-size="75%"} 
+# {background-image="figures/05/pg_0077.svg" background-size="75%"} 
+# {background-image="figures/05/pg_0078.svg" background-size="75%"} 
+# {background-image="figures/05/pg_0079.svg" background-size="75%"} 
+# {background-image="figures/05/pg_0080.svg" background-size="75%"} 
+# {background-image="figures/05/pg_0081.svg" background-size="75%"} 
+# {background-image="figures/05/pg_0082.svg" background-size="75%"} 
+# {background-image="figures/05/pg_0083.svg" background-size="75%"} 
+# {background-image="figures/05/pg_0084.svg" background-size="75%"} 
+# {background-image="figures/05/pg_0085.svg" background-size="75%"} 
+# {background-image="figures/05/pg_0086.svg" background-size="75%"} 
 
 # [5.3 Spectroscopy in Astronomy](https://openstax.org/books/astronomy-2e/pages/5-3-spectroscopy-in-astronomy)
 
-## How to see a spectrum
+# How to see a spectrum
 
 ![[Different Wavelengths refract different amounts.](https://openstax.org/books/astronomy-2e/pages/5-3-spectroscopy-in-astronomy#OSC_Astro_05_02_Prism) ](./figures/05/6c4f556160b5a4c85c149507ea2838314931847d.jpeg){#fig-prims fig-align="left"} 
 
-## Types of Spectra
+# Types of Spectra
 
 ![[Continuous Spectrum](https://openstax.org/books/astronomy-2e/pages/5-3-spectroscopy-in-astronomy#OSC_Astro_05_03_DElement) ](figures/05/continuous-spectrum.png){#fig-cont-spec fig-align="left"} 
 
@@ -136,21 +136,21 @@ revealjs-plugins:
 ::::
 
 # [5.4 The Structure of the Atom](https://openstax.org/books/astronomy-2e/pages/5-4-the-structure-of-the-atom)
-## {background-image="figures/05/pg_0028.svg" background-size="75%"} 
+# {background-image="figures/05/pg_0028.svg" background-size="75%"} 
 
 # [5.5 Formation of Spectral Lines](https://openstax.org/books/astronomy-2e/pages/5-5-formation-of-spectral-lines)
-## {background-image="figures/05/pg_0029.svg" background-size="75%"} 
-## {background-image="figures/05/pg_0030.svg" background-size="75%"} 
-## {background-image="figures/05/pg_0031.svg" background-size="75%"} 
-## {background-image="figures/05/pg_0032.svg" background-size="75%"} 
-## {background-image="figures/05/pg_0033.svg" background-size="75%"} 
-## {background-image="figures/05/pg_0034.svg" background-size="75%"} 
-## {background-image="figures/05/pg_0035.svg" background-size="75%"} 
-## {background-image="figures/05/pg_0038.svg" background-size="75%"} 
-## {background-image="figures/05/pg_0041.svg" background-size="75%"} 
-## {background-image="figures/05/pg_0042.svg" background-size="75%"} 
-## {background-image="figures/05/pg_0043.svg" background-size="75%"} 
-## {background-image="figures/05/pg_0044.svg" background-size="75%"} 
+# {background-image="figures/05/pg_0029.svg" background-size="75%"} 
+# {background-image="figures/05/pg_0030.svg" background-size="75%"} 
+# {background-image="figures/05/pg_0031.svg" background-size="75%"} 
+# {background-image="figures/05/pg_0032.svg" background-size="75%"} 
+# {background-image="figures/05/pg_0033.svg" background-size="75%"} 
+# {background-image="figures/05/pg_0034.svg" background-size="75%"} 
+# {background-image="figures/05/pg_0035.svg" background-size="75%"} 
+# {background-image="figures/05/pg_0038.svg" background-size="75%"} 
+# {background-image="figures/05/pg_0041.svg" background-size="75%"} 
+# {background-image="figures/05/pg_0042.svg" background-size="75%"} 
+# {background-image="figures/05/pg_0043.svg" background-size="75%"} 
+# {background-image="figures/05/pg_0044.svg" background-size="75%"} 
 
 
 
@@ -158,8 +158,8 @@ revealjs-plugins:
 
 
 # [5.6 The Doppler Effect](https://openstax.org/books/astronomy-2e/pages/5-6-the-doppler-effect)
-## {background-image="figures/05/pg_0045.svg" background-size="75%"} 
-## {background-image="figures/05/pg_0046.svg" background-size="75%"} 
-## {background-image="figures/05/pg_0047.svg" background-size="75%"} 
+# {background-image="figures/05/pg_0045.svg" background-size="75%"} 
+# {background-image="figures/05/pg_0046.svg" background-size="75%"} 
+# {background-image="figures/05/pg_0047.svg" background-size="75%"} 
 
 # {background-image="figures/05/pg_0087.svg" background-size="75%"} 

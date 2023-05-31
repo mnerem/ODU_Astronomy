@@ -34,36 +34,36 @@ revealjs-plugins:
 
 # Original Slides
 
-## {background-image="figures/01/pg_0002.svg" background-size="75%"} 
-## {background-image="figures/01/pg_0009.svg" background-size="75%"} 
-## {background-image="figures/01/pg_0010.svg" background-size="75%"} 
-## {background-image="figures/01/pg_0013.svg" background-size="75%"} 
-## {background-image="figures/01/pg_0014.svg" background-size="75%"} 
-## {background-image="figures/01/pg_0020.svg" background-size="75%"} 
-## {background-image="figures/01/pg_0025.svg" background-size="75%"} 
-## {background-image="figures/01/pg_0026.svg" background-size="75%"} 
-## {background-image="figures/01/pg_0033.svg" background-size="75%"} 
-## {background-image="figures/01/pg_0037.svg" background-size="75%"} 
-## {background-image="figures/01/pg_0038.svg" background-size="75%"} 
-## {background-image="figures/01/pg_0041.svg" background-size="75%"} 
-## {background-image="figures/01/pg_0043.svg" background-size="75%"} 
-## {background-image="figures/01/pg_0046.svg" background-size="75%"} 
-## {background-image="figures/01/pg_0049.svg" background-size="75%"} 
-## {background-image="figures/01/pg_0052.svg" background-size="75%"} 
-## {background-image="figures/01/pg_0058.svg" background-size="75%"} 
-## {background-image="figures/01/pg_0060.svg" background-size="75%"} 
-## {background-image="figures/01/pg_0061.svg" background-size="75%"} 
-## {background-image="figures/01/pg_0065.svg" background-size="75%"} 
-## {background-image="figures/01/pg_0068.svg" background-size="75%"} 
-## {background-image="figures/01/pg_0069.svg" background-size="75%"} 
-## {background-image="figures/01/pg_0072.svg" background-size="75%"} 
-## {background-image="figures/01/pg_0073.svg" background-size="75%"} 
-## {background-image="figures/01/pg_0074.svg" background-size="75%"} 
-## {background-image="figures/01/pg_0075.svg" background-size="75%"} 
-## {background-image="figures/01/pg_0079.svg" background-size="75%"} 
-## {background-image="figures/01/pg_0080.svg" background-size="75%"} 
-## {background-image="figures/01/pg_0081.svg" background-size="75%"} 
-## {background-image="figures/01/pg_0082.svg" background-size="75%"} 
+# {background-image="figures/01/pg_0002.svg" background-size="75%"} 
+# {background-image="figures/01/pg_0009.svg" background-size="75%"} 
+# {background-image="figures/01/pg_0010.svg" background-size="75%"} 
+# {background-image="figures/01/pg_0013.svg" background-size="75%"} 
+# {background-image="figures/01/pg_0014.svg" background-size="75%"} 
+# {background-image="figures/01/pg_0020.svg" background-size="75%"} 
+# {background-image="figures/01/pg_0025.svg" background-size="75%"} 
+# {background-image="figures/01/pg_0026.svg" background-size="75%"} 
+# {background-image="figures/01/pg_0033.svg" background-size="75%"} 
+# {background-image="figures/01/pg_0037.svg" background-size="75%"} 
+# {background-image="figures/01/pg_0038.svg" background-size="75%"} 
+# {background-image="figures/01/pg_0041.svg" background-size="75%"} 
+# {background-image="figures/01/pg_0043.svg" background-size="75%"} 
+# {background-image="figures/01/pg_0046.svg" background-size="75%"} 
+# {background-image="figures/01/pg_0049.svg" background-size="75%"} 
+# {background-image="figures/01/pg_0052.svg" background-size="75%"} 
+# {background-image="figures/01/pg_0058.svg" background-size="75%"} 
+# {background-image="figures/01/pg_0060.svg" background-size="75%"} 
+# {background-image="figures/01/pg_0061.svg" background-size="75%"} 
+# {background-image="figures/01/pg_0065.svg" background-size="75%"} 
+# {background-image="figures/01/pg_0068.svg" background-size="75%"} 
+# {background-image="figures/01/pg_0069.svg" background-size="75%"} 
+# {background-image="figures/01/pg_0072.svg" background-size="75%"} 
+# {background-image="figures/01/pg_0073.svg" background-size="75%"} 
+# {background-image="figures/01/pg_0074.svg" background-size="75%"} 
+# {background-image="figures/01/pg_0075.svg" background-size="75%"} 
+# {background-image="figures/01/pg_0079.svg" background-size="75%"} 
+# {background-image="figures/01/pg_0080.svg" background-size="75%"} 
+# {background-image="figures/01/pg_0081.svg" background-size="75%"} 
+# {background-image="figures/01/pg_0082.svg" background-size="75%"} 
 
 
 # Outline {.smaller}
@@ -107,7 +107,7 @@ revealjs-plugins:
 ::::
 
 
-## **Observational** Science
+# **Observational** Science
 
 ![Galaxy Distribution from Sloan Digital Sky Survey compared with Bolshoi computer simulation](figures/01/Galaxy-distribution-as-obtained-from-the-SDSS-20-left-and-the-one-extracted-from.jpeg){#fig-sldd fig-align="center"}
 
@@ -115,7 +115,7 @@ revealjs-plugins:
 [Image source](https://www.researchgate.net/publication/257434419_Framing_the_Dark_Theory_and_phenomenology_of_a_non-minimally_coupled_dark_matter_fluid) 
 :::
 
-## Modern Astronomy {background-image="figures/01/hst30th-5stars-1918a.jpg" background-size="cover" background-opacity=".35"}
+# Modern Astronomy {background-image="figures/01/hst30th-5stars-1918a.jpg" background-size="cover" background-opacity=".35"}
 
 Studying the Universe reveals many things
 
@@ -126,11 +126,11 @@ Studying the Universe reveals many things
 
 # [1.2 The Nature of Science](https://openstax.org/books/astronomy-2e/pages/1-2-the-nature-of-science)
 
-## Scientific ideas change over time 
+# Scientific ideas change over time 
 
 <iframe width=1000px height=800px src="https://astro.unl.edu/classaction/animations/renaissance/pathtracer.html"></iframe>
 
-## Hypothesis
+# Hypothesis
 
 An idea that has **testable** and **falsifiable** predictions.
 
@@ -141,7 +141,7 @@ An idea that has **testable** and **falsifiable** predictions.
 Is a hypothesis
 
 ::: {.callout-note}
-## Speed of light is constant
+# Speed of light is constant
 - Can be falsified. Find one thing moving faster.
 - Leads to *Theory of Special Relativity*.
 :::
@@ -151,7 +151,7 @@ Is a hypothesis
 Is not a hypothesis
 
 ::: {.callout-important}
-## A teacup orbits Mars
+# A teacup orbits Mars
 - Cannot be falsified? You just haven't looked hard enough.
 - Has no predicting utility.
 :::
@@ -160,7 +160,7 @@ Is not a hypothesis
 ::::
 
 
-## Scientific Ideas Change {.center .smaller}
+# Scientific Ideas Change {.center .smaller}
 
 Have you ever heard of the Luminiferous ether?
 
@@ -173,7 +173,7 @@ Have you ever heard of the Luminiferous ether?
 Old ideas are rejected in science! 
 :::
 
-## Scientific Progress
+# Scientific Progress
 
 
 :::: {.columns}
@@ -197,30 +197,24 @@ Einstein's Cosmological constant
 
 # [1.3 The Laws of Nature](https://openstax.org/books/astronomy-2e/pages/1-3-the-laws-of-nature)
 
-## Subsection 
 
 # [1.4 Numbers in Astronomy](https://openstax.org/books/astronomy-2e/pages/1-4-numbers-in-astronomy)
 
-## Subsection 
 
 # [1.5 Consequences of Light Travel Time](https://openstax.org/books/astronomy-2e/pages/1-5-consequences-of-light-travel-time)
 
-## Subsection 
 
 # [1.6 A Tour of the Universe](https://openstax.org/books/astronomy-2e/pages/1-6-a-tour-of-the-universe)
 
-## Subsection 
 
 # [1.7 The Universe on the Large Scale](https://openstax.org/books/astronomy-2e/pages/1-7-the-universe-on-the-large-scale)
 
-## Subsection 
 
 # [1.8 The Universe of the Very Small](https://openstax.org/books/astronomy-2e/pages/1-8-the-universe-of-the-very-small)
 
-## Subsection 
 
 # [1.9 A Conclusion and a Beginning](https://openstax.org/books/astronomy-2e/pages/1-9-a-conclusion-and-a-beginning)
 
-## Subsection 
+# Subsection 
 
 # Summary
