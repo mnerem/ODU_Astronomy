@@ -31,6 +31,36 @@ revealjs-plugins:
   - pointer
 ---
 
+# The Moon and Mercury {.smaller}
+
+
+:::: {.columns}
+
+::: {.column width="22%"}
+::: {.callout-note appearance="minimal"}
+![[Image captured 10-22-2010.](https://en.wikipedia.org/wiki/File:FullMoon2010.jpg) ](figures/09/FullMoon2010.jpg){#fig-moon fig-align="center"}
+::: 
+:::
+::: {.column width="54%"}
+|Moon | Property  |   Mercury |
+|-------:|:-------:|-----------:|
+| 0.0123 | Mass (Earth = 1)             |  0.055  |
+| 3476   | Diameter (km)                |  4878  |
+|  3.3   | Density (g/cm$^3$)           |  5.4  |
+|  0.17  | Surface gravity (Earth = 1)  |  0.38  |
+|  2.4   | Escape velocity (km/s)       |  4.3   |
+| 27.3   | Rotation period (days)       | 58.65  |
+|  0.27  | Surface area (Earth = 1)     |  0.38  |
+:::
+
+::: {.column width="22%"}
+::: {.callout-note appearance="minimal"}
+![[True color image of Mercury.](https://photojournal.jpl.nasa.gov/catalog/PIA11364) ](figures/09/Mercury_in_true_color.jpg){#fig-moon fig-align="center"}
+:::
+:::
+::::
+
+
 
 # [9.1 General Properties of the Moon](https://openstax.org/books/astronomy-2e/pages/9-1-general-properties-of-the-moon)
 
@@ -50,6 +80,23 @@ revealjs-plugins:
 |Apollo 16|Apr. 1972|First landing in highlands; 95 kg of samples returned|
 |Apollo 17|Dec. 1972|Geologist among the crew; 111 kg  of samples returned|
 
+# Apollo Missions Accomplishments
+
+
+:::: {.columns}
+
+::: {.column width="45%"}
+1. Collected nearly 400 kg of lunar samples
+2. Deploy *A*pollo *L*unar *S*urface *E*xperiment *P*ackages (ALSEP)
+3. Command Modules photograph and analyze lunar surface
+:::
+::: {.column width="45%"}
+::: {.callout-note appearance="minimal"}
+![[Apollo 16 ALSEP.](https://history.nasa.gov/alsj/main.html)](figures/09/561px-Ap16_pse.jpg){#fig-alsep fig-align="center"}
+::: 
+:::
+
+::::
 
 # [9.2 The Lunar Surface](https://openstax.org/books/astronomy-2e/pages/9-2-the-lunar-surface)
 

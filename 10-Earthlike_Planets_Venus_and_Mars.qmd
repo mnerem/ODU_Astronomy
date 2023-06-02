@@ -1,14 +1,19 @@
 
 ---
 title: "10: Earthlike Planets Venus and Mars"
+title-slide-attributes:
+    data-background-image: figures/10/05e179071f77f2313c259811f6760f1ed4a210ef.jpeg
+    data-background-size: contain
+    data-background-opacity: "0.5"
 format:
   revealjs:
+    history: false
     logo: "Physics Department Logo2.jpg"
     css: logo.css
     menu:
       side: left
       width: half
-      numbers: true
+      numbers: false
       markers: true
     mouseWheel: true
     slide-number: c/t 
@@ -29,26 +34,40 @@ revealjs-plugins:
 
 # [10.1 The Nearest Planets: An Overview](https://openstax.org/books/astronomy-2e/pages/10-1-the-nearest-planets-an-overview)
 
-## Subsection 
+# Terrestrial Properties {.smaller}
+
+|Property|Earth|Venus|Mars|
+|--------|-----|-----|----|
+|Semimajor axis (AU)|10|0.72|1.52|
+|Period (year)|10|0.61|1.88|
+|Mass (Earth = 1)|10|0.82|0.11|
+|Diameter ( Earth = 1)|10|0.95|0.53|
+|Density (g/cm3)|5.5|5.3|3.9|
+|Surface gravity (Earth = 1)|10|0.91|0.38|
+|Escape velocity (km/s)|11.2|10.4|5|
+|Rotation period (hours or days)|23.9 h|243 d|24.6 h|
+|Atmospheric pressure (bar)|10|90|0.007|
+
+ 
 
 # [10.2 The Geology of Venus](https://openstax.org/books/astronomy-2e/pages/10-2-the-geology-of-venus)
 
-## Subsection 
+ 
 
 # [10.3 The Massive Atmosphere of Venus](https://openstax.org/books/astronomy-2e/pages/10-3-the-massive-atmosphere-of-venus)
 
-## Subsection 
+ 
 
 # [10.4 The Geology of Mars](https://openstax.org/books/astronomy-2e/pages/10-4-the-geology-of-mars)
 
-## Subsection 
+ 
 
 # [10.5 Water and Life on Mars](https://openstax.org/books/astronomy-2e/pages/10-5-water-and-life-on-mars)
 
-## Subsection 
+ 
 
 # [10.6 Divergent Planetary Evolution](https://openstax.org/books/astronomy-2e/pages/10-6-divergent-planetary-evolution)
 
-## Subsection 
+ 
 
-# Summary
+
