@@ -82,24 +82,45 @@ It has been said that astronomy is a humbling and character-building experience.
 # {background-image="figures/08/old09-pg_0010.svg" background-size="75%"}
 # {background-image="figures/08/old09-pg_0011.svg" background-size="75%"}
 # {background-image="figures/08/old09-pg_0012.svg" background-size="75%"}
-# {background-image="figures/08/old09-pg_0013.svg" background-size="75%"}
-# {background-image="figures/08/old09-pg_0014.svg" background-size="75%"}
+# The Greenhouse Effect 
+
+{{< video figures/08/126_Greenhouse_effect_revised_HD_English.mp4 height="500px" >}}
+![[A simplified animation of the greenhouse effect. Credit: NASA/JPL-Caltech](https://climate.nasa.gov/causes/) ](){#fig-greenhouse-animation fig-align="center"}
+
 # {background-image="figures/08/old09-pg_0015.svg" background-size="75%"}
 # {background-image="figures/08/old09-pg_0016.svg" background-size="75%"}
-# {background-image="figures/08/old09-pg_0017.svg" background-size="75%"}
 # {background-image="figures/08/old09-pg_0018.svg" background-size="75%"}
 # {background-image="figures/08/old09-pg_0019.svg" background-size="75%"}
 # {background-image="figures/08/old09-pg_0020.svg" background-size="75%"}
 # {background-image="figures/08/old09-pg_0021.svg" background-size="75%"}
-# {background-image="figures/08/old09-pg_0022.svg" background-size="75%"}
-# {background-image="figures/08/old09-pg_0023.svg" background-size="75%"}
 # {background-image="figures/08/old09-pg_0024.svg" background-size="75%"}
 # {background-image="figures/08/old09-pg_0025.svg" background-size="75%"}
 
 # [8.4 Life, Chemical Evolution, and Climate Change](https://openstax.org/books/astronomy-2e/pages/8-4-life-chemical-evolution-and-climate-change)
 
 # {background-image="figures/08/old09-pg_0039.svg" background-size="75%"}
-# {background-image="figures/08/old09-pg_0040.svg" background-size="75%"}
+
+# Astronomical Effects on Climate
+
+**Milankovitch cycle** - combination of precession and rotation of Earth's elliptical orbit.
+
+:::: {.columns}
+
+::: {.column width="35%"}
+::: {.callout-note appearance="minimal"}
+![[Precession $\sim$ 23,000 years](https://en.wikipedia.org/wiki/File:Earth_obliquity_range.svg) ](figures/08/Earth_obliquity_range.svg){#fig-earth-precession fig-align="center" height=300px}
+::: 
+:::
+::: {.column width="50%"}
+
+::: {.callout-note appearance="minimal"}
+![[Elliptical Rotation $\sim$ 100,000 -  400,000 years](https://commons.wikimedia.org/wiki/File:Precessing_Kepler_orbit_280frames_e0.6_smaller.gif) ](figures/08/Precessing_Kepler_orbit_280frames_e0.6_smaller.gif){#fig-elliptic-rotation fig-align="center"}
+::: 
+:::
+
+::::
+
+
 # {background-image="figures/08/old09-pg_0041.svg" background-size="75%"}
 # {background-image="figures/08/old09-pg_0042.svg" background-size="75%"}
 # {background-image="figures/08/old09-pg_0043.svg" background-size="75%"}
@@ -114,7 +135,12 @@ It has been said that astronomy is a humbling and character-building experience.
 
 # {background-image="figures/08/old12-pg_0057.svg" background-size="75%"}
 # {background-image="figures/08/old12-pg_0058.svg" background-size="75%"}
-# {background-image="figures/08/old12-pg_0059.svg" background-size="75%"}
+# Collisions with Earth
+
+{{< video figures/08/Chelyabinsk-Meteroid.mp4 height="500px" >}}
+![[2013: Meteoroid explodes over Chelyabinsk, Russia, damaging buildings in six cities and injuring more than 1,000 people. ](https://en.wikipedia.org/wiki/Chelyabinsk_meteor) ](){#fig-meteroid fig-align="center"}
+
+
 # {background-image="figures/08/old12-pg_0060.svg" background-size="75%"}
 # {background-image="figures/08/old12-pg_0061.svg" background-size="75%"}
 # {background-image="figures/08/old12-pg_0062.svg" background-size="75%"}
@@ -122,4 +148,3 @@ It has been said that astronomy is a humbling and character-building experience.
 # {background-image="figures/08/old12-pg_0064.svg" background-size="75%"}
 # {background-image="figures/08/old12-pg_0065.svg" background-size="75%"}
 
-# Summary

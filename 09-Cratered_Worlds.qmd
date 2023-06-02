@@ -1,14 +1,19 @@
 
 ---
-title: "09: Cratered Worlds"
+title: "9: Cratered Worlds"
+title-slide-attributes:
+    data-background-image: figures/09/9a02969b436d9af3d8185f7d5372c21df7985af5.jpeg
+    data-background-size: contain
+    data-background-opacity: "0.5"
 format:
   revealjs:
+    history: false
     logo: "Physics Department Logo2.jpg"
     css: logo.css
     menu:
       side: left
       width: half
-      numbers: true
+      numbers: false
       markers: true
     mouseWheel: true
     slide-number: c/t 
@@ -29,22 +34,130 @@ revealjs-plugins:
 
 # [9.1 General Properties of the Moon](https://openstax.org/books/astronomy-2e/pages/9-1-general-properties-of-the-moon)
 
-## Subsection 
+# {background-image="figures/09/old11-pg_0006.svg" background-size="75%"}
+
+# Apollo Flights {.smaller}
+
+|Flight|Date|Main Accomplishment|
+|------|----|-------------------|
+|Apollo 8|Dec. 1968|First humans to fly around the Moon|
+|Apollo 10|May 1969|First spacecraft rendezvous in lunar orbit|
+|Apollo 11|July 1969|First human landing; 22 kg of samples returned|
+|Apollo 12|Nov. 1969|First Apollo Lunar Surface Experiment Package (ALSEP); visit to Surveyor 3 lander|
+|Apollo 13|Apr. 1970|Landing aborted due to explosion in service module|
+|Apollo 14|Jan. 1971|First “rickshaw” on the Moon|
+|Apollo 15|July 1971|First “rover” visit; astronauts traveled 24 km|
+|Apollo 16|Apr. 1972|First landing in highlands; 95 kg of samples returned|
+|Apollo 17|Dec. 1972|Geologist among the crew; 111 kg  of samples returned|
+
 
 # [9.2 The Lunar Surface](https://openstax.org/books/astronomy-2e/pages/9-2-the-lunar-surface)
 
-## Subsection 
+# General Appearance
+
+The Moons lacks internal activity. Together with the absence of air and water, makes most of its geological history unlike Earth.
+
+
+
+:::: {.columns}
+
+::: {.column width="45%"}
+::: {.callout-note appearance="minimal"}
+![[Sunrise on Tycho Crater](https://openstax.org/books/astronomy-2e/pages/9-2-the-lunar-surface#OSC_Astro_09_02_TychoPeak) ](figures/09/aead60787fee0fa75e49959de477cd902a1369c4.webp ){#fig-moon-sunrise fig-align="center"}
+::: 
+
+
+:::
+
+::::
 
 # [9.3 Impact Craters](https://openstax.org/books/astronomy-2e/pages/9-3-impact-craters)
 
-## Subsection 
+# {background-image="figures/09/old11-pg_0032.svg" background-size="75%"}
+
+# Cratering Rates
+
+
+:::: {.columns}
+
+::: {.column width="45%"}
+::: {.callout-note appearance="minimal"}
+![[Heavy bombardment period 3.8 bya](https://openstax.org/books/astronomy-2e/pages/9-3-impact-craters#OSC_Astro_09_03_Rates) ](figures/09/0a13ac023713d08b2f82ad3da886afa24324ad99.webp ){#fig-crating-chart fig-align="center"}
+::: 
+:::
+
+::::
+ 
 
 # [9.4 The Origin of the Moon](https://openstax.org/books/astronomy-2e/pages/9-4-the-origin-of-the-moon)
 
-## Subsection 
+# {background-image="figures/09/old11-pg_0007.svg" background-size="75%"}
+
+# Fission Theory
+
+:::: {.columns}
+::: {.column width="45%"}
+- Proposed by George Darwin in 1879
+- Rapidly spinning Earth expelled the Moon’s mass
+- Modern calculations discredit this idea
+:::
+::: {.column width="50%"}
+::: {.callout-note appearance="minimal"}
+![[Rapidly Spinning Earth Ejecting lunar mass](https://www.space.fm/astronomy/earthmoonsun/moonorigins.html) ](figures/09/anim_origins2.gif){#fig-fission-theory fig-align="center"}
+::: 
+:::
+::::
+ 
+# Sister Theory
+
+:::: {.columns}
+::: {.column width="45%"}
+- Also known as the Accretion theory
+- Earth and Moon formed simultaneously from accretion disk
+- Cannot explain angular momentum of Earth-Moon
+:::
+::: {.column width="50%"}
+::: {.callout-note appearance="minimal"}
+![[Earth and Moon coalesce from the same material](https://www.space.fm/astronomy/earthmoonsun/moonorigins.html) ](figures/09/anim_origins1.gif){#fig-fission-theory fig-align="center"}
+::: 
+:::
+::::
+ 
+# Capture Theory
+
+:::: {.columns}
+::: {.column width="45%"}
+- Explains tidal locking of Earth and Moon
+- How did the “protomoon” lose enough kinetic energy to be captured
+- Can’t explain compositional similarities of Earth and Moon
+:::
+::: {.column width="50%"}
+::: {.callout-note appearance="minimal"}
+![[Moon caught in Earth's gravitational field.](https://www.space.fm/astronomy/earthmoonsun/moonorigins.html) ](figures/09/anim_origins3.gif){#fig-fission-theory fig-align="center"}
+::: 
+:::
+::::
+ 
+# Giant Impact Theory
+
+Currently accepted model
+
+:::: {.columns}
+::: {.column width="45%"}
+- Mars size object impacted 
+- Explains some compositional similarities of Earth and Moon
+- Explains tidal locking of Earth and Moon
+:::
+::: {.column width="50%"}
+::: {.callout-note appearance="minimal"}
+![[Stable isotope ratios of lunar and terrestrial rocks suggest common origin.](https://www.space.fm/astronomy/earthmoonsun/moonorigins.html) ](figures/09/anim_origins4.gif){#fig-fission-theory fig-align="center"}
+::: 
+:::
+::::
+ 
+# {background-image="figures/09/old11-pg_0013.svg" background-size="75%"}
 
 # [9.5 Mercury](https://openstax.org/books/astronomy-2e/pages/9-5-mercury)
 
-## Subsection 
+ 
 
-# Summary
