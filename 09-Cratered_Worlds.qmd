@@ -243,6 +243,7 @@ Currently accepted model
 
 # Days on Mercury
 
+CONFUSION ON SIDEREAL AND SYNODIC PERIODS!!
 
 :::: {.columns}
 

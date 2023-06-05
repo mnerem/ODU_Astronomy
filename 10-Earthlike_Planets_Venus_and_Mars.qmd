@@ -180,5 +180,11 @@ The Venera 13 spacecraft is the only lander to visit Venus. Remained operational
 # [10.6 Divergent Planetary Evolution](https://openstax.org/books/astronomy-2e/pages/10-6-divergent-planetary-evolution)
 
  
-
+:::: {.columns}
+::: {.column width="95%"}
+::: {.callout-note appearance="minimal"}
+![[Venus and Earth could have started very similarly but had different evolutionary paths.](https://link.springer.com/article/10.1007/s11214-023-00956-0)](figures/09/11214_2023_956_Fig1_HTML.webp){#fig-divergent-evolution-planets fig-align="center"}
+:::
+:::
+:::: 
 

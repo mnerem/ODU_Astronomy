@@ -1,14 +1,19 @@
 
 ---
 title: "12: Rings Moons and Pluto"
+title-slide-attributes:
+    data-background-image: figures/12/2460dfedba62d35b75e46d9384ce6776181d2da2.webp
+    data-background-size: contain
+    data-background-opacity: "0.5"
 format:
   revealjs:
+    history: false
     logo: "Physics Department Logo2.jpg"
     css: logo.css
     menu:
       side: left
       width: half
-      numbers: true
+      numbers: false
       markers: true
     mouseWheel: true
     slide-number: c/t 
@@ -29,22 +34,93 @@ revealjs-plugins:
 
 # [12.1 Ring and Moon Systems Introduced](https://openstax.org/books/astronomy-2e/pages/12-1-ring-and-moon-systems-introduced)
 
-## Subsection 
+
+# Moons of the Solar System
+
+:::: {.columns}
+::: {.column width="75%"}
+::: {.callout-note appearance="minimal"}
+![[Select moons of planets to scale.](https://openstax.org/books/astronomy-2e/pages/12-1-ring-and-moon-systems-introduced#OSC_Astro_12_01_SelectMoon)](figures/12/725a7ea85f831581681cf906f9b790130729f1d9.webp){#fig-moon-scales fig-align="center"}
+:::
+:::
+:::: 
 
 # [12.2 The Galilean Moons of Jupiter](https://openstax.org/books/astronomy-2e/pages/12-2-the-galilean-moons-of-jupiter)
 
-## Subsection 
+ 
 
 # [12.3 Titan and Triton](https://openstax.org/books/astronomy-2e/pages/12-3-titan-and-triton)
 
-## Subsection 
+ 
 
 # [12.4 Pluto and Charon](https://openstax.org/books/astronomy-2e/pages/12-4-pluto-and-charon)
 
-## Subsection 
+# {background-image="figures/12/old12-pg_0013.svg" background-size="75%"}
+# {background-image="figures/12/old12-pg_0014.svg" background-size="75%"}
+# {background-image="figures/12/old12-pg_0015.svg" background-size="75%"}
+# {background-image="figures/12/old12-pg_0016.svg" background-size="75%"}
+# {background-image="figures/12/old12-pg_0017.svg" background-size="75%"}
+# {background-image="figures/12/old12-pg_0018.svg" background-size="75%"}
+# {background-image="figures/12/old12-pg_0019.svg" background-size="75%"}
+# {background-image="figures/12/old12-pg_0020.svg" background-size="75%"}
+# {background-image="figures/12/old12-pg_0021.svg" background-size="75%"}
+# {background-image="figures/12/old12-pg_0022.svg" background-size="75%"}
+# {background-image="figures/12/old12-pg_0023.svg" background-size="75%"}
+# {background-image="figures/12/old12-pg_0024.svg" background-size="75%"}
+# {background-image="figures/12/old12-pg_0025.svg" background-size="75%"}
+# {background-image="figures/12/old12-pg_0026.svg" background-size="75%"}
+# {background-image="figures/12/old12-pg_0027.svg" background-size="75%"}
+# {background-image="figures/12/old12-pg_0028.svg" background-size="75%"}
+# {background-image="figures/12/old12-pg_0029.svg" background-size="75%"}
+ 
 
 # [12.5 Planetary Rings (and Enceladus)](https://openstax.org/books/astronomy-2e/pages/12-5-planetary-rings-and-enceladus)
 
-## Subsection 
+ 
 
-# Summary
+# {background-image="figures/12/old11-pg_0015.svg" background-size="75%"}
+# {background-image="figures/12/old11-pg_0016.svg" background-size="75%"}
+# {background-image="figures/12/old11-pg_0017.svg" background-size="75%"}
+# {background-image="figures/12/old11-pg_0018.svg" background-size="75%"}
+# {background-image="figures/12/old11-pg_0019.svg" background-size="75%"}
+# {background-image="figures/12/old11-pg_0020.svg" background-size="75%"}
+# {background-image="figures/12/old11-pg_0021.svg" background-size="75%"}
+# {background-image="figures/12/old11-pg_0022.svg" background-size="75%"}
+# {background-image="figures/12/old11-pg_0023.svg" background-size="75%"}
+# {background-image="figures/12/old11-pg_0024.svg" background-size="75%"}
+# {background-image="figures/12/old11-pg_0025.svg" background-size="75%"}
+# {background-image="figures/12/old11-pg_0026.svg" background-size="75%"}
+# {background-image="figures/12/old11-pg_0027.svg" background-size="75%"}
+# {background-image="figures/12/old11-pg_0028.svg" background-size="75%"}
+# {background-image="figures/12/old11-pg_0029.svg" background-size="75%"}
+# {background-image="figures/12/old11-pg_0030.svg" background-size="75%"}
+# {background-image="figures/12/old11-pg_0031.svg" background-size="75%"}
+# {background-image="figures/12/old11-pg_0032.svg" background-size="75%"}
+# {background-image="figures/12/old11-pg_0033.svg" background-size="75%"}
+# {background-image="figures/12/old11-pg_0034.svg" background-size="75%"}
+# {background-image="figures/12/old11-pg_0035.svg" background-size="75%"}
+# {background-image="figures/12/old11-pg_0036.svg" background-size="75%"}
+# {background-image="figures/12/old11-pg_0037.svg" background-size="75%"}
+# {background-image="figures/12/old11-pg_0038.svg" background-size="75%"}
+# {background-image="figures/12/old11-pg_0041.svg" background-size="75%"}
+# {background-image="figures/12/old11-pg_0042.svg" background-size="75%"}
+# {background-image="figures/12/old11-pg_0043.svg" background-size="75%"}
+# {background-image="figures/12/old11-pg_0045.svg" background-size="75%"}
+# {background-image="figures/12/old11-pg_0046.svg" background-size="75%"}
+# {background-image="figures/12/old11-pg_0047.svg" background-size="75%"}
+# {background-image="figures/12/old11-pg_0048.svg" background-size="75%"}
+# {background-image="figures/12/old11-pg_0049.svg" background-size="75%"}
+# {background-image="figures/12/old11-pg_0050.svg" background-size="75%"}
+# {background-image="figures/12/old11-pg_0051.svg" background-size="75%"}
+# {background-image="figures/12/old11-pg_0052.svg" background-size="75%"}
+# {background-image="figures/12/old11-pg_0053.svg" background-size="75%"}
+# {background-image="figures/12/old11-pg_0054.svg" background-size="75%"}
+# {background-image="figures/12/old11-pg_0055.svg" background-size="75%"}
+# {background-image="figures/12/old11-pg_0056.svg" background-size="75%"}
+# {background-image="figures/12/old11-pg_0057.svg" background-size="75%"}
+# {background-image="figures/12/old11-pg_0058.svg" background-size="75%"}
+# {background-image="figures/12/old11-pg_0059.svg" background-size="75%"}
+# {background-image="figures/12/old11-pg_0060.svg" background-size="75%"}
+# {background-image="figures/12/old11-pg_0061.svg" background-size="75%"}
+# {background-image="figures/12/old11-pg_0062.svg" background-size="75%"}
+# {background-image="figures/12/old11-pg_0063.svg" background-size="75%"}
