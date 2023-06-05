@@ -202,9 +202,78 @@ Currently accepted model
 :::
 ::::
  
-# {background-image="figures/09/old11-pg_0013.svg" background-size="75%"}
+
+# Alternate Model: Nuclear Explosion
+
+
+:::: {.columns}
+
+::: {.column width="45%"}
+- Proposed in 2012
+- Centrifugal force concentrated thorium and uranium at equator under the mantle
+- Concentrated enough for nuclear chain reaction
+:::
+::: {.column width="45%"}
+::: {.callout-note appearance="minimal"}
+![[Hydrodynamic simulation of Moon formation.](https://arxiv.org/pdf/1001.4243.pdf) ](figures/09/cmb-explosion.svg){#fig-cmb-moon-origin fig-align="center"}
+::: 
+:::
+
+::::
 
 # [9.5 Mercury](https://openstax.org/books/astronomy-2e/pages/9-5-mercury)
 
- 
+# Mercury: Composition and Structure
 
+
+:::: {.columns}
+::: {.column width="45%"}
+- Has no (substantial) atmosphere
+- Heavily cratered surface
+- $\rho=$ 5.4 g/cm$^3$ (denser than the moon)
+- Weak magnetic field evidence of large metal core
+:::
+::: {.column width="45%"}
+::: {.callout-note appearance="minimal"}
+![[The metallic core of Mercury is about the same size as our Moon.](https://openstax.org/books/astronomy-2e/pages/9-5-mercury#OSC_Astro_09_05_Mercury) ](figures/09/06ce30371f80e4e1b2c304237cdc0c5eaaf76622.webp){#fig-merc-core fig-align="center"}
+::: 
+:::
+
+::::
+
+# Days on Mercury
+
+
+:::: {.columns}
+
+::: {.column width="45%"}
+::: {.callout-note appearance="minimal"}
+![[Only 3 Mercury-days pass for every 2 orbits around Sol.](https://commons.wikimedia.org/wiki/File:Mercuryorbitsolarsystem.gif) ](figures/09/Mercuryorbitsolarsystem.gif){#fig-merc-orbit fig-align="center"}
+::: 
+:::
+
+::::
+
+# Mercury's Escarpments
+
+
+:::: {.columns}
+
+::: {.column width="45%"}
+::: {.callout-note appearance="minimal"}
+![[Scarp about 1 km deep and 100 km wide.](https://openstax.org/books/astronomy-2e/pages/9-5-mercury#OSC_Astro_09_05_Discovery) ](figures/09/c947b32973bd2c478d96b29fb89b508187e278e1.webp){#fig-merc-scarp fig-align="center" height=350}
+::: 
+:::
+::: {.column width="45%"}
+::: {.callout-note appearance="minimal"}
+![[Escarpment broken along a fault line](https://commons.wikimedia.org/wiki/File:Cuesta_-_Lookout_Mountain,_Georgia.png) ](figures/09/598px-Cuesta_-_Lookout_Mountain,_Georgia.png){#fig-scarp-fault fig-align="center" height=350}
+::: 
+:::
+
+::::
+
+No evidence of plate tectonics on Mercury and scarps cuts across craters.
+Suggest surface shrank after rapid cooling. 
+
+
+# {background-image="figures/09/old08-pg_0049.svg" background-size="75%"}

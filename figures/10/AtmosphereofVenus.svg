@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<svg xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" version="1.1" width="900" height="350">
+	<title>Atmosphere of Venus</title>
+	<rect width="900" height="350" x="0" y="0" style="fill:white;stroke:none" />
+	<g style="fill:none;stroke:gray;stroke-width:1;stroke-linecap:round">
+		<path d="M 321.97563,164.79238 586.81277,304.32038" />
+		<path d="M 321.97563,162 587.25597,19.453693" />
+	</g>
+	<g style="stroke:black;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter">
+		<path d="M 660,162 820,162 A 160,160 0 0 1 817.9418,187.58099 L 660,162 z" style="fill:#0080ff" />
+		<path d="M 660,162 817.9418,187.58099 A 160,160 0 0 1 805.2444,229.11233 L 660,162 z" style="fill:#ff8040" />
+		<path d="M 660,162 805.2444,229.11233 A 160,160 0 0 1 769.11974,279.01659 L 660,162 z" style="fill:aqua" />
+		<path d="M 660,162 769.11974,279.01659 A 160,160 0 0 1 706.51235,315.09017 L 660,162 z" style="fill:lime" />
+		<path d="M 660,162 706.51235,315.09017 A 160,160 0 0 1 505.89399,205.02717 L 660,162 z" style="fill:#ffd800" />
+		<path d="M 660,162 505.89399,205.02717 A 160,160 0 0 1 660,2 160,160 0 0 1 820,162 z" style="fill:#ffff80" />
+		<path d="M 162,2 A 160,160 0 0 0 2,162 160,160 0 0 0 162,322 160,160 0 0 0 318.15625,196.90625 L 162,162 322,162 A 160,160 0 0 0 162,2 z" style="fill:#ff8040" />
+		<path d="M 162,162 322,162 A 160,160 0 0 1 318.15625,196.90625 L 162,162 z" style="fill:#ff0080"></path>
+		<path d="M 162,162 322,162 A 160,160 0 0 1 321.97563,164.79238 L 162,162 z" style="fill:#ffff80" />
+	</g>
+	<g style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;text-anchor:start;fill:black;stroke:none;font-family:Liberation Serif,serif">
+		<text x="106" y="77">Carbon dioxide</text>
+		<text x="106" y="95">(96.5%)</text>
+		<text x="340" y="168">Other</text>
+		<text x="322" y="197">Nitrogen</text>
+		<text x="322" y="215">(3.5%)</text>
+		<text x="608" y="75">Sulfur dioxide</text>
+		<text x="608" y="93">(150 ppm)</text>
+		<text x="570" y="227">Argon</text>
+		<text x="570" y="245">(70 ppm)</text>
+		<text x="824" y="168">Neon</text>
+		<text x="824" y="186">(7 ppm)</text>
+		<text x="816" y="213">Helium</text>
+		<text x="816" y="231">(12 ppm)</text>
+		<text x="801" y="253">Carbon</text>
+		<text x="801" y="271">monoxide</text>
+		<text x="801" y="289">(17 ppm)</text>
+		<text x="736" y="317">Water vapor</text>
+		<text x="736" y="335">(20 ppm)</text>
+	</g>
+</svg>

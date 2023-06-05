@@ -48,22 +48,133 @@ revealjs-plugins:
 |Rotation period (hours or days)|23.9 h|243 d|24.6 h|
 |Atmospheric pressure (bar)|10|90|0.007|
 
- 
+
+# Rotation Rates
+
+
+:::: {.columns}
+
+::: {.column width="85%"}
+::: {.callout-note appearance="minimal"}
+![[Venus's slow rotation evidence that impacts "flipped" it over.](https://youtu.be/qhJrpzsKEXo) ](figures/10/The_eight_planets-Axial_Tilt.gif){#fig-planets-rotations fig-align="center"}
+::: 
+:::
+
+::::
 
 # [10.2 The Geology of Venus](https://openstax.org/books/astronomy-2e/pages/10-2-the-geology-of-venus)
 
+# Venus Thick Atmosphere
+
+
+:::: {.columns}
+
+::: {.column width="50%"}
+::: {.callout-note appearance="minimal"}
+![[UV images (365nm & 283nm) of Venus clouds](https://www.flickr.com/photos/53460575@N03/50513674188/) ](figures/10/Venus_-_December_23_2016.png){#fig-venus-uv-atmo fig-align="center"}
+::: 
+:::
+
+
+::: {.column width="50%"}
+The atmosphere is so thick is it impossible to see surface of Venus in the visible spectrum. 
+:::
+
+::::
+
+# Radar Mapping Venus Surface
+
+
+:::: {.columns}
+
+::: {.column width="85%"}
+::: {.callout-note appearance="minimal"}
+![[Colors indicate elevation: Blue low, brown and white high.](https://openstax.org/books/astronomy-2e/pages/10-2-the-geology-of-venus#OSC_Astro_10_02_RadarMap) ](figures/10/6a3bbcbce25c5849882fcc46f924d92d5828b9a2.webp){#fig-venus-radar fig-align="center"}
+::: 
+:::
+
+::::
+
+About 75% of the surface of consists of lowland lava plains.
+
+# Volcanoes on Venus
+
+Venus has the largest number of volcanoes in the Solar System
+
+
+:::: {.columns}
+
+::: {.column width="50%"}
+::: {.callout-note appearance="minimal"}
+![[Pancake Volcanoes on Venus](https://openstax.org/books/astronomy-2e/pages/10-2-the-geology-of-venus#OSC_Astro_10_02_Pancake) ](figures/10/pancake-volcanoes.png
+){#fig-pancake-volcanoes fig-align="center"}
+::: 
+:::
+
+::::
+
+# Venus Surface
+
+:::: {.columns}
+
+::: {.column width="95%"}
+::: {.callout-note appearance="minimal"}
+![[Thick atmosphere creates orange haze.](https://openstax.org/books/astronomy-2e/pages/10-2-the-geology-of-venus#OSC_Astro_10_02_VenusSurfal) ](figures/10/bfbe2452da497da4c54a4dc2992b49e0aab31c85.webp){#fig-venera13 fig-align="center"}
+::: 
+:::
+
+::::
  
+The Venera 13 spacecraft is the only lander to visit Venus. Remained operational for **127 minutes**.
+
+
 
 # [10.3 The Massive Atmosphere of Venus](https://openstax.org/books/astronomy-2e/pages/10-3-the-massive-atmosphere-of-venus)
 
+# Venus Atmosphere Composition
+
+
+:::: {.columns}
+
+::: {.column width="85%"}
+::: {.callout-note appearance="minimal"}
+![[The left chart represents less than 1% of the atmosphere.](https://commons.wikimedia.org/wiki/File:AtmosphereofVenus.svg) ](figures/10/AtmosphereofVenus.svg){#fig-venus-atmo-pie-chart fig-align="center"}
+::: 
+:::
+
+::::
+
+# {background-image="figures/10/old09-pg_0033.svg" background-size="75%"}
  
+# {background-image="figures/10/old08-pg_0047.svg" background-size="75%"}
 
 # [10.4 The Geology of Mars](https://openstax.org/books/astronomy-2e/pages/10-4-the-geology-of-mars)
+# {background-image="figures/10/old08-pg_0044.svg" background-size="75%"}
 
+# {background-image="figures/10/old08-pg_0034.svg" background-size="75%"}
+# {background-image="figures/10/old08-pg_0043.svg" background-size="75%"}
+# {background-image="figures/10/old08-pg_0039.svg" background-size="75%"}
+# {background-image="figures/10/old09-pg_0036.svg" background-size="75%"}
+# {background-image="figures/10/old09-pg_0037.svg" background-size="75%"}
  
 
 # [10.5 Water and Life on Mars](https://openstax.org/books/astronomy-2e/pages/10-5-water-and-life-on-mars)
 
+# {background-image="figures/10/old08-pg_0045.svg" background-size="75%"}
+# Evidence of Water on Mars
+
+
+:::: {.columns}
+
+::: {.column width="65%"}
+::: {.callout-note appearance="minimal"}
+![[Phoenix Lander Images: Images are 4 martian-days apart.](https://openstax.org/books/astronomy-2e/pages/10-5-water-and-life-on-mars#OSC_Astro_10_05_Phoenix) ](figures/10/0c7d0f3ebfbf8cf56820f105c5b8973e161cd302.webp){#fig-ice-mars fig-align="center"}
+::: 
+:::
+
+::::
+
+# {background-image="figures/10/old08-pg_0046.svg" background-size="75%"}
  
 
 # [10.6 Divergent Planetary Evolution](https://openstax.org/books/astronomy-2e/pages/10-6-divergent-planetary-evolution)
