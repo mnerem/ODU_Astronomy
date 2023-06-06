@@ -34,6 +34,15 @@ revealjs-plugins:
 
 # [12.1 Ring and Moon Systems Introduced](https://openstax.org/books/astronomy-2e/pages/12-1-ring-and-moon-systems-introduced)
 
+# Moon and Rings Overview {.smaller}
+
+|   Planet  |   Moons |   Ring Mass (kg)  | Ring Diameter (km) | Notable Moons |
+|-----------|---------|-------------------|--------------------------|---------------|
+|   Jupiter |   79    |   $10^{11}$ to $10^{16}$  |   226000             | Gallilean Moons |
+|   Saturn  |   82    |   $1.5\cdot10^19$ |   482000                 | Titan, Enceladus    |
+|   Uranus  |   27    |   $10^{16}$         |   103000                 | Oberon  |
+|   Neptune |   14    |   NaN             |   63000                  | Triton  |
+
 
 # Moons of the Solar System
 
@@ -71,8 +80,41 @@ revealjs-plugins:
 # {background-image="figures/12/old12-pg_0026.svg" background-size="75%"}
 # {background-image="figures/12/old12-pg_0027.svg" background-size="75%"}
 # {background-image="figures/12/old12-pg_0028.svg" background-size="75%"}
-# {background-image="figures/12/old12-pg_0029.svg" background-size="75%"}
+
+# IAU Definitions {.smaller}
+
+In 2006 the [IAU](https://www.iau.org/news/pressreleases/detail/iau0603/) adopted these definitions.
+
+
+:::: {.columns}
+
+::: {.column width="50%"}
+::: {.callout-note icon=false}
+## Planet
+A celestial body that
+
+a. is in orbit around the Sun
+b. has sufficient mass for its self-gravity to overcome rigid body forces so that it assumes a hydrostatic equilibrium (nearly round) shape
+c. has cleared the neighbourhood around its orbit
+:::
+:::
+::: {.column width="50%"}
+
+::: {.callout-note icon=false}
+## Dwarf Planet
+A celestial body that
+
+
+a. is in orbit around the Sun
+b. has sufficient mass for its self-gravity to overcome rigid body forces so that it assumes a hydrostatic equilibrium (nearly round) shape
+c. has **not** cleared the neighbourhood around its orbit
+d. is not a satellite
+:::
+:::
+
+::::
  
+All other objects, except satellites, orbiting the Sun are "Small Solar-System Bodies".
 
 # [12.5 Planetary Rings (and Enceladus)](https://openstax.org/books/astronomy-2e/pages/12-5-planetary-rings-and-enceladus)
 
