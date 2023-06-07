@@ -34,12 +34,14 @@ revealjs-plugins:
 
 # [12.1 Ring and Moon Systems Introduced](https://openstax.org/books/astronomy-2e/pages/12-1-ring-and-moon-systems-introduced)
 
+# {background-image="figures/12/old11-pg_0015.svg" background-size="75%"}
 # Moon and Rings Overview {.smaller}
+
 
 |   Planet  |   Moons |   Ring Mass (kg)  | Ring Diameter (km) | Notable Moons |
 |-----------|---------|-------------------|--------------------------|---------------|
 |   Jupiter |   79    |   $10^{11}$ to $10^{16}$  |   226000             | Gallilean Moons |
-|   Saturn  |   82    |   $1.5\cdot10^19$ |   482000                 | Titan, Enceladus    |
+|   Saturn  |   82    |   $1.5\cdot10^{19}$ |   482000                 | Titan, Enceladus    |
 |   Uranus  |   27    |   $10^{16}$         |   103000                 | Oberon  |
 |   Neptune |   14    |   NaN             |   63000                  | Triton  |
 
@@ -49,16 +51,72 @@ revealjs-plugins:
 :::: {.columns}
 ::: {.column width="75%"}
 ::: {.callout-note appearance="minimal"}
-![[Select moons of planets to scale.](https://openstax.org/books/astronomy-2e/pages/12-1-ring-and-moon-systems-introduced#OSC_Astro_12_01_SelectMoon)](figures/12/725a7ea85f831581681cf906f9b790130729f1d9.webp){#fig-moon-scales fig-align="center"}
+![[Select moons to scale.](https://openstax.org/books/astronomy-2e/pages/12-1-ring-and-moon-systems-introduced#OSC_Astro_12_01_SelectMoon)](figures/12/725a7ea85f831581681cf906f9b790130729f1d9.webp){#fig-moon-scales fig-align="center"}
 :::
 :::
 :::: 
 
+# {background-image="figures/12/old11-pg_0016.svg" background-size="75%"}
+# Regular Moons
+
+
+:::: {.columns}
+
+::: {.column width="50%"}
+- Formed from materials around planet
+- 1/3 moons in Solar System are regular
+- Revolve around planets same direction that they rotate.
+- Almost all tidally locked
+- Lay in planet’s equatorial plane
+:::
+::: {.column width="50%"}
+::: {.callout-note appearance="minimal"}
+![[ Galilean moons around Jupiter; Io, Europa, Ganymede, Callisto](https://en.wikipedia.org/wiki/File:Galilean_moons_around_Jupiter.gif)](figures/12/Galilean_moons_around_Jupiter.gif){#fig-gal-moons fig-align="center"}
+:::: 
+:::
+
+::::
+
+# Regular Moons continue
+
+Some regular moons have strange orbital characteristics
+Hyperion (moon of Saturn) tumbles in its rotation
+
+
+:::: {.columns}
+
+::: {.column width="50%"}
+::: {.callout-note appearance="minimal"}
+![[An observer on Mars sees Phobos rise in the West, then set in the East twice a day.](https://commons.wikimedia.org/wiki/File:Orbits_of_Phobos_and_Deimos.gif)](figures/12/Orbits_of_Phobos_and_Deimos.gif){#fig-phobos-animated fig-align="center" width=500}
+:::
+:::
+::: {.column width="50%"}
+::: {.callout-note appearance="minimal"}
+![[Animation of Titan (blue) and Hyperion (magenta) orbiting Saturn](https://commons.wikimedia.org/wiki/File:Animation_of_Hyperion_orbit_around_Saturn.gif)](figures/12/Animation_of_Hyperion_orbit_around_Saturn.gif){#fig-hyperion-animated fig-align="center" width=500}
+:::
+:::
+
+::::
+
+
+
+# {background-image="figures/12/old11-pg_0019.svg" background-size="75%"}
+# {background-image="figures/12/old11-pg_0020.svg" background-size="75%"}
+# {background-image="figures/12/old11-pg_0021.svg" background-size="75%"}
+
 # [12.2 The Galilean Moons of Jupiter](https://openstax.org/books/astronomy-2e/pages/12-2-the-galilean-moons-of-jupiter)
 
+# {background-image="figures/12/old11-pg_0022.svg" background-size="75%"}
+# {background-image="figures/12/old11-pg_0023.svg" background-size="75%"}
+# {background-image="figures/12/old11-pg_0027.svg" background-size="75%"}
+# {background-image="figures/12/old11-pg_0031.svg" background-size="75%"}
  
 
 # [12.3 Titan and Triton](https://openstax.org/books/astronomy-2e/pages/12-3-titan-and-triton)
+# {background-image="figures/12/old11-pg_0028.svg" background-size="75%"}
+# {background-image="figures/12/old11-pg_0029.svg" background-size="75%"}
+# {background-image="figures/12/old11-pg_0030.svg" background-size="75%"}
+# {background-image="figures/12/old11-pg_0026.svg" background-size="75%"}
 
  
 
@@ -70,9 +128,26 @@ revealjs-plugins:
 # {background-image="figures/12/old12-pg_0016.svg" background-size="75%"}
 # {background-image="figures/12/old12-pg_0017.svg" background-size="75%"}
 # {background-image="figures/12/old12-pg_0018.svg" background-size="75%"}
-# {background-image="figures/12/old12-pg_0019.svg" background-size="75%"}
-# {background-image="figures/12/old12-pg_0020.svg" background-size="75%"}
-# {background-image="figures/12/old12-pg_0021.svg" background-size="75%"}
+# Pluto's Orbit
+
+:::: {.columns}
+::: {.column width="50%"}
+::: {.callout-note appearance="minimal"}
+![[Pluto's orbit is tilted from the ecliptic plane. 
+<span style="color: #FFF700">Saturn</span> 
+<span style="color: #00FFFF">Uranus</span>
+<span style="color: #2A4594">Neptune</span>
+<span style="color: #E100FF">Pluto</span>
+](https://en.wikipedia.org/wiki/File:Animation_of_Pluto_orbit.gif)](figures/12/Animation_of_Pluto_orbit.gif){#fig-pluto-orbit fig-align="center" height=400}
+:::
+:::
+::: {.column width="50%"}
+::: {.callout-note appearance="minimal"}
+![[Horizontal line is the ecliptic plane. Pluto's orbit tilted by 17$^\circ$.](https://en.wikipedia.org/wiki/File:Plutoorbit1.5sideview.gif)](figures/12/Plutoorbit1.5sideview.gif){#fig-plutos-tilt fig-align="center" height=400}
+:::
+:::
+:::: 
+
 # {background-image="figures/12/old12-pg_0022.svg" background-size="75%"}
 # {background-image="figures/12/old12-pg_0023.svg" background-size="75%"}
 # {background-image="figures/12/old12-pg_0024.svg" background-size="75%"}
@@ -118,31 +193,9 @@ All other objects, except satellites, orbiting the Sun are "Small Solar-System B
 
 # [12.5 Planetary Rings (and Enceladus)](https://openstax.org/books/astronomy-2e/pages/12-5-planetary-rings-and-enceladus)
 
- 
-
-# {background-image="figures/12/old11-pg_0015.svg" background-size="75%"}
-# {background-image="figures/12/old11-pg_0016.svg" background-size="75%"}
-# {background-image="figures/12/old11-pg_0017.svg" background-size="75%"}
-# {background-image="figures/12/old11-pg_0018.svg" background-size="75%"}
-# {background-image="figures/12/old11-pg_0019.svg" background-size="75%"}
-# {background-image="figures/12/old11-pg_0020.svg" background-size="75%"}
-# {background-image="figures/12/old11-pg_0021.svg" background-size="75%"}
-# {background-image="figures/12/old11-pg_0022.svg" background-size="75%"}
-# {background-image="figures/12/old11-pg_0023.svg" background-size="75%"}
+# {background-image="figures/12/old11-pg_0036.svg" background-size="75%"}
 # {background-image="figures/12/old11-pg_0024.svg" background-size="75%"}
 # {background-image="figures/12/old11-pg_0025.svg" background-size="75%"}
-# {background-image="figures/12/old11-pg_0026.svg" background-size="75%"}
-# {background-image="figures/12/old11-pg_0027.svg" background-size="75%"}
-# {background-image="figures/12/old11-pg_0028.svg" background-size="75%"}
-# {background-image="figures/12/old11-pg_0029.svg" background-size="75%"}
-# {background-image="figures/12/old11-pg_0030.svg" background-size="75%"}
-# {background-image="figures/12/old11-pg_0031.svg" background-size="75%"}
-# {background-image="figures/12/old11-pg_0032.svg" background-size="75%"}
-# {background-image="figures/12/old11-pg_0033.svg" background-size="75%"}
-# {background-image="figures/12/old11-pg_0034.svg" background-size="75%"}
-# {background-image="figures/12/old11-pg_0035.svg" background-size="75%"}
-# {background-image="figures/12/old11-pg_0036.svg" background-size="75%"}
-# {background-image="figures/12/old11-pg_0037.svg" background-size="75%"}
 # {background-image="figures/12/old11-pg_0038.svg" background-size="75%"}
 # {background-image="figures/12/old11-pg_0041.svg" background-size="75%"}
 # {background-image="figures/12/old11-pg_0042.svg" background-size="75%"}
