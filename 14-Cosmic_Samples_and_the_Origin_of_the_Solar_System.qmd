@@ -1,14 +1,19 @@
 
 ---
 title: "14: Cosmic Samples and the Origin of the Solar System"
+title-slide-attributes:
+    data-background-image: figures/14/07659982d8808dd9ceee07c24676fde4c9d3d7be.webp
+    data-background-size: contain
+    data-background-opacity: "0.5"
 format:
   revealjs:
+    history: false
     logo: "Physics Department Logo2.jpg"
     css: logo.css
     menu:
       side: left
       width: half
-      numbers: true
+      numbers: false
       markers: true
     mouseWheel: true
     slide-number: c/t 
@@ -29,42 +34,39 @@ revealjs-plugins:
 
 # [14.1 Meteors](https://openstax.org/books/astronomy-2e/pages/14-1-meteors)
 
-## Subsection 
+# How to Observe a Meteor Shower.
+
+{{< video "figures/14/How to View a Meteor Shower ｜ California Academy of Sciences [EBF4wFhw2Kg].webm" width=800 >}}
+![[California Academy of Sciences tips for observing meteor showers.](https://youtu.be/EBF4wFhw2Kg)](){#fig-met-show-vid fig-align="center"}
 
 # [14.2 Meteorites: Stones from Heaven](https://openstax.org/books/astronomy-2e/pages/14-2-meteorites-stones-from-heaven)
-
-## Subsection 
-
 # [14.3 Formation of the Solar System](https://openstax.org/books/astronomy-2e/pages/14-3-formation-of-the-solar-system)
-
-## Subsection 
-
 # [14.4 Comparison with Other Planetary Systems](https://openstax.org/books/astronomy-2e/pages/14-4-comparison-with-other-planetary-systems)
-
-## Subsection 
-
 # [14.5 Planetary Evolution](https://openstax.org/books/astronomy-2e/pages/14-5-planetary-evolution)
 
-## Subsection 
+ 
 
-# Summary## {background-image="figures/14/pg_neb_hypoth_0008.svg" background-size="75%"} 
-## {background-image="figures/14/pg_neb_hypoth_0009.svg" background-size="75%"} 
-## {background-image="figures/14/pg_neb_hypoth_0010.svg" background-size="75%"} 
-## {background-image="figures/14/pg_neb_hypoth_0011.svg" background-size="75%"} 
-## {background-image="figures/14/pg_neb_hypoth_0012.svg" background-size="75%"} 
-## {background-image="figures/14/pg_neb_hypoth_0013.svg" background-size="75%"} 
-## {background-image="figures/14/pg_neb_hypoth_0014.svg" background-size="75%"} 
-## {background-image="figures/14/pg_neb_hypoth_0015.svg" background-size="75%"} 
-## {background-image="figures/14/pg_neb_hypoth_0016.svg" background-size="75%"} 
-## {background-image="figures/14/pg_neb_hypoth_0017.svg" background-size="75%"} 
-## {background-image="figures/14/pg_neb_hypoth_0018.svg" background-size="75%"} 
-## {background-image="figures/14/pg_neb_hypoth_0019.svg" background-size="75%"} 
-## {background-image="figures/14/pg_neb_hypoth_0020.svg" background-size="75%"} 
-## {background-image="figures/14/pg_neb_hypoth_0021.svg" background-size="75%"} 
-## {background-image="figures/14/pg_neb_hypoth_0022.svg" background-size="75%"} 
-## {background-image="figures/14/pg_neb_hypoth_0023.svg" background-size="75%"} 
-## {background-image="figures/14/pg_neb_hypoth_0024.svg" background-size="75%"} 
-## {background-image="figures/14/pg_neb_hypoth_0025.svg" background-size="75%"} 
-## {background-image="figures/14/pg_neb_hypoth_0026.svg" background-size="75%"} 
-## {background-image="figures/14/pg_neb_hypoth_0027.svg" background-size="75%"} 
-## {background-image="figures/14/pg_neb_hypoth_0028.svg" background-size="75%"} 
+# Summary#
+
+# {background-image="figures/14/pg_neb_hypoth_0008.svg" background-size="75%"} 
+# {background-image="figures/14/pg_neb_hypoth_0009.svg" background-size="75%"} 
+# {background-image="figures/14/pg_neb_hypoth_0010.svg" background-size="75%"} 
+# {background-image="figures/14/pg_neb_hypoth_0011.svg" background-size="75%"} 
+# {background-image="figures/14/pg_neb_hypoth_0012.svg" background-size="75%"} 
+# {background-image="figures/14/pg_neb_hypoth_0013.svg" background-size="75%"} 
+# {background-image="figures/14/pg_neb_hypoth_0014.svg" background-size="75%"} 
+# {background-image="figures/14/pg_neb_hypoth_0015.svg" background-size="75%"} 
+# {background-image="figures/14/pg_neb_hypoth_0016.svg" background-size="75%"} 
+# {background-image="figures/14/pg_neb_hypoth_0017.svg" background-size="75%"} 
+# {background-image="figures/14/pg_neb_hypoth_0018.svg" background-size="75%"} 
+# {background-image="figures/14/pg_neb_hypoth_0019.svg" background-size="75%"} 
+# {background-image="figures/14/pg_neb_hypoth_0020.svg" background-size="75%"} 
+# {background-image="figures/14/pg_neb_hypoth_0021.svg" background-size="75%"} 
+# {background-image="figures/14/pg_neb_hypoth_0022.svg" background-size="75%"} 
+# {background-image="figures/14/pg_neb_hypoth_0023.svg" background-size="75%"} 
+# {background-image="figures/14/pg_neb_hypoth_0024.svg" background-size="75%"} 
+# {background-image="figures/14/pg_neb_hypoth_0025.svg" background-size="75%"} 
+# {background-image="figures/14/pg_neb_hypoth_0026.svg" background-size="75%"} 
+# {background-image="figures/14/pg_neb_hypoth_0027.svg" background-size="75%"} 
+# {background-image="figures/14/pg_neb_hypoth_0028.svg" background-size="75%"} 
+
