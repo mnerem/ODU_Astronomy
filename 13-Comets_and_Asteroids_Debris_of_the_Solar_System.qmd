@@ -1,14 +1,19 @@
 
 ---
-title: "13: Comets and Asteroids Debris of the Solar System"
+title: "13: Comets and Asteroids: Debris of the Solar System"
+title-slide-attributes:
+    data-background-image: figures/13/e35de8470b2a22e6d2f2daf7ddb41458d36261e2.webp
+    data-background-size: contain
+    data-background-opacity: "0.5"
 format:
   revealjs:
+    history: false
     logo: "Physics Department Logo2.jpg"
     css: logo.css
     menu:
       side: left
       width: half
-      numbers: true
+      numbers: false
       markers: true
     mouseWheel: true
     slide-number: c/t 
@@ -26,21 +31,123 @@ revealjs-plugins:
   - pointer
 ---
 
+# Why crash into a comet?
+:::: {.columns}
+::: {.column width="75%"}
+::: {.callout-note appearance="minimal"}
+![[**Deep Impact**: July 4, 2005 collision with comet Tempel 1 in order to study the interior of the comet.](https://www.jpl.nasa.gov/missions/deep-impact)](figures/13/492015main_pia07923-full_2_full.jpg){#fig-deep-impact fig-align="center"}
+:::
+:::
+:::: 
+
+# {background-image="figures/13/old12-pg_0003.svg" background-size="75%"}
 
 # [13.1 Asteroids](https://openstax.org/books/astronomy-2e/pages/13-1-asteroids)
 
-## Subsection 
+ 
+# {background-image="figures/13/old12-pg_0006.svg" background-size="75%"}
+# {background-image="figures/13/old12-pg_0007.svg" background-size="75%"}
+# {background-image="figures/13/old12-pg_0008.svg" background-size="75%"}
+# {background-image="figures/13/old12-pg_0009.svg" background-size="75%"}
+# {background-image="figures/13/old12-pg_0010.svg" background-size="75%"}
+# {background-image="figures/13/old12-pg_0011.svg" background-size="75%"}
+# Ceres
+
+:::: {.columns}
+::: {.column width="50%"}
+- Discovered in 1801 
+- Largest body in asteroid belt.
+- Dwarf planet
+- Diameter = 940 km (Moon diameter $\approx$ 3500 km)
+- Quarter of mass is water/ice mantle surrounding a rocky inner core
+:::
+::: {.column width="45%"}
+::: {.callout-note appearance="minimal"}
+![[Images captued by NASA's Dawn Spacecraft. Centered on **Occator crater**.](https://photojournal.jpl.nasa.gov/catalog/PIA21906)](figures/13/600px-PIA21906-Ceres-DwarfPlanet-HighResolution-Dawn-20170920.jpg){#fig-ceres fig-align="center"}
+:::
+:::
+::::
+
+# {background-image="figures/13/old12-pg_0031.svg" background-size="75%"}
+# {background-image="figures/13/old12-pg_0032.svg" background-size="75%"}
+# Asteroids
+
+:::: {.columns}
+::: {.column width="50%"}
+- Rocky planetesimals.
+- Most in Asteroid belt  between Mars and Jupiter.
+- Asteroids are rock fragments.
+- Generally not large enough to be spherical.
+- Erratic rotation periods.
+:::
+::: {.column width="45%"}
+::: {.callout-note appearance="minimal"}
+![[This movie of asteroid 2014 JO25 was generated using radar data collected by NASA's 230-foot-wide (70-meter) Deep Space Network antenna.](https://photojournal.jpl.nasa.gov/catalog/PIA21597)](figures/13/PIA21597_-_New_Radar_Images_of_Asteroid_2014_JO25_(cropped).gif){#fig-2014J025-tumble fig-align="center"}
+:::
+:::
+::::
+
+# {background-image="figures/13/old12-pg_0033.svg" background-size="75%"}
+# Types of Asteroids
+
+:::: {.columns}
+::: {.column width="95%"}
+::: {.callout-note appearance="minimal"}
+![[The three types of asteroids are primarily located at different distances from the Sun.](https://openstax.org/books/astronomy-2e/pages/13-1-asteroids#OSC_Astro_13_01_Type)](figures/13/dc93d5ff7a9921d26729be609d5e9da19e32b105.webp){#fig-asteroid-types-chart fig-align="center" width=800}
+:::
+:::
+:::: 
+
+# {background-image="figures/13/old12-pg_0035.svg" background-size="75%"}
+# {background-image="figures/13/old12-pg_0036.svg" background-size="75%"}
+# {background-image="figures/13/old12-pg_0037.svg" background-size="75%"}
+# {background-image="figures/13/old12-pg_0038.svg" background-size="75%"}
+# {background-image="figures/13/old12-pg_0039.svg" background-size="75%"}
+# {background-image="figures/13/old12-pg_0040.svg" background-size="75%"}
 
 # [13.2 Asteroids and Planetary Defense](https://openstax.org/books/astronomy-2e/pages/13-2-asteroids-and-planetary-defense)
+# {background-image="figures/13/old12-pg_0043.svg" background-size="75%"}
+# {background-image="figures/13/old12-pg_0044.svg" background-size="75%"}
+# Near Earth Asteroids (NEA)
+Over 25,000 NEAs have been discovered.
 
-## Subsection 
+:::: {.columns}
+::: {.column width="75%"}
+::: {.callout-note appearance="minimal"}
+![[Animation of known NEOs.](https://www.jpl.nasa.gov/news/twenty-years-of-tracking-near-earth-objects)](figures/13/Asteroids-KnownNearEarthObjects-Animation-UpTo20180101.gif){#fig-neos-animation fig-align="center"}
+:::
+:::
+:::: 
 
-# [13.3 The âLong-Hairedâ Comets](https://openstax.org/books/astronomy-2e/pages/13-3-the-long-haired-comets)
+# How dense is the asteroid belt?
 
-## Subsection 
+- Model the belt as a single ring of material 2AU from the Sun.
+- Number of objects in the belt is $\approx$ [$1.3\times10^6$](figures/13/Asteroids-KnownNearEarthObjects-Animation-UpTo20180101.gif) 
 
+:::: {.columns}
+::: {.column width="75%"}
+::: {.callout-note appearance="minimal"}
+![[What is the distance between each object on this simplified ring?](https://esahubble.org/images/heic1715c/)](figures/13/asteroid-belt-simple-model.svg){#fig-simple-belt-model fig-align="center"}
+:::
+:::
+:::: 
+
+
+# [13.3 The "Long-Haired" Comets](https://openstax.org/books/astronomy-2e/pages/13-3-the-long-haired-comets)
+
+# {background-image="figures/13/old12-pg_0046.svg" background-size="75%"}
+# {background-image="figures/13/old12-pg_0047.svg" background-size="75%"}
+# {background-image="figures/13/old12-pg_0048.svg" background-size="75%"}
+# {background-image="figures/13/old12-pg_0049.svg" background-size="75%"}
+# {background-image="figures/13/old12-pg_0050.svg" background-size="75%"}
+# {background-image="figures/13/old12-pg_0051.svg" background-size="75%"}
+# {background-image="figures/13/old12-pg_0052.svg" background-size="75%"}
+# {background-image="figures/13/old12-pg_0053.svg" background-size="75%"}
+# {background-image="figures/13/old12-pg_0054.svg" background-size="75%"}
+# {background-image="figures/13/old12-pg_0055.svg" background-size="75%"}
+# {background-image="figures/13/old12-pg_0056.svg" background-size="75%"}
+# {background-image="figures/13/old12-pg_0066.svg" background-size="75%"}
+# {background-image="figures/13/old12-pg_0067.svg" background-size="75%"}
+# {background-image="figures/13/old12-pg_0068.svg" background-size="75%"}
+# {background-image="figures/13/old12-pg_0069.svg" background-size="75%"}
 # [13.4 The Origin and Fate of Comets and Related Objects](https://openstax.org/books/astronomy-2e/pages/13-4-the-origin-and-fate-of-comets-and-related-objects)
-
-## Subsection 
-
-# Summary
