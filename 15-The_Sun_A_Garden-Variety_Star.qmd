@@ -1,14 +1,19 @@
 
 ---
 title: "15: The Sun A Garden: Variety Star"
+title-slide-attributes:
+    data-background-image: figures/15/ce358cc8ea72bb25f47d9fb96ef07eba952634a4.webp
+    data-background-size: contain
+    data-background-opacity: "0.5"
 format:
   revealjs:
+    history: false
     logo: "Physics Department Logo2.jpg"
     css: logo.css
     menu:
       side: left
       width: half
-      numbers: true
+      numbers: false
       markers: true
     mouseWheel: true
     slide-number: c/t 
@@ -27,20 +32,37 @@ revealjs-plugins:
 ---
 
 
+# {background-image="figures/15/old15-pg_0001.svg" background-size="75%"}
+# {background-image="figures/15/old15-pg_0002.svg" background-size="75%"}
+# {background-image="figures/15/old15-pg_0003.svg" background-size="75%"}
+# {background-image="figures/15/old15-pg_0004.svg" background-size="75%"}
+# {background-image="figures/15/old15-pg_0005.svg" background-size="75%"}
+# {background-image="figures/15/old15-pg_0006.svg" background-size="75%"}
+# {background-image="figures/15/old15-pg_0007.svg" background-size="75%"}
+# {background-image="figures/15/old15-pg_0008.svg" background-size="75%"}
+# {background-image="figures/15/old15-pg_0009.svg" background-size="75%"}
+# {background-image="figures/15/old15-pg_0010.svg" background-size="75%"}
+# {background-image="figures/15/old15-pg_0011.svg" background-size="75%"}
+# {background-image="figures/15/old15-pg_0012.svg" background-size="75%"}
+# {background-image="figures/15/old15-pg_0013.svg" background-size="75%"}
+# {background-image="figures/15/old15-pg_0014.svg" background-size="75%"}
+# {background-image="figures/15/old15-pg_0015.svg" background-size="75%"}
+# {background-image="figures/15/old15-pg_0016.svg" background-size="75%"}
+# {background-image="figures/15/old15-pg_0017.svg" background-size="75%"}
+# {background-image="figures/15/old15-pg_0018.svg" background-size="75%"}
+# {background-image="figures/15/old15-pg_0019.svg" background-size="75%"}
+# {background-image="figures/15/old15-pg_0020.svg" background-size="75%"}
+# {background-image="figures/15/old15-pg_0021.svg" background-size="75%"}
+# {background-image="figures/15/old15-pg_0022.svg" background-size="75%"}
+# {background-image="figures/15/old15-pg_0023.svg" background-size="75%"}
+# {background-image="figures/15/old15-pg_0024.svg" background-size="75%"}
+# {background-image="figures/15/old15-pg_0025.svg" background-size="75%"}
+# {background-image="figures/15/old15-pg_0026.svg" background-size="75%"}
+# {background-image="figures/15/old15-pg_0027.svg" background-size="75%"}
+
+
 # [15.1 The Structure and Composition of the Sun](https://openstax.org/books/astronomy-2e/pages/15-1-the-structure-and-composition-of-the-sun)
-
-## Subsection 
-
 # [15.2 The Solar Cycle](https://openstax.org/books/astronomy-2e/pages/15-2-the-solar-cycle)
-
-## Subsection 
-
 # [15.3 Solar Activity above the Photosphere](https://openstax.org/books/astronomy-2e/pages/15-3-solar-activity-above-the-photosphere)
-
-## Subsection 
-
 # [15.4 Space Weather](https://openstax.org/books/astronomy-2e/pages/15-4-space-weather)
 
-## Subsection 
-
-# Summary
