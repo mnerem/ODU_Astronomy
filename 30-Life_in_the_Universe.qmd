@@ -1,14 +1,19 @@
 
 ---
 title: "30: Life in the Universe"
+title-slide-attributes:
+    data-background-image: figures/30/b9bd11a51d189891f624108c49bfa0581993be4d.webp
+    data-background-size: contain
+    data-background-opacity: "0.5"
 format:
   revealjs:
+    history: false
     logo: "Physics Department Logo2.jpg"
     css: logo.css
     menu:
       side: left
       width: half
-      numbers: true
+      numbers: false
       markers: true
     mouseWheel: true
     slide-number: c/t 
@@ -25,22 +30,72 @@ format:
 revealjs-plugins:
   - pointer
 ---
+# {background-image="figures/30/old23-pg_0001.svg" background-size="75%"}
+# {background-image="figures/30/old23-pg_0002.svg" background-size="75%"}
+# {background-image="figures/30/old23-pg_0003.svg" background-size="75%"}
+# {background-image="figures/30/old23-pg_0004.svg" background-size="75%"}
+# {background-image="figures/30/old23-pg_0005.svg" background-size="75%"}
+# {background-image="figures/30/old23-pg_0006.svg" background-size="75%"}
+# {background-image="figures/30/old23-pg_0007.svg" background-size="75%"}
+# {background-image="figures/30/old23-pg_0008.svg" background-size="75%"}
+# {background-image="figures/30/old23-pg_0009.svg" background-size="75%"}
+# {background-image="figures/30/old23-pg_0010.svg" background-size="75%"}
+# {background-image="figures/30/old23-pg_0011.svg" background-size="75%"}
+# DNA to Protein Part 1
+{{< video figures/30/dna2protein-part1.mp4 width=900 >}}
+[RNA-Polymerase reads DNA and creates messenger RNA](https://youtu.be/gG7uCskUOrA) 
 
+# DNA to Protein Part 2
+{{< video figures/30/dna2protein-part2.mp4 width=900 >}}
+[Ribosomes read messenger RNA creating chain of amino acids](https://youtu.be/gG7uCskUOrA) 
+
+# DNA to Protein Part 3
+{{< video figures/30/dna2protein-part3.mp4 width=900 >}}
+[Amino acid chain folds onto itself creating protein!](https://youtu.be/gG7uCskUOrA) 
+
+# {background-image="figures/30/old23-pg_0015.svg" background-size="75%"}
+# {background-image="figures/30/old23-pg_0016.svg" background-size="75%"}
+# {background-image="figures/30/old23-pg_0017.svg" background-size="75%"}
+# {background-image="figures/30/old23-pg_0018.svg" background-size="75%"}
+# {background-image="figures/30/old23-pg_0019.svg" background-size="75%"}
+# {background-image="figures/30/old23-pg_0021.svg" background-size="75%"}
+# {background-image="figures/30/old23-pg_0022.svg" background-size="75%"}
+# {background-image="figures/30/old23-pg_0023.svg" background-size="75%"}
+# {background-image="figures/30/old23-pg_0024.svg" background-size="75%"}
+# {background-image="figures/30/old23-pg_0025.svg" background-size="75%"}
+# {background-image="figures/30/old23-pg_0026.svg" background-size="75%"}
+# {background-image="figures/30/old23-pg_0027.svg" background-size="75%"}
+# {background-image="figures/30/old23-pg_0028.svg" background-size="75%"}
+# Evolution of the Eye
+{{< video figures/30/The-evolution-of-the-human-eye-Joshua-Harvey.mp4 width=900 >}}
+[Something as complex as an eye has development in multiples ways across species.](https://youtu.be/qrKZBh8BL_U) 
+
+
+# {background-image="figures/30/old23-pg_0030.svg" background-size="75%"}
+# {background-image="figures/30/old23-pg_0031.svg" background-size="75%"}
+# {background-image="figures/30/old23-pg_0032.svg" background-size="75%"}
+# {background-image="figures/30/old23-pg_0033.svg" background-size="75%"}
+# {background-image="figures/30/old23-pg_0034.svg" background-size="75%"}
+# {background-image="figures/30/old23-pg_0035.svg" background-size="75%"}
+# {background-image="figures/30/old23-pg_0036.svg" background-size="75%"}
+# {background-image="figures/30/old23-pg_0037.svg" background-size="75%"}
+# {background-image="figures/30/old23-pg_0038.svg" background-size="75%"}
+# {background-image="figures/30/old23-pg_0039.svg" background-size="75%"}
+# {background-image="figures/30/old23-pg_0040.svg" background-size="75%"}
+# {background-image="figures/30/old23-pg_0041.svg" background-size="75%"}
+# {background-image="figures/30/old23-pg_0042.svg" background-size="75%"}
+# {background-image="figures/30/old23-pg_0043.svg" background-size="75%"}
+# {background-image="figures/30/old23-pg_0044.svg" background-size="75%"}
+# {background-image="figures/30/old23-pg_0045.svg" background-size="75%"}
+# {background-image="figures/30/old23-pg_0046.svg" background-size="75%"}
+# {background-image="figures/30/old23-pg_0047.svg" background-size="75%"}
+# {background-image="figures/30/old23-pg_0048.svg" background-size="75%"}
+# {background-image="figures/30/old23-pg_0049.svg" background-size="75%"}
+# {background-image="figures/30/old23-pg_0050.svg" background-size="75%"}
+# {background-image="figures/30/old23-pg_0051.svg" background-size="75%"}
+# {background-image="figures/30/old23-pg_0052.svg" background-size="75%"}
 
 # [30.1 The Cosmic Context for Life](https://openstax.org/books/astronomy-2e/pages/30-1-the-cosmic-context-for-life)
-
-## Subsection 
-
 # [30.2 Astrobiology](https://openstax.org/books/astronomy-2e/pages/30-2-astrobiology)
-
-## Subsection 
-
 # [30.3 Searching for Life beyond Earth](https://openstax.org/books/astronomy-2e/pages/30-3-searching-for-life-beyond-earth)
-
-## Subsection 
-
 # [30.4 The Search for Extraterrestrial Intelligence](https://openstax.org/books/astronomy-2e/pages/30-4-the-search-for-extraterrestrial-intelligence)
-
-## Subsection 
-
-# Summary

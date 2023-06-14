@@ -46,11 +46,70 @@ revealjs-plugins:
 # {background-image="figures/16/old16-pg_0010.svg" background-size="75%"}
 # {background-image="figures/16/old16-pg_0011.svg" background-size="75%"}
 # {background-image="figures/16/old16-pg_0012.svg" background-size="75%"}
-# {background-image="figures/16/old16-pg_0013.svg" background-size="75%"}
+# Compare $F_E$ and $F_G$
+
+
+:::: {.columns}
+::: {.column width="50%"}
+::: {.callout-important icon=false}
+## Electricity
+$$\boxed{F_E=k\frac{q_1 q_2}{r^2}}$$
+$$k=9.0\times10^9\text{Nm}^2/\text{C}^2$$
+$$q \text{ is the object's charge}$$
+::: 
+:::
+::: {.column width="50%"}
+::: {.callout-tip icon=false}
+## Gravity
+$$\boxed{F_G=k\frac{m_1 m_2}{r^2}}$$
+$$G=6.7\times10^{-11}\text{Nm}^2/\text{kg}^2$$
+$$m \text{ is the object's mass}$$
+:::
+:::
+::::
+
+The electric force is similar to the gravitational force.
+
+Charge can be positive or negative, but mass is only positive.
+
 # {background-image="figures/16/old16-pg_0014.svg" background-size="75%"}
 # {background-image="figures/16/old16-pg_0015.svg" background-size="75%"}
 # {background-image="figures/16/old16-pg_0016.svg" background-size="75%"}
-# {background-image="figures/16/old16-pg_0017.svg" background-size="75%"}
+# Fundamental Forces
+
+
+:::: {.columns}
+
+::: {.column width="25%"}
+::: {.callout-note icon=false}
+## Gravity
+![](figures/16/f_grav.svg)
+Binds Stars
+::: 
+:::
+::: {.column width="25%"}
+::: {.callout-note icon=false}
+## Electromagnetism
+![](figures/16/f_EM.svg)
+Binds atoms
+::: 
+:::
+::: {.column width="25%"}
+::: {.callout-note icon=false}
+## Nuclear Strong
+![](figures/16/f_strong.svg)
+Binds the nucleus
+::: 
+:::
+::: {.column width="25%"}
+::: {.callout-note icon=false}
+## Nuclear Weak
+![](figures/16/f_weak.svg)
+Radioactive Decay
+::: 
+:::
+::::
+
 # {background-image="figures/16/old16-pg_0018.svg" background-size="75%"}
 # {background-image="figures/16/old16-pg_0019.svg" background-size="75%"}
 # {background-image="figures/16/old16-pg_0020.svg" background-size="75%"}
@@ -73,6 +132,9 @@ revealjs-plugins:
 # {background-image="figures/16/old16-pg_0037.svg" background-size="75%"}
 # {background-image="figures/16/old16-pg_0038.svg" background-size="75%"}
 # {background-image="figures/16/old16-pg_0039.svg" background-size="75%"}
+# {background-iframe="https://astro.unl.edu/classaction/animations/sunsolarenergy/fusion01.html" background-interactive=true}
+
+
 # {background-image="figures/16/old16-pg_0040.svg" background-size="75%"}
 # {background-image="figures/16/old16-pg_0041.svg" background-size="75%"}
 # {background-image="figures/16/old16-pg_0042.svg" background-size="75%"}
@@ -80,8 +142,65 @@ revealjs-plugins:
 # {background-image="figures/16/old16-pg_0044.svg" background-size="75%"}
 # {background-image="figures/16/old16-pg_0045.svg" background-size="75%"}
 # {background-image="figures/16/old16-pg_0046.svg" background-size="75%"}
+# Cherenkov Radiation
+
+:::: {.columns}
+::: {.column width="85%"}
+::: {.callout-note appearance="minimal"}
+![[Cherenkov radiation from the Advanced Test Reactor at Idaho National Laboratory](https://en.wikipedia.org/wiki/File:Advanced_Test_Reactor.jpg)](figures/16/Advanced_Test_Reactor.jpg){#fig-atr-cherenkov fig-align="center"}
+:::
+:::
+:::: 
+
+# What is a Sonic Boom
+
+
+:::: {.columns}
+
+::: {.column width="60%"}
+::: {.callout-note appearance="minimal"}
+![[Point Source generating spherical wave fronts with phase velocity c. When source speed equals c a sonic boom is visible](https://en.wikipedia.org/wiki/File:Sonicboom_animation.gif)](figures/16/Sonicboom_animation.gif){#fig-sonic-boom fig-align="center"}
+:::
+:::
+::: {.column width="40%"}
+::: {.callout-note appearance="minimal"}
+![[F/A-18 breaking the sound barrier](https://en.wikipedia.org/wiki/File:FA-18_Hornet_breaking_sound_barrier_(7_July_1999)_-_filtered.jpg)](figures/16/640px-FA-18_Hornet_breaking_sound_barrier_(7_July_1999)_-_filtered.jpg){#fig-fa18-sonic-boom fig-align="center"}
+:::
+:::
+
+::::
+
+# How to Make Cherenkov Radiation
+
+:::: {.columns}
+::: {.column width="85%"}
+::: {.callout-note appearance="minimal"}
+![[Charge particles moving across line polarizes atoms. The shifting polarization as the particle moves causes the atoms to emit EM waves.](https://commons.wikimedia.org/wiki/File:Cherenkov_radiation-animation.gif)](figures/16/Cherenkov_radiation-animation.gif){#fig-cherenkov-gif fig-align="center"}
+:::
+:::
+:::: 
+
 # {background-image="figures/16/old16-pg_0047.svg" background-size="75%"}
-# {background-image="figures/16/old16-pg_0048.svg" background-size="75%"}
+# Solar Neutrino Problem {.smaller}
+
+1st detectors saw 1/3 of expected neutrinos from the Sun.
+Turns out neutrinos oscillate between three types of neutrinos
+
+
+:::: {.columns}
+::: {.column width="35%"}
+::: {.callout-note appearance="minimal"}
+![Neutrinos come in three flavors, electron neutrino ($\nu_e$), muon neutrino ($\nu_\mu$), and tau neutrino ($\nu_\tau$)](figures/16/Neutrino-Oscillations.svg){#fig-neutrino-flavors fig-align="center"}
+:::
+:::
+::: {.column width="65%"}
+::: {.callout-note appearance="minimal"}
+![Coupled oscillators have different **modes** of oscillations. Watch the system shift from the left pendulum predominantly oscillating to the right one oscillating.](figures/16/phasing_pendula.gif){#fig-coupled-oscillators fig-align="center"}
+:::
+:::
+::::
+
+
 # {background-image="figures/16/old16-pg_0049.svg" background-size="75%"}
 # {background-image="figures/16/old16-pg_0050.svg" background-size="75%"}
 
