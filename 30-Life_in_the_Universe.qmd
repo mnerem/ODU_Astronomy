@@ -30,12 +30,27 @@ format:
 revealjs-plugins:
   - pointer
 ---
-# {background-image="figures/30/old23-pg_0001.svg" background-size="75%"}
-# {background-image="figures/30/old23-pg_0002.svg" background-size="75%"}
-# {background-image="figures/30/old23-pg_0003.svg" background-size="75%"}
+
 # {background-image="figures/30/old23-pg_0004.svg" background-size="75%"}
+# [30.1 The Cosmic Context for Life](https://openstax.org/books/astronomy-2e/pages/30-1-the-cosmic-context-for-life)
 # {background-image="figures/30/old23-pg_0005.svg" background-size="75%"}
-# {background-image="figures/30/old23-pg_0006.svg" background-size="75%"}
+# CHOPS
+
+All terrestrial life is primarily composed of six elements.
+
+
+::: {.callout-note appearance="minimal"}
+
+| | | |
+|:-:|:-:|:-:|
+| Carbon (4)    | ![](figures/30/Graphite-and-diamond-with-scale.jpg){height=50} | ![](figures/30/800px-Carbon_spectrum_visible.png) |
+| Hydrogen (1)  | ![](figures/30/640px-Hydrogen_discharge_tube.jpg){height=50} | ![](figures/30/800px-Hydrogen_spectrum_visible.png) |
+| Oxygen (8)    | ![](figures/30/Liquid_oxygen_in_a_beaker_4.jpg){height=50} | ![](figures/30/800px-Oxygen_spectrum_visible.png) |
+| Phosphorus (15) | ![](figures/30/Phosphor_rot.jpg){height=50} | ![](figures/30/800px-Phosphorus_spectrum_visible.png) |
+| Sulfur (16)   | ![](figures/30/Sulfur_-_El_Desierto_mine,_San_Pablo_de_Napa,_Daniel_Campos_Province,_Potosí,_Bolivia.jpg){height=50} | ![](figures/30/800px-Sulfur_spectrum_visible.png) |
+
+:::
+
 # {background-image="figures/30/old23-pg_0007.svg" background-size="75%"}
 # {background-image="figures/30/old23-pg_0008.svg" background-size="75%"}
 # {background-image="figures/30/old23-pg_0009.svg" background-size="75%"}
@@ -58,6 +73,7 @@ revealjs-plugins:
 # {background-image="figures/30/old23-pg_0017.svg" background-size="75%"}
 # {background-image="figures/30/old23-pg_0018.svg" background-size="75%"}
 # {background-image="figures/30/old23-pg_0019.svg" background-size="75%"}
+# [30.2 Astrobiology](https://openstax.org/books/astronomy-2e/pages/30-2-astrobiology)
 # {background-image="figures/30/old23-pg_0021.svg" background-size="75%"}
 # {background-image="figures/30/old23-pg_0022.svg" background-size="75%"}
 # {background-image="figures/30/old23-pg_0023.svg" background-size="75%"}
@@ -68,16 +84,37 @@ revealjs-plugins:
 # {background-image="figures/30/old23-pg_0028.svg" background-size="75%"}
 # Evolution of the Eye
 {{< video figures/30/The-evolution-of-the-human-eye-Joshua-Harvey.mp4 width=900 >}}
-[Something as complex as an eye has development in multiples ways across species.](https://youtu.be/qrKZBh8BL_U) 
+[Something as complex as an eye has developed in multiples ways across species.](https://youtu.be/qrKZBh8BL_U) 
 
 
 # {background-image="figures/30/old23-pg_0030.svg" background-size="75%"}
 # {background-image="figures/30/old23-pg_0031.svg" background-size="75%"}
 # {background-image="figures/30/old23-pg_0032.svg" background-size="75%"}
 # {background-image="figures/30/old23-pg_0033.svg" background-size="75%"}
+# [30.3 Searching for Life beyond Earth](https://openstax.org/books/astronomy-2e/pages/30-3-searching-for-life-beyond-earth)
 # {background-image="figures/30/old23-pg_0034.svg" background-size="75%"}
 # {background-image="figures/30/old23-pg_0035.svg" background-size="75%"}
-# {background-image="figures/30/old23-pg_0036.svg" background-size="75%"}
+# CHNOPS on Enceladus
+
+Does Enceladus (a moon of Saturn) have sufficient water and energy for life?
+
+
+:::: {.columns}
+
+::: {.column width="55%"}
+::: {.callout-note appearance="minimal"}
+![[Cassini spacecraft captures images of cryovolcanoes.](https://www.flickr.com/photos/kevinmgill/49728085428/)](figures/30/Enceladus_-_November_21_2009_(49728085428).png){#fig-cryovolcanoe fig-align="center"}
+:::
+:::
+::: {.column width="45%"}
+::: {.callout-note appearance="minimal"}
+![[Recent research shows phosphorus is present on the moon. It is the least abundant of the bio-essential elements.](https://www.nature.com/articles/s41586-023-05987-9)](figures/30/2023-06-14-phosphate-encelaud.png){#fig-nature-phosphorus fig-align="center"}
+:::
+
+:::
+
+::::
+
 # {background-image="figures/30/old23-pg_0037.svg" background-size="75%"}
 # {background-image="figures/30/old23-pg_0038.svg" background-size="75%"}
 # {background-image="figures/30/old23-pg_0039.svg" background-size="75%"}
@@ -86,6 +123,7 @@ revealjs-plugins:
 # {background-image="figures/30/old23-pg_0042.svg" background-size="75%"}
 # {background-image="figures/30/old23-pg_0043.svg" background-size="75%"}
 # {background-image="figures/30/old23-pg_0044.svg" background-size="75%"}
+# [30.4 The Search for Extraterrestrial Intelligence](https://openstax.org/books/astronomy-2e/pages/30-4-the-search-for-extraterrestrial-intelligence)
 # {background-image="figures/30/old23-pg_0045.svg" background-size="75%"}
 # {background-image="figures/30/old23-pg_0046.svg" background-size="75%"}
 # {background-image="figures/30/old23-pg_0047.svg" background-size="75%"}
@@ -95,7 +133,3 @@ revealjs-plugins:
 # {background-image="figures/30/old23-pg_0051.svg" background-size="75%"}
 # {background-image="figures/30/old23-pg_0052.svg" background-size="75%"}
 
-# [30.1 The Cosmic Context for Life](https://openstax.org/books/astronomy-2e/pages/30-1-the-cosmic-context-for-life)
-# [30.2 Astrobiology](https://openstax.org/books/astronomy-2e/pages/30-2-astrobiology)
-# [30.3 Searching for Life beyond Earth](https://openstax.org/books/astronomy-2e/pages/30-3-searching-for-life-beyond-earth)
-# [30.4 The Search for Extraterrestrial Intelligence](https://openstax.org/books/astronomy-2e/pages/30-4-the-search-for-extraterrestrial-intelligence)
