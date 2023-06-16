@@ -34,25 +34,51 @@ revealjs-plugins:
 # {background-image="figures/30/old23-pg_0004.svg" background-size="75%"}
 # [30.1 The Cosmic Context for Life](https://openstax.org/books/astronomy-2e/pages/30-1-the-cosmic-context-for-life)
 # {background-image="figures/30/old23-pg_0005.svg" background-size="75%"}
-# CHOPS
+# Bio-essential elements
 
-All terrestrial life is primarily composed of six elements.
-
-
-::: {.callout-note appearance="minimal"}
 
 | | | |
-|:-:|:-:|:-:|
-| Carbon (4)    | ![](figures/30/Graphite-and-diamond-with-scale.jpg){height=50} | ![](figures/30/800px-Carbon_spectrum_visible.png) |
-| Hydrogen (1)  | ![](figures/30/640px-Hydrogen_discharge_tube.jpg){height=50} | ![](figures/30/800px-Hydrogen_spectrum_visible.png) |
-| Oxygen (8)    | ![](figures/30/Liquid_oxygen_in_a_beaker_4.jpg){height=50} | ![](figures/30/800px-Oxygen_spectrum_visible.png) |
-| Phosphorus (15) | ![](figures/30/Phosphor_rot.jpg){height=50} | ![](figures/30/800px-Phosphorus_spectrum_visible.png) |
-| Sulfur (16)   | ![](figures/30/Sulfur_-_El_Desierto_mine,_San_Pablo_de_Napa,_Daniel_Campos_Province,_Potosí,_Bolivia.jpg){height=50} | ![](figures/30/800px-Sulfur_spectrum_visible.png) |
+|-|-|-|
+| **C**arbon (6)    | ![](figures/30/Graphite-and-diamond-with-scale.jpg){height=50} | ![](figures/30/800px-Carbon_spectrum_visible.png){height=50} |
+| **H**ydrogen (1)  | ![](figures/30/640px-Hydrogen_discharge_tube.jpg){height=50} | ![](figures/30/800px-Hydrogen_spectrum_visible.png){height=50} |
+| **N**itrogen (7)  | ![](figures/30/320px-Fluessiger_Stickstoff.jpg){height=50} | ![](figures/30/800px-Nitrogen_spectrum_visible.png){height=50} |
+| **O**xygen (8)    | ![](figures/30/Liquid_oxygen_in_a_beaker_4.jpg){height=50} | ![](figures/30/800px-Oxygen_spectrum_visible.png){height=50} |
+| **P**hosphorus (15) | ![](figures/30/Phosphor_rot.jpg){height=50} | ![](figures/30/800px-Phosphorus_spectrum_visible.png){height=50} |
+| **S**ulfur (16)   | ![](figures/30/Sulfur_-_El_Desierto_mine,_San_Pablo_de_Napa,_Daniel_Campos_Province,_Potosí,_Bolivia.jpg){height=50} | ![](figures/30/800px-Sulfur_spectrum_visible.png){height=50} |
 
+
+::: {.notes}
+All terrestrial life is primarily composed of six elements.
 :::
 
-# {background-image="figures/30/old23-pg_0007.svg" background-size="75%"}
-# {background-image="figures/30/old23-pg_0008.svg" background-size="75%"}
+# Carbon's four bonds
+Carbon is a **tetravalent** element (has four valence electrons).
+Can form long chains of molecules.
+
+:::: {.columns}
+::: {.column width="95%"}
+::: {.callout-note appearance="minimal"}
+![[An example of an experiment that takes methane diluted in H$_2$ gas to create acetylene.](https://pubs.rsc.org/en/content/articlelanding/2019/ra/c9ra05964d)](figures/30/carbon-chemistry.svg){#fig-CH2-2-C2H2 fig-align="center"}
+:::
+:::
+:::: 
+
+**Organic Compound** - Any chemical composed of carbon-carbon or carbon-hydrogen bonds.
+
+# Allotropes of Carbon
+
+Having four valence electrons means carbon can combine into many different shapes.
+
+:::: {.columns}
+::: {.column width="95%"}
+::: {.callout-note appearance="minimal"}
+![[(A) Diamond (B) Graphite (C) Buckminsterfullerene (D) Carbon nanotube](https://en.wikipedia.org/wiki/File:Eight_Allotropes_of_Carbon.svg)](figures/30/Allotropes_of_Carbon.svg){#fig-allotropes-of-carbon fig-align="center"}
+:::
+:::
+:::: 
+
+**Shape determines function!**
+
 # {background-image="figures/30/old23-pg_0009.svg" background-size="75%"}
 # {background-image="figures/30/old23-pg_0010.svg" background-size="75%"}
 # {background-image="figures/30/old23-pg_0011.svg" background-size="75%"}
