@@ -51,3 +51,4 @@ These slides are in active development. Check again August 2023
 - [28 The Evolution and Distribution of Galaxies](28-The_Evolution_and_Distribution_of_Galaxies.html)
 - [29 The Big Bang](29-The_Big_Bang.html)
 - [30 Life in the Universe](30-Life_in_the_Universe.html)
+- [Astronomy Myths and Misconceptions](https://docs.google.com/presentation/d/1rpJczQa3Fjsq7q46L7qcDE1v0fSr8LKzCYqCsPVVCKg/edit?usp=sharing)

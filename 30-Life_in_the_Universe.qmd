@@ -51,6 +51,9 @@ revealjs-plugins:
 All terrestrial life is primarily composed of six elements.
 :::
 
+## Demo Vacuum Tubes
+
+
 # Carbon's four bonds
 Carbon is a **tetravalent** element (has four valence electrons).
 Can form long chains of molecules.
@@ -142,7 +145,50 @@ Does Enceladus (a moon of Saturn) have sufficient water and energy for life?
 ::::
 
 # {background-image="figures/30/old23-pg_0037.svg" background-size="75%"}
-# {background-image="figures/30/old23-pg_0038.svg" background-size="75%"}
+# Energy Exploration Block
+
+:::: {.columns}
+::: {.column width="85%"}
+::: {.callout-note appearance="minimal"}
+![Imagine a shuttle launched towards the nearest star, Proxima Centauri. 4.2 lightyears away.](figures/30/Shuttle-to-Proxima-Centauri.svg){#fig-shuttle-trip fig-align="center"}
+:::
+:::
+:::: 
+
+- Shuttle Mass $\approx 2\times10^6$kg 
+- Assume ship travels at $70\%$ the speed of light
+
+
+:::: {.columns}
+::: {.column width="50%"}
+
+::: {.fragment .fade-up}
+
+::: {.callout-note icon=false}
+## Travel time: 12 years
+Earth observers: about 17 years
+::: 
+
+
+:::
+:::
+::: {.column width="50%"}
+
+::: {.fragment .fade-up}
+
+::: {.callout-important icon=false}
+## Energy Price: $4.4\times10^{22}$J
+
+[Global Energy 2022: $6.7\times10^{20}$J](https://iea.blob.core.windows.net/assets/830fe099-5530-48f2-a7c1-11f35d510983/WorldEnergyOutlook2022.pdf) 
+::: 
+
+
+:::
+:::
+::::
+
+
+
 # {background-image="figures/30/old23-pg_0039.svg" background-size="75%"}
 # {background-image="figures/30/old23-pg_0040.svg" background-size="75%"}
 # {background-image="figures/30/old23-pg_0041.svg" background-size="75%"}
