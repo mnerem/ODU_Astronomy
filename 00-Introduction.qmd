@@ -44,7 +44,7 @@ revealjs-plugins:
 | **Office**     | OCNPS 221 |
 | **Phone**      | 757-683-3611 |
 | **Email**      | mnerem@odu.edu |
-| **Office Hours** | By appointment |
+| **Office Hours** | W 1pm-3pm |
 
 :::
 
@@ -85,29 +85,19 @@ revealjs-plugins:
 
 # Test  {.smaller}
 
-- Three test and a cumulative final exam
+- Four test though out the semester
 - Your lowest test grade is dropped
 - No late test will be offered
 - Available online for 24 hours
 
-| Test | Chapters | Date |
-|------|----------|------|
-|Test 1| Ch 1-5   | May 26 |
-|Test 2| Ch 6-10  | June 9 |
-|Test 3| Ch 11-14 | June 16  |
-|Final Exam | Cumulative | June 23 |
+| Test  | Chapters | Date |
+|-------|----------|------|
+|Test 1 | Ch 1-4   | Sep 28 |
+|Test 2 | Ch 5-9   | Nov 2 |
+|Test 3 | Ch 10-14 | Dec 5  |
+|Test 4 | Cumulative | Dec 12 |
 
 
-# Course Grade
-
-Link broken
-
-
-# Class Calendar
-
-# Synchronous Course {background-iframe="https://calendar.google.com/calendar/embed?src=c_aaaq91pmjpi4eb9gjj4hpitu5o%40group.calendar.google.com&ctz=America%2FNew_York"}
-
-# Asynchronous Course {background-iframe="https://calendar.google.com/calendar/embed?src=c_09gutgl9ffeda7cs1plas8dnms%40group.calendar.google.com&ctz=America%2FNew_York"}
 
 # Final Thoughts
 

@@ -194,6 +194,20 @@ All other objects, except satellites, orbiting the Sun are "Small Solar-System B
 # [12.5 Planetary Rings (and Enceladus)](https://openstax.org/books/astronomy-2e/pages/12-5-planetary-rings-and-enceladus)
 
 # {background-image="figures/12/old11-pg_0036.svg" background-size="75%"}
+# Who can have rings?
+
+- Rings are not exclusive to giant planets. 
+- In 50 million years Mar's moon Phobo's could become a ring.
+- [The dwarf planet Haumea has a ring system](https://www.nature.com/articles/nature24051?foxtrotcallback=true) 
+  
+:::: {.columns}
+::: {.column width="50%"}
+::: {.callout-note appearance="minimal"}
+![[Haumea's ring discovered through stellar occultation.](https://www.nature.com/articles/nature24051?foxtrotcallback=true)](figures/12/41586_2017_Article_BFnature24051_Fig3_HTML.webp){#fig-haumeas-rings fig-align="center" height=400 rotate=90}
+:::
+:::
+:::: 
+
 # {background-image="figures/12/old11-pg_0024.svg" background-size="75%"}
 # {background-image="figures/12/old11-pg_0025.svg" background-size="75%"}
 # {background-image="figures/12/old11-pg_0038.svg" background-size="75%"}

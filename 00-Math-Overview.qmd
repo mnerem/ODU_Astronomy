@@ -75,8 +75,8 @@ An object's acceleration is **proportional** to the force on it.
 
 :::: {.columns}
 ::: {.column width="85%"}
-- 5kg mass pushed at **10N** accelerates at **2m/s$^2$
-- 5kg mass pushed at **20N** accelerates at **4m/s$^2$
+- 5kg mass pushed at **10N** accelerates at **2m/s$^2$**
+- 5kg mass pushed at **20N** accelerates at **4m/s$^2$**
 :::
 ::: {.column width="15%"}
 $$a=\frac{F}{m}$$
