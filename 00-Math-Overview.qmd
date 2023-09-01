@@ -5,33 +5,9 @@ title-slide-attributes:
     data-background-image: figures/00/DTHalloween.jpg
     data-background-size: cover
     data-background-opacity: "0.5"
-format:
-  revealjs:
-    history: false
-    logo: "Physics Department Logo2.jpg"
-    css: logo.css
-    menu:
-      side: left
-      width: half
-      numbers: false
-      markers: true
-    mouseWheel: true
-    slide-number: c/t 
-    show-slide-number: all
-    preview-links: true
-    chalkboard: true
-    navigation-mode: vertical
-    controls: true
-    controls-tutorial: true
-    transition: convex
-    pointer:
-      pointerSize: 35
-      color: '#00a0e0'
-revealjs-plugins:
-  - pointer
 ---
 
-# Scientific Notation {.smaller}
+# Scientific Notation 
 What is the mass of an object that contains 
 **three hundred-thousand-billion-billion atoms** of carbon. 
 Given that one carbon atom has a mass of 
@@ -104,7 +80,7 @@ $$t\propto\frac{1}{v}$$
 
 ::: {.column width="45%"}
 
-::: {.callout-note}
+::: {.callout-note icon=false}
 # Circle
 
 ![](figures/00/circle-geometry.svg){height=450 fig-align="center"}
@@ -114,7 +90,7 @@ $$t\propto\frac{1}{v}$$
 :::
 ::: {.column width="45%"}
 
-::: {.callout-note}
+::: {.callout-note icon=false}
 # Sphere
 
 ![](figures/00/sphere-geometry.svg){height=450 fig-align="center"}
@@ -152,7 +128,7 @@ The math of right triangles!
 
 Pythagoras’ Theorem: $a^2 + b^2 = c^2$
 
-# Logarithms {.smaller}
+# Logarithms 
 
 Logarithm is the inverse of exponentiation 
 

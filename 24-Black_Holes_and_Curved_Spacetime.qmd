@@ -1,29 +1,6 @@
 
 ---
 title: "24: Black Holes and Curved Spacetime"
-format:
-  revealjs:
-    logo: "Physics Department Logo2.jpg"
-    css: logo.css
-    menu:
-      side: left
-      width: half
-      numbers: true
-      markers: true
-    mouseWheel: true
-    slide-number: c/t 
-    show-slide-number: all
-    preview-links: true
-    chalkboard: true
-    navigation-mode: vertical
-    controls: true
-    controls-tutorial: true
-    transition: convex
-    pointer:
-      pointerSize: 35
-      color: '#00a0e0'
-revealjs-plugins:
-  - pointer
 ---
 
 

@@ -1,0 +1,44 @@
+project:
+  type: website
+
+website:
+  title: "ODU Astronomy"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - about.qmd
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+  revealjs:
+    history: false
+    logo: "./Physics Department Logo2.jpg"
+    css: logo.css
+    theme: [serif, custom.scss]
+    toc: false
+    menu:
+      side: left
+      width: half
+      numbers: false
+      markers: true
+    mouseWheel: true
+    slide-number: c/t 
+    show-slide-number: all
+    smaller: true
+    preview-links: true
+    chalkboard: true
+    navigation-mode: vertical
+    controls: true
+    controls-tutorial: true
+    transition: convex
+    pointer:
+      pointerSize: 35
+      color: '#00a0e0'
+revealjs-plugins:
+  - pointer
+
+

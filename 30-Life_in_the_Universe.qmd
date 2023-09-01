@@ -5,30 +5,6 @@ title-slide-attributes:
     data-background-image: figures/30/b9bd11a51d189891f624108c49bfa0581993be4d.webp
     data-background-size: contain
     data-background-opacity: "0.5"
-format:
-  revealjs:
-    history: false
-    logo: "Physics Department Logo2.jpg"
-    css: logo.css
-    menu:
-      side: left
-      width: half
-      numbers: false
-      markers: true
-    mouseWheel: true
-    slide-number: c/t 
-    show-slide-number: all
-    preview-links: true
-    chalkboard: true
-    navigation-mode: vertical
-    controls: true
-    controls-tutorial: true
-    transition: convex
-    pointer:
-      pointerSize: 35
-      color: '#00a0e0'
-revealjs-plugins:
-  - pointer
 ---
 
 # {background-image="figures/30/old23-pg_0004.svg" background-size="75%"}

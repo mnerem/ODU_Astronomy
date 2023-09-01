@@ -5,30 +5,6 @@ title-slide-attributes:
     data-background-image: figures/00/DTHalloween.jpg
     data-background-size: cover
     data-background-opacity: "0.5"
-format:
-  revealjs:
-    history: false
-    logo: "Physics Department Logo2.jpg"
-    css: logo.css
-    menu:
-      side: left
-      width: half
-      numbers: false
-      markers: true
-    mouseWheel: true
-    slide-number: c/t 
-    show-slide-number: all
-    preview-links: true
-    chalkboard: true
-    navigation-mode: vertical
-    controls: true
-    controls-tutorial: true
-    transition: convex
-    pointer:
-      pointerSize: 35
-      color: '#00a0e0'
-revealjs-plugins:
-  - pointer
 ---
 
 # Instructors Information
